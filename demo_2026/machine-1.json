@@ -1,0 +1,18 @@
+{
+    "python_path": "python",
+    "name": "local",
+    "executor": "local",
+    "scheduler": "shell",
+    "scheduler_env": [],
+    "external_command": "python",
+    "remote_root": null,
+    "machine_capacity": 4,
+    "group_size": 1,
+    "envs": [
+        "export CALYPSO_MLP_CMD='python'"
+    ],
+    "source": [],
+    "module": [],
+    "additional_head_setting": [],
+    "queue": null
+}

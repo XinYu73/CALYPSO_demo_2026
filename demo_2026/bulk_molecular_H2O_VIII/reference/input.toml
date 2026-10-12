@@ -1,0 +1,54 @@
+[CALYPSO]
+SystemName = "Crystal-MLP CALYPSO config"
+Seed = -1           # positive int number to set random seed for REPRODUCIBILITY, negetive to do not set it.
+IType = 3           # "Molecular".
+ICode = 15          # or "MLP" (CHGNET, M3GNET, dp, dpa1, dpa2).
+IAlgo = 2           # or "LPSO" ("GPSO", "LPSO").
+IFit = 1            # or "ENTHALPY" ().
+IDisp = 1           # or "CORE" means the build-in dispatcher by CALYPSO
+                    # rather than third party libraries.
+IRunner = 1  # to be implemented.
+ISim = 1            # or "BCM".
+BlockMode = true    # block or not.
+PickUp = false
+
+[CALYPSO.EVO]
+NBest = 4
+PSOratio = 0 # !!!!!!
+PopSize = 20
+MaxStep = 2
+
+[CALYPSO.OPT]
+JobFlow = ["opt"]
+MLPType = "chgnet"        # MLP: dpa2, m3gnet, chgnet
+MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=true, "on_isolated_atoms"="warn"}    # MLP: "M3GNet-MP-2021.2.8-PES", "MP-2021.2.8-EFS"
+MLPKeepSym = true
+OptAlgo = "LBFGS"         # MLP: LBFGS, BFGS, FIRE
+OptStep = 100               # MLP: similar to NSWs in INCAR
+TrajFile = "traj.traj"    # MLP: trajectory file
+Pstress = 0.001              # MLP: GPa
+Fmax = 0.01                # MLP eV/angstrom
+
+[CALYPSO.DISPATCHER]
+MachineList = ["../../machine-1.json", ]
+TimeInterval = 3
+TmpPath = "BackStage"
+
+[CALYPSO.DESCRIPTOR]
+SimThreshold = 0.01
+
+
+[CALYPSO.GENERATOR]
+FormulaUnit = "{H2O}4"
+VolumeUnit = {H2O=25}
+DistanceOfIon = [["X","H2O"],
+                 ["H2O",1.2]]
+SpaceGroup = [141,141]
+GenerateMethod = "random"
+MoleculesPath = {'H2O'='./H2O.xyz'}
+LatticeMaxAttempts = 10
+OrbitalMaxAttempts = 10
+MaxTryPointEachOrb = 10
+
+
+

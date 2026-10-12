@@ -1,0 +1,58 @@
+[CALYPSO]
+SystemName = "Crystal-MLP CALYPSO config"
+Seed = -1           # positive int number to set random seed for REPRODUCIBILITY,
+                    # negetive to do not set it.
+IType = 4           # or "CRYSTAL".
+ICode = 15          # or "MLP" (CHGNET, M3GNET, dp, dpa1, dpa2).
+IAlgo = 2           # or "LPSO" ("GPSO", "LPSO").
+IFit = 1            # or "ENTHALPY" ().
+IDisp = 1           # or "CORE" means the build-in dispatcher by CALYPSO
+                    # rather than third party libraries.
+
+IRunner = 1  # to be implemented.
+
+ISim = 1            # or "BCM".
+BlockMode = true    # block or not.
+PickUp = false
+
+[CALYPSO.EVO]
+NBest = 4
+PSOratio = 0.4
+PopSize = 10
+MaxStep = 3
+
+[CALYPSO.OPT]
+ElementList = ["Cr", "I"]
+JobFlow = ["opt"]
+
+MLPType = "chgnet"        # MLP: dpa2, m3gnet, chgnet
+MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=true, "on_isolated_atoms"="warn"}    # MLP: "M3GNet-MP-2021.2.8-PES", "MP-2021.2.8-EFS"
+MLPKeepSym = true
+
+OptAlgo = "LBFGS"         # MLP: LBFGS, BFGS, FIRE
+OptStep = 100               # MLP: similar to NSWs in INCAR
+TrajFile = "traj.traj"    # MLP: trajectory file
+Pstress = 0.001              # MLP: GPa
+Fmax = 0.01                # MLP eV/angstrom
+
+[CALYPSO.DISPATCHER]
+# list your resoures here
+MachineList = ["../../machine-1.json", ]
+TimeInterval = 3
+TmpPath = "BackStage"
+
+[CALYPSO.DESCRIPTOR]
+SimThreshold = 0.01
+
+[CALYPSO.GENERATOR]
+FormulaUnit = ["(In2Se3)1",]
+VolumeUnit = {In=8, Se=8}
+DistanceOfIon = [["X",  "In", "Se"],
+                 ["In",  3.6, 3.3],
+                 ["Se",  3.3, 3.0]]
+SpaceGroup = [69,69]
+Thicknesses = [7,]
+Gaps = [15]
+area = 25
+generatemethod = "random"
+

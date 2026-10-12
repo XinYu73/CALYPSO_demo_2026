@@ -1,0 +1,49 @@
+[CALYPSO]
+SystemName = "DEMO"
+Seed = -1
+IType = 1
+ICode = 15
+IAlgo = 1
+IFit = 1
+IDisp = 1
+IRunner = 1  
+ISim = 1
+BlockMode = true
+PickUp = false
+
+[CALYPSO.EVO]
+PSOratio = 0.0
+PopSize = 10
+MaxStep = 20
+
+[CALYPSO.GENERATOR]
+FormulaUnit = ["(LaFeO3)1-4"] 
+VolumeUnit = {La=1, Fe=1, O=1} 
+DistanceOfIon = [["X","La","Fe","O"],
+                 ["La",0,0,0],
+                 ["Fe",0,0,0],
+                 ["O",0,0,0],]
+SpaceGroup = [1]
+PrototypeRatio=1
+# Restriction={8=[8],57=[56],26=[14]}
+[CALYPSO.OPT]
+JobFlow = ["opt"]
+MLPType = "chgnet"
+MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=true, "on_isolated_atoms"="warn"}
+MLPKeepSym = true
+OptAlgo = "FIRE"
+OptStep = 100
+TrajFile = "traj.traj"
+Pstress = 0
+Fmax = 0.1
+
+[CALYPSO.DISPATCHER]
+MachineList = ["../../machine-1.json", ]
+TimeInterval = 3
+TmpPath = "BackStage"
+
+[CALYPSO.DESCRIPTOR]
+SimThreshold = 0.01
+
+
+

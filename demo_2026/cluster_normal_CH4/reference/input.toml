@@ -1,0 +1,62 @@
+[CALYPSO]
+SystemName = "Crystal-MLP CALYPSO config"
+Seed = -1           # positive int number to set random seed for REPRODUCIBILITY,
+                    # negetive to do not set it.
+IType = 2           # or "Cluster".
+ICode = 15         # or "MLP" (CHGNET, M3GNET, dp, dpa1, dpa2).
+IAlgo = 2           # or "LPSO" ("GPSO", "LPSO").
+IFit = 1            # or "ENTHALPY" ().
+IDisp = 1           # or "CORE" means the build-in dispatcher by CALYPSO
+                    # rather than third party libraries.
+
+IRunner = 1  # to be implemented.
+
+ISim = 1            # or "BCM".
+BlockMode = true    # block or not.
+PickUp = false
+
+[CALYPSO.EVO]
+NBest = 4
+PSOratio = 0.4
+PopSize = 10
+MaxStep = 2
+
+[CALYPSO.GENERATOR]
+FormulaUnit = ["(CH4)"]
+VolumeUnit = {C=6, H=1.5}
+DistanceOfIon = [["X",  "C", "H",],
+                 ["C",  1.5, 1.0,],
+                 ["H",  1.0, 0.5,]]
+SpaceGroup = [29, 29]
+Vacancy = [ 15, 15, 15]
+ClusterType = "normal"
+
+[CALYPSO.OPT]
+NumberOfLocalOptim = 0
+DFTInputPath = "."        # INCAR_1, INCAR_2, INCAR_3 POTCAR
+                          # MLP: model.pb model.pt
+ElementList = ["Mg", "Al", "Cu"]
+JobFlow = ["opt"]
+
+MLPType = "chgnet"        # MLP: dpa2, m3gnet, chgnet
+MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=true, "on_isolated_atoms"="warn"}    # MLP: "M3GNet-MP-2021.2.8-PES", "MP-2021.2.8-EFS"
+
+OptAlgo = "FIRE"         # MLP: LBFGS, BFGS, FIRE
+OptStep = 500               # MLP: similar to NSWs in INCAR
+TrajFile = "traj.traj"    # MLP: trajectory file
+Pstress = 0.001              # MLP: GPa
+Fmax = 0.1                # MLP eV/angstrom
+ShareFiles = []
+UploadFiles = []
+DownloadFiles = []
+
+
+[CALYPSO.DISPATCHER]
+# list your resoures here
+MachineList = ["../../machine-1.json"]
+TmpPath = "BackStage"
+
+[CALYPSO.DESCRIPTOR]
+SimThreshold = 0.01
+
+

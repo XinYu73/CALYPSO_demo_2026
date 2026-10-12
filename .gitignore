@@ -1,0 +1,28 @@
+.DS_Store
+
+# Python/local runtime state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# CALYPSO local run products
+demo_2026/.local_run_state/
+**/BackStage/
+**/CALYPSO.logdir/
+**/results/
+**/results[0-9]*/
+
+# Keep the compact archive in Git; the expanded database is many small files.
+demo_2026/bulk_substitute_LaFeO3/MP_EXP_Database/experimental/
+
+# Scheduler/local job logs
+**/job.*.out
+**/job.*.err
+**/*.log
+
+# Temporary scratch files
+*.tmp
+*.swp
+*~
