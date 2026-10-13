@@ -6,7 +6,7 @@
     "scheduler_env": [],
     "external_command": "python",
     "remote_root": null,
-    "machine_capacity": 4,
+    "machine_capacity": 1,
     "group_size": 1,
     "envs": [
         "export CALYPSO_MLP_CMD='python'"

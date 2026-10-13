@@ -16,8 +16,8 @@ PickUp = false
 [CALYPSO.EVO]
 NBest = 4
 PSOratio = 0 # !!!!!!
-PopSize = 20
-MaxStep = 10
+PopSize = 5
+MaxStep = 2
 
 [CALYPSO.OPT]
 JobFlow = ["opt"]
@@ -25,10 +25,10 @@ MLPType = "chgnet"        # MLP: dpa2, m3gnet, chgnet
 MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=false, "on_isolated_atoms"="warn"}    # MLP: "M3GNet-MP-2021.2.8-PES", "MP-2021.2.8-EFS"
 MLPKeepSym = true
 OptAlgo = "FIRE"         # MLP: LBFGS, BFGS, FIRE
-OptStep = 1000               # MLP: similar to NSWs in INCAR
+OptStep = 200               # MLP: similar to NSWs in INCAR
 TrajFile = "traj.traj"    # MLP: trajectory file
 Pstress = 0.001              # MLP: GPa
-Fmax = 0.01               # MLP eV/angstrom
+Fmax = 0.1               # MLP eV/angstrom
 
 [CALYPSO.DISPATCHER]
 MachineList = ["../../machine-1.json", ]

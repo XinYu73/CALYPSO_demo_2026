@@ -18,8 +18,8 @@ PickUp = false
 [CALYPSO.EVO]
 NBest = 4
 PSOratio = 0.4
-PopSize = 10
-MaxStep = 3
+PopSize = 5
+MaxStep = 2
 
 [CALYPSO.OPT]
 ElementList = ["C","Ba", "Br"]
@@ -30,10 +30,10 @@ MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=true, "on_isolated_atoms"="warn"}
 MLPKeepSym = true
 
 OptAlgo = "FIRE"         # MLP: LBFGS, BFGS, FIRE
-OptStep = 500               # MLP: similar to NSWs in INCAR
+OptStep = 200               # MLP: similar to NSWs in INCAR
 TrajFile = "traj.traj"    # MLP: trajectory file
 Pstress = 0.001              # MLP: GPa
-Fmax = 0.01                # MLP eV/angstrom
+Fmax = 0.1                # MLP eV/angstrom
 
 
 [CALYPSO.DISPATCHER]
