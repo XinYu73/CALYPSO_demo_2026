@@ -11,6 +11,7 @@ from ase.io import read, write
 from ase import Atoms
 from ase.calculators.singlepoint import SinglePointCalculator
 from ase.optimize import FIRE
+
 try:
     from ase.filters import UnitCellFilter
     from ase.spacegroup.symmetrize import FixSymmetry
@@ -21,15 +22,22 @@ from chgnet.model import CHGNet
 from chgnet.model import CHGNetCalculator as MLP
 
 chgnet = CHGNet.load(model_name="0.3.0")
-calc = MLP(model=chgnet, **{'check_cuda_mem': False, 'on_isolated_atoms': 'warn', 'stress_weight': 0.006241509125883258})
+calc = MLP(
+    model=chgnet,
+    **{
+        "check_cuda_mem": False,
+        "on_isolated_atoms": "warn",
+        "stress_weight": 0.006241509125883258,
+    },
+)
 
 
 print("Optimization Running with fix Layer Group")
 from ase.constraints import FixConstraint
 from ase.stress import full_3x3_to_voigt_6_stress, voigt_6_to_full_3x3_stress
 import spglib
-                
-    
+
+
 def prep_symmetry(atoms, layer_group_number=None):
     if layer_group_number is not None:
         dataset = layer_group_information[layer_group_number]
@@ -200,16 +208,17 @@ class FixSymmetryLayer(FixConstraint):
 
     def todict(self):
         return {
-            'name': 'FixSymmetryLayer',
-            'kwargs': {
-                'atoms': self.atoms,
-                'symprec': self.symprec,
-                'adjust_positions': self.do_adjust_positions,
-                'adjust_cell': self.do_adjust_cell,
-                'verbose': self.verbose,
+            "name": "FixSymmetryLayer",
+            "kwargs": {
+                "atoms": self.atoms,
+                "symprec": self.symprec,
+                "adjust_positions": self.do_adjust_positions,
+                "adjust_cell": self.do_adjust_cell,
+                "verbose": self.verbose,
             },
         }
-        
+
+
 def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep, layer_group_number=None):
     # pstress: GPa
     # 1 eV/A^3 = 160.21766028 GPa
@@ -224,7 +233,7 @@ def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep, layer_group_number=
 
         atoms = read("caly_ini.xyz")
         atoms.write("POSCAR")
-        atoms.set_constraint(FixSymmetryLayer(atoms,layer_group_number))
+        atoms.set_constraint(FixSymmetryLayer(atoms, layer_group_number))
 
         dis_mtx = atoms.get_all_distances(mic=True)
         row, col = np.diag_indices_from(dis_mtx)
@@ -239,10 +248,13 @@ def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep, layer_group_number=
 
         if min_dis > 0.6:
             atoms.calc = calc
-            aim_stress = 1.0 * pstress* 0.01 * 0.6242
-            ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+            aim_stress = 1.0 * pstress * 0.01 * 0.6242
+            ucf = UnitCellFilter(
+                atoms,
+                scalar_pressure=aim_stress,
+                mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]],
+            )
             ss = SaveState(atoms)
-            
 
             opt = FIRE(ucf, trajectory=mlp_trajname)
             opt.attach(ss, 1, pstress, fmax)
@@ -254,17 +266,19 @@ def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep, layer_group_number=
             atoms.center()
             volume = float(atoms.get_volume())
             force = np.array(atoms.get_forces()).tolist()
-            max_force = np.linalg.norm(np.array(ucf.get_forces()),axis=1).max()
+            max_force = np.linalg.norm(np.array(ucf.get_forces()), axis=1).max()
             energy = float(atoms.get_potential_energy())
-            stress = np.array(atoms.get_stress(voigt=True) * 160.21766028).tolist()    # eV/A^3 to GPa
+            stress = np.array(
+                atoms.get_stress(voigt=True) * 160.21766028
+            ).tolist()  # eV/A^3 to GPa
             enthalpy = energy + pstress * volume * 0.01 * 0.6242
             mlp_opt_state = True
             dis_mtx = atoms.get_all_distances(mic=True)
             row, col = np.diag_indices_from(dis_mtx)
             dis_mtx[row, col] = np.nan
             min_dis = np.nanmin(dis_mtx)
-            if min_dis<0.6 or max_force>fmax:
-                mlp_opt_state=False
+            if min_dis < 0.6 or max_force > fmax:
+                mlp_opt_state = False
                 energy = np.nan
                 stress = [np.nan] * 6
                 enthalpy = np.nan
@@ -294,20 +308,32 @@ def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep, layer_group_number=
         data["opt_setting"]["fmax"] = fmax
         data["opt_setting"]["mlp_opt_state"] = mlp_opt_state
         data["opt_setting"]["time_consuming"] = cost
-        data["opt_setting"]["converge"] = True if np.max(np.abs(force)) <= fmax else False
+        data["opt_setting"]["converge"] = (
+            True if np.max(np.abs(force)) <= fmax else False
+        )
 
         with open("caly_opt.pkl", "wb") as f:
             pickle.dump(data, f)
 
-        opt_atoms = Atoms(symbols=data.pop('symbols'), positions=data.pop('cartpos'), cell=data.pop('lattice'))
-        sg_calc = SinglePointCalculator(opt_atoms, energy=data.pop('energy'), forces=data.pop('force'), stress=data.pop("stress"))
+        opt_atoms = Atoms(
+            symbols=data.pop("symbols"),
+            positions=data.pop("cartpos"),
+            cell=data.pop("lattice"),
+        )
+        sg_calc = SinglePointCalculator(
+            opt_atoms,
+            energy=data.pop("energy"),
+            forces=data.pop("force"),
+            stress=data.pop("stress"),
+        )
         opt_atoms.calc = sg_calc
         opt_atoms.info = data
         write("caly_opt.xyz", opt_atoms)
         write("CONTCAR", opt_atoms)
 
         print("opt done! cost ", cost, " seconds.")
-    
+
+
 class SaveState:
     def __init__(self, atoms):
         self.atoms = atoms
@@ -336,25 +362,36 @@ class SaveState:
         data["pullay_stress"] = pstress
         data["opt_setting"] = {}
         data["opt_setting"]["fmax"] = fmax
-        data["opt_setting"]["converge"] = True if np.max(np.abs(force)) <= fmax else False
+        data["opt_setting"]["converge"] = (
+            True if np.max(np.abs(force)) <= fmax else False
+        )
 
         with open("caly_opt.pkl", "wb") as f:
             pickle.dump(data, f)
 
-        opt_atoms = Atoms(symbols=data.pop('symbols'), positions=data.pop('cartpos'), cell=data.pop('lattice'))
-        sg_calc = SinglePointCalculator(opt_atoms, energy=data.pop('energy'), forces=data.pop('force'), stress=data.pop("stress"))
+        opt_atoms = Atoms(
+            symbols=data.pop("symbols"),
+            positions=data.pop("cartpos"),
+            cell=data.pop("lattice"),
+        )
+        sg_calc = SinglePointCalculator(
+            opt_atoms,
+            energy=data.pop("energy"),
+            forces=data.pop("force"),
+            stress=data.pop("stress"),
+        )
         opt_atoms.calc = sg_calc
         opt_atoms.info = data
 
         write("caly_opt.xyz", opt_atoms)
-        
+
+
 if __name__ == "__main__":
     run_opt(
-        pstress=0.001,    # GPa
+        pstress=0.001,  # GPa
         model="chgnet@0.3.0",
         mlp_trajname="traj.traj",
         fmax=0.01,
         mlp_optstep=1000,
         layer_group_number=None,
     )
-    

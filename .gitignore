@@ -26,3 +26,4 @@ demo_2026/*/run/*.log
 *.tmp
 *.swp
 *~
+temp

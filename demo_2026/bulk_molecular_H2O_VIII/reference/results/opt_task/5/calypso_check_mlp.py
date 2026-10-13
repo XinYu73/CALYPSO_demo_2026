@@ -20,7 +20,7 @@ def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep):
 
     atoms = read("caly_ini.xyz")
     atoms.center()
-    aim_stress = 1.0 * pstress* 0.01 * 0.6242
+    aim_stress = 1.0 * pstress * 0.01 * 0.6242
     lattice = np.array(atoms.get_cell()).tolist()
     position = np.array(atoms.get_positions())
     force = np.empty(position.shape) + np.nan
@@ -51,18 +51,25 @@ def run_opt(pstress, model, mlp_trajname, fmax, mlp_optstep):
     with open("caly_opt.pkl", "wb") as f:
         pickle.dump(data, f)
 
-    opt_atoms = Atoms(symbols=data.pop('symbols'), positions=data.pop('cartpos'), cell=data.pop('lattice'))
-    sg_calc = SinglePointCalculator(opt_atoms, energy=data.pop('energy'), forces=data.pop('force'))
+    opt_atoms = Atoms(
+        symbols=data.pop("symbols"),
+        positions=data.pop("cartpos"),
+        cell=data.pop("lattice"),
+    )
+    sg_calc = SinglePointCalculator(
+        opt_atoms, energy=data.pop("energy"), forces=data.pop("force")
+    )
     opt_atoms.calc = sg_calc
     opt_atoms.info = data
     write("caly_opt.xyz", opt_atoms)
     write("traj.traj", opt_atoms)
 
     print("failed", cost, " seconds for optimizing this structures.")
-    
+
+
 if __name__ == "__main__":
     run_opt(
-        pstress=0.001,    # GPa
+        pstress=0.001,  # GPa
         model="chgnet@0.3.0",
         mlp_trajname="traj.traj",
         fmax=0.01,
