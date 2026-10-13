@@ -38,12 +38,6 @@ Use the conda environment:
 conda activate calypso_dev
 ```
 
-When running commands non-interactively from Codex, prefer the explicit Python path if activation is unreliable:
-
-```bash
-/Users/yuxin/anaconda3/envs/calypso_dev/bin/python
-```
-
 Before running examples, verify:
 
 ```bash
