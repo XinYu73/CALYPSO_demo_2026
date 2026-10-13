@@ -23,7 +23,7 @@ JobFlow = ["opt"]
 MLPType = "chgnet"        # MLP: dpa2, m3gnet, chgnet
 MLPKwargs = {"model"="0.3.0", "check_cuda_mem"=true, "on_isolated_atoms"="warn"}    # MLP: "M3GNet-MP-2021.2.8-PES", "MP-2021.2.8-EFS"
 MLPKeepSym = true
-OptAlgo = "LBFGS"         # MLP: LBFGS, BFGS, FIRE
+OptAlgo = "FIRE"         # MLP: LBFGS, BFGS, FIRE
 OptStep = 100               # MLP: similar to NSWs in INCAR
 TrajFile = "traj.traj"    # MLP: trajectory file
 Pstress = 0.001              # MLP: GPa
