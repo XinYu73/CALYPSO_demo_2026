@@ -1,0 +1,87 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_lattice']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['transformation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_rotation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_positions']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/35/calypso_run_mlp.py:62: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress)
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Start to Optimize Structures using  chgnet@0.3.0
+       Step     Time          Energy          fmax
+LBFGS:    0 08:01:46      -49.283868       18.134418
+LBFGS:    1 08:01:46      -55.243750        3.374823
+LBFGS:    2 08:01:47      -56.419586        2.605032
+LBFGS:    3 08:01:47      -58.482705        4.147542
+LBFGS:    4 08:01:47      -59.013740        1.085954
+LBFGS:    5 08:01:47      -59.456709        0.901443
+LBFGS:    6 08:01:47      -59.890537        0.568165
+LBFGS:    7 08:01:47      -59.990680        0.520589
+LBFGS:    8 08:01:47      -60.037302        0.498178
+LBFGS:    9 08:01:47      -60.057412        0.507100
+LBFGS:   10 08:01:47      -60.072830        0.518064
+LBFGS:   11 08:01:47      -60.086902        0.519871
+LBFGS:   12 08:01:48      -60.119059        0.500917
+LBFGS:   13 08:01:48      -60.174686        0.615285
+LBFGS:   14 08:01:48      -60.246678        0.721844
+LBFGS:   15 08:01:48      -60.320097        0.756519
+LBFGS:   16 08:01:48      -60.395858        0.693578
+LBFGS:   17 08:01:48      -60.467156        0.638385
+LBFGS:   18 08:01:48      -60.530985        0.635873
+LBFGS:   19 08:01:48      -60.591831        0.577437
+LBFGS:   20 08:01:48      -60.648806        0.527868
+LBFGS:   21 08:01:48      -60.700440        0.478193
+LBFGS:   22 08:01:49      -60.746711        0.424940
+LBFGS:   23 08:01:49      -60.789373        0.421000
+LBFGS:   24 08:01:49      -60.829457        0.388709
+LBFGS:   25 08:01:49      -60.866718        0.370608
+LBFGS:   26 08:01:49      -60.901187        0.341864
+LBFGS:   27 08:01:49      -60.932364        0.305920
+LBFGS:   28 08:01:49      -60.960963        0.302572
+LBFGS:   29 08:01:49      -60.987918        0.288591
+LBFGS:   30 08:01:49      -61.014293        0.267860
+LBFGS:   31 08:01:49      -61.038196        0.248187
+LBFGS:   32 08:01:49      -61.060032        0.233587
+LBFGS:   33 08:01:50      -61.079656        0.212300
+LBFGS:   34 08:01:50      -61.097414        0.185757
+LBFGS:   35 08:01:50      -61.112586        0.143112
+LBFGS:   36 08:01:50      -61.125855        0.152579
+LBFGS:   37 08:01:50      -61.137725        0.131779
+LBFGS:   38 08:01:50      -61.148324        0.125702
+LBFGS:   39 08:01:50      -61.156829        0.117154
+LBFGS:   40 08:01:50      -61.165101        0.111278
+LBFGS:   41 08:01:51      -61.170688        0.103331
+LBFGS:   42 08:01:51      -61.173155        0.110660
+LBFGS:   43 08:01:51      -61.175476        0.102860
+LBFGS:   44 08:01:51      -61.177784        0.106655
+LBFGS:   45 08:01:51      -61.181045        0.115958
+LBFGS:   46 08:01:51      -61.187420        0.125877
+LBFGS:   47 08:01:51      -61.191495        0.122514
+LBFGS:   48 08:01:51      -61.194366        0.118315
+LBFGS:   49 08:01:51      -61.196255        0.111285
+LBFGS:   50 08:01:52      -61.199048        0.102688
+LBFGS:   51 08:01:52      -61.209836        0.106268
+LBFGS:   52 08:01:52      -61.223567        0.201642
+LBFGS:   53 08:01:52      -61.246572        0.270440
+LBFGS:   54 08:01:52      -61.272547        0.302899
+LBFGS:   55 08:01:52      -61.297250        0.334473
+LBFGS:   56 08:01:53      -61.319175        0.307296
+LBFGS:   57 08:01:53      -61.340008        0.204987
+LBFGS:   58 08:01:53      -61.351312        0.081195
+LBFGS:   59 08:01:53      -61.352190        0.058951
+LBFGS:   60 08:01:54      -61.352484        0.007275
+opt done! cost  7.7658915519714355  seconds.

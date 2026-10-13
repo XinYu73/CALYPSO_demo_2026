@@ -1,0 +1,8 @@
+ idx   caly_name      formula       enth_per_atom      fitness      volume_per_atom   density   min_dis  spg(0.1)  spgnum(0.1) natom(0.1)
+  0    caly_10         Se3In2          -3.965          -3.965           63.297         2.448     2.554  P3m1          156         5     
+  1    caly_15         Se3In2          -3.951          -3.951           63.626         2.435     2.679  P-3m1         164         5     
+  2    caly_17         Se3In2          -3.922          -3.922           60.958         2.542     2.685  P3m1          156         5     
+  3    caly_6          Se3In2          -3.752          -3.752           56.860         2.725     2.492  P3m1          156         5     
+  4    caly_5          Se3In2          -3.653          -3.653           71.094         2.179     2.709  P3m1          156         5     
+  5    caly_2          Se3In2          -1.091          -1.091           376.563        0.411     5.859  P3m1          156         5     
+  6    caly_13         Se3In2          -1.089          -1.089           634.750        0.244     5.934  P3m1          156         5     

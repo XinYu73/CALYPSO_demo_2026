@@ -1,0 +1,35 @@
+/public/home/mzq001/temp_xinyu_2025/demo/cluster_normal_CH4/reference/results/opt_task/6/calypso_run_mlp.py:233: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[0, 0, 0], [0, 0, 0], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Point Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 20:03:27      -18.549866        4.125662
+FIRE:    1 20:03:27      -19.198019        3.808602
+FIRE:    2 20:03:27      -20.251421        2.955271
+FIRE:    3 20:03:27      -21.347088        2.727152
+FIRE:    4 20:03:27      -22.209223        2.170719
+FIRE:    5 20:03:27      -22.713486        2.447087
+FIRE:    6 20:03:27      -22.920923        3.303390
+FIRE:    7 20:03:27      -23.293346        2.598137
+FIRE:    8 20:03:27      -23.569468        1.070314
+FIRE:    9 20:03:27      -23.364864        1.588716
+FIRE:   10 20:03:27      -23.400541        1.481947
+FIRE:   11 20:03:27      -23.462769        1.289008
+FIRE:   12 20:03:27      -23.536306        1.079882
+FIRE:   13 20:03:27      -23.605803        0.812436
+FIRE:   14 20:03:27      -23.654860        0.657312
+FIRE:   15 20:03:27      -23.682865        0.730398
+FIRE:   16 20:03:27      -23.706209        0.760822
+FIRE:   17 20:03:27      -23.734774        0.633244
+FIRE:   18 20:03:27      -23.760239        0.340377
+FIRE:   19 20:03:27      -23.764290        0.119346
+FIRE:   20 20:03:27      -23.764383        0.116690
+FIRE:   21 20:03:27      -23.764557        0.111630
+FIRE:   22 20:03:27      -23.764799        0.104729
+FIRE:   23 20:03:27      -23.765093        0.096858
+opt done! cost  0.38974881172180176  seconds.

@@ -1,0 +1,84 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_lattice']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['transformation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_rotation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_positions']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/bulk_substitute_LaFeO3/run/results/opt_task/92/calypso_run_mlp.py:62: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress)
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 22:07:49      -73.656242       11.112451
+FIRE:    1 22:07:49      -78.146751        5.820551
+FIRE:    2 22:07:49      -80.254143        3.256927
+FIRE:    3 22:07:49      -80.890320        1.834644
+FIRE:    4 22:07:49      -80.664047        3.087805
+FIRE:    5 22:07:49      -80.773605        2.898559
+FIRE:    6 22:07:49      -80.966370        2.567554
+FIRE:    7 22:07:49      -81.201202        2.077069
+FIRE:    8 22:07:49      -81.418037        1.358135
+FIRE:    9 22:07:49      -81.546692        1.094555
+FIRE:   10 22:07:49      -81.570099        1.389227
+FIRE:   11 22:07:49      -81.577454        1.354348
+FIRE:   12 22:07:49      -81.591385        1.291137
+FIRE:   13 22:07:49      -81.611168        1.245208
+FIRE:   14 22:07:49      -81.635605        1.147296
+FIRE:   15 22:07:50      -81.661827        0.984341
+FIRE:   16 22:07:50      -81.688126        0.946733
+FIRE:   17 22:07:50      -81.712944        0.941557
+FIRE:   18 22:07:50      -81.737709        0.930060
+FIRE:   19 22:07:50      -81.762161        0.907045
+FIRE:   20 22:07:50      -81.786766        0.874259
+FIRE:   21 22:07:50      -81.814651        0.846957
+FIRE:   22 22:07:50      -81.848068        0.796656
+FIRE:   23 22:07:50      -81.888893        0.728349
+FIRE:   24 22:07:50      -81.938202        0.677286
+FIRE:   25 22:07:50      -81.994247        0.635222
+FIRE:   26 22:07:50      -82.051376        0.602033
+FIRE:   27 22:07:50      -82.106064        0.569623
+FIRE:   28 22:07:50      -82.161972        0.595450
+FIRE:   29 22:07:50      -82.230637        0.582174
+FIRE:   30 22:07:50      -82.313004        0.616855
+FIRE:   31 22:07:50      -82.395203        0.646961
+FIRE:   32 22:07:50      -82.479668        0.692293
+FIRE:   33 22:07:50      -82.590492        0.746259
+FIRE:   34 22:07:50      -82.723633        0.737787
+FIRE:   35 22:07:51      -82.876877        0.659205
+FIRE:   36 22:07:51      -83.065865        0.631721
+FIRE:   37 22:07:51      -83.246658        0.570618
+FIRE:   38 22:07:51      -83.430359        0.524209
+FIRE:   39 22:07:51      -83.585709        0.425760
+FIRE:   40 22:07:51      -83.688858        0.442863
+FIRE:   41 22:07:51      -83.743965        0.608720
+FIRE:   42 22:07:51      -83.779518        0.779691
+FIRE:   43 22:07:51      -83.869484        0.612131
+FIRE:   44 22:07:51      -83.958374        0.356939
+FIRE:   45 22:07:51      -83.980652        0.509917
+FIRE:   46 22:07:51      -84.007759        0.324897
+FIRE:   47 22:07:51      -84.023048        0.221394
+FIRE:   48 22:07:51      -84.024872        0.183228
+FIRE:   49 22:07:51      -84.027435        0.178708
+FIRE:   50 22:07:51      -84.029404        0.181753
+FIRE:   51 22:07:51      -84.030540        0.182522
+FIRE:   52 22:07:51      -84.032135        0.175853
+FIRE:   53 22:07:51      -84.034843        0.163146
+FIRE:   54 22:07:51      -84.037796        0.146005
+FIRE:   55 22:07:51      -84.039932        0.126800
+FIRE:   56 22:07:51      -84.041634        0.109818
+FIRE:   57 22:07:52      -84.044258        0.095142
+opt done! cost  2.9853837490081787  seconds.

@@ -1,0 +1,812 @@
+{
+    "calypso-0": {
+        "name": "calypso-0",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2420921,
+        "status": "finished",
+        "local_work_dir": "0",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "0",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/0/calypso-0.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/0/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-1": {
+        "name": "calypso-1",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2420968,
+        "status": "finished",
+        "local_work_dir": "1",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "1",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/1/calypso-1.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/1/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-2": {
+        "name": "calypso-2",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421015,
+        "status": "finished",
+        "local_work_dir": "2",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "2",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/2/calypso-2.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/2/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-3": {
+        "name": "calypso-3",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421397,
+        "status": "finished",
+        "local_work_dir": "3",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "3",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/3/calypso-3.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/3/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-4": {
+        "name": "calypso-4",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421444,
+        "status": "finished",
+        "local_work_dir": "4",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "4",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/4/calypso-4.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/4/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-5": {
+        "name": "calypso-5",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421491,
+        "status": "finished",
+        "local_work_dir": "5",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "5",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/5/calypso-5.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/5/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-6": {
+        "name": "calypso-6",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421538,
+        "status": "finished",
+        "local_work_dir": "6",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "6",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/6/calypso-6.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/6/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-7": {
+        "name": "calypso-7",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421585,
+        "status": "finished",
+        "local_work_dir": "7",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "7",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/7/calypso-7.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/7/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-8": {
+        "name": "calypso-8",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2421633,
+        "status": "finished",
+        "local_work_dir": "8",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "8",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/8/calypso-8.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/8/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-9": {
+        "name": "calypso-9",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422171,
+        "status": "finished",
+        "local_work_dir": "9",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "9",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/9/calypso-9.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/9/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-10": {
+        "name": "calypso-10",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422246,
+        "status": "finished",
+        "local_work_dir": "10",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "10",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/10/calypso-10.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/10/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-11": {
+        "name": "calypso-11",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422293,
+        "status": "finished",
+        "local_work_dir": "11",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "11",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/11/calypso-11.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/11/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-12": {
+        "name": "calypso-12",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422340,
+        "status": "finished",
+        "local_work_dir": "12",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "12",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/12/calypso-12.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/12/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-13": {
+        "name": "calypso-13",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422693,
+        "status": "finished",
+        "local_work_dir": "13",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "13",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/13/calypso-13.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/13/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-14": {
+        "name": "calypso-14",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422769,
+        "status": "finished",
+        "local_work_dir": "14",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "14",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/14/calypso-14.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/14/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-15": {
+        "name": "calypso-15",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422817,
+        "status": "finished",
+        "local_work_dir": "15",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "15",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/15/calypso-15.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/15/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-16": {
+        "name": "calypso-16",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422864,
+        "status": "finished",
+        "local_work_dir": "16",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "16",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/16/calypso-16.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/16/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-17": {
+        "name": "calypso-17",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422912,
+        "status": "finished",
+        "local_work_dir": "17",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "17",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/17/calypso-17.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/17/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-18": {
+        "name": "calypso-18",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2422972,
+        "status": "finished",
+        "local_work_dir": "18",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "18",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/18/calypso-18.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/18/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-19": {
+        "name": "calypso-19",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2423456,
+        "status": "finished",
+        "local_work_dir": "19",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "19",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/19/calypso-19.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/19/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-20": {
+        "name": "calypso-20",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2423588,
+        "status": "finished",
+        "local_work_dir": "20",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "20",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/20/calypso-20.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/20/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-21": {
+        "name": "calypso-21",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2423674,
+        "status": "finished",
+        "local_work_dir": "21",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "21",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/21/calypso-21.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/21/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-22": {
+        "name": "calypso-22",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2424096,
+        "status": "finished",
+        "local_work_dir": "22",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "22",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/22/calypso-22.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/22/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-23": {
+        "name": "calypso-23",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2424143,
+        "status": "finished",
+        "local_work_dir": "23",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "23",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/23/calypso-23.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/23/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-24": {
+        "name": "calypso-24",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2424192,
+        "status": "finished",
+        "local_work_dir": "24",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "24",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/24/calypso-24.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/24/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-25": {
+        "name": "calypso-25",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2424242,
+        "status": "finished",
+        "local_work_dir": "25",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "25",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/25/calypso-25.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/25/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-26": {
+        "name": "calypso-26",
+        "submit_batch": "run_2025-10-16_09-18-28_6e2d73f0",
+        "job_id": 2424328,
+        "status": "finished",
+        "local_work_dir": "26",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "upload_files": [
+            "calypso_check_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_run_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task",
+        "remote_work_dir": "26",
+        "download_files": [
+            "caly_opt.xyz",
+            "traj.traj",
+            "caly_opt.pkl"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/26/calypso-26.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/26/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    }
+}

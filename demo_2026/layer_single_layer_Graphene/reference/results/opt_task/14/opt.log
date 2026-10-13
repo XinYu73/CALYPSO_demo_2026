@@ -1,0 +1,24 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/14/calypso_run_mlp.py:243: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Layer Group
+Start to Optimize Structures using  chgnet@0.3.0
+       Step     Time          Energy          fmax
+LBFGS:    0 09:21:15      -60.076180       16.121685
+LBFGS:    1 09:21:15      -70.922233        3.915024
+LBFGS:    2 09:21:15      -71.743276        3.576805
+LBFGS:    3 09:21:15      -72.650633        2.546704
+LBFGS:    4 09:21:15      -73.007676        2.092533
+LBFGS:    5 09:21:15      -73.374416        1.203681
+LBFGS:    6 09:21:15      -73.473119        0.033557
+LBFGS:    7 09:21:15      -73.473308        0.013515
+LBFGS:    8 09:21:15      -73.473345        0.003247
+opt done! cost  0.5925378799438477  seconds.

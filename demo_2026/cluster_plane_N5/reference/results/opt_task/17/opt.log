@@ -1,0 +1,630 @@
+/public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/17/calypso_run_mlp.py:233: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[0, 0, 0], [0, 0, 0], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Point Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 20:39:33      -37.365062        1.595926
+FIRE:    1 20:39:33      -37.396052        1.299518
+FIRE:    2 20:39:33      -37.429229        1.255128
+FIRE:    3 20:39:33      -37.414721        1.851852
+FIRE:    4 20:39:33      -37.360103        1.949658
+FIRE:    5 20:39:33      -37.273082        2.035325
+FIRE:    6 20:39:33      -37.105773        3.273672
+FIRE:    7 20:39:33      -36.777751        4.064417
+FIRE:    8 20:39:33      -36.017074        5.718896
+FIRE:    9 20:39:33      -34.831912       10.461456
+FIRE:   10 20:39:33      -34.484035        9.946087
+FIRE:   11 20:39:33      -34.788184        8.380410
+FIRE:   12 20:39:33      -34.321521        6.651261
+FIRE:   13 20:39:33      -32.773734       16.661499
+FIRE:   14 20:39:33      -32.769797       18.131805
+FIRE:   15 20:39:33      -33.953437       11.350667
+FIRE:   16 20:39:33      -34.606841        7.923606
+FIRE:   17 20:39:33      -34.998588        7.045221
+FIRE:   18 20:39:33      -35.334739        4.718489
+FIRE:   19 20:39:33      -35.281688        2.941302
+FIRE:   20 20:39:33      -34.776679        2.903865
+FIRE:   21 20:39:33      -33.984797        3.809792
+FIRE:   22 20:39:33      -34.549571        3.675905
+FIRE:   23 20:39:33      -34.590510        5.889326
+FIRE:   24 20:39:33      -34.806392        2.920454
+FIRE:   25 20:39:33      -34.778956        2.889699
+FIRE:   26 20:39:33      -34.738177        2.556757
+FIRE:   27 20:39:33      -34.777438        2.415383
+FIRE:   28 20:39:33      -34.861190        2.918885
+FIRE:   29 20:39:33      -34.852099        4.260494
+FIRE:   30 20:39:33      -34.516402        6.776493
+FIRE:   31 20:39:33      -34.316386        8.662561
+FIRE:   32 20:39:33      -34.144755       10.946600
+FIRE:   33 20:39:33      -33.991977       11.955739
+FIRE:   34 20:39:33      -33.554187       10.048783
+FIRE:   35 20:39:33      -32.498939        9.750058
+FIRE:   36 20:39:33      -30.688384       13.799359
+FIRE:   37 20:39:33      -29.094951       18.327870
+FIRE:   38 20:39:33      -28.699595       21.134283
+FIRE:   39 20:39:33      -28.419093       20.696212
+FIRE:   40 20:39:33      -26.841048       21.559499
+FIRE:   41 20:39:33      -25.896821       23.762039
+FIRE:   42 20:39:33      -26.277022       21.888396
+FIRE:   43 20:39:33      -26.738971       17.610525
+FIRE:   44 20:39:33      -24.926782       16.035893
+FIRE:   45 20:39:33      -27.837844       11.889708
+FIRE:   46 20:39:33      -29.679934        7.335337
+FIRE:   47 20:39:34      -30.702926        5.215760
+FIRE:   48 20:39:34      -31.361648        4.815318
+FIRE:   49 20:39:34      -31.924241        5.064670
+FIRE:   50 20:39:34      -32.554896        5.021316
+FIRE:   51 20:39:34      -33.110553        4.602129
+FIRE:   52 20:39:34      -33.513434        4.114587
+FIRE:   53 20:39:34      -33.943759        5.592332
+FIRE:   54 20:39:34      -34.247371        6.535267
+FIRE:   55 20:39:34      -34.413939        5.949209
+FIRE:   56 20:39:34      -34.465194        4.948096
+FIRE:   57 20:39:34      -34.334121        4.403373
+FIRE:   58 20:39:34      -34.110427        3.983056
+FIRE:   59 20:39:34      -33.813529        3.792609
+FIRE:   60 20:39:34      -33.360076        3.400415
+FIRE:   61 20:39:34      -32.782302        4.790254
+FIRE:   62 20:39:34      -32.377803        5.292491
+FIRE:   63 20:39:34      -32.300635        5.376052
+FIRE:   64 20:39:34      -32.297557        5.104201
+FIRE:   65 20:39:34      -32.456885        5.052363
+FIRE:   66 20:39:34      -32.833560        4.715954
+FIRE:   67 20:39:34      -33.156157        5.147957
+FIRE:   68 20:39:34      -33.621684        5.613042
+FIRE:   69 20:39:34      -34.108584        5.471439
+FIRE:   70 20:39:34      -34.446033        4.749524
+FIRE:   71 20:39:34      -34.682696        3.785248
+FIRE:   72 20:39:34      -34.912261        2.929838
+FIRE:   73 20:39:34      -35.076686        2.216281
+FIRE:   74 20:39:34      -35.152629        2.141316
+FIRE:   75 20:39:34      -35.221591        1.642643
+FIRE:   76 20:39:34      -35.284976        1.413078
+FIRE:   77 20:39:34      -35.346351        2.078822
+FIRE:   78 20:39:34      -35.436851        1.255187
+FIRE:   79 20:39:34      -35.495887        1.929719
+FIRE:   80 20:39:34      -35.572249        1.679490
+FIRE:   81 20:39:34      -35.653827        2.075180
+FIRE:   82 20:39:34      -35.725173        2.287949
+FIRE:   83 20:39:34      -35.824843        2.141272
+FIRE:   84 20:39:34      -35.910522        2.001746
+FIRE:   85 20:39:34      -35.991214        1.701251
+FIRE:   86 20:39:34      -36.091605        1.237128
+FIRE:   87 20:39:34      -36.163367        1.508215
+FIRE:   88 20:39:34      -36.221198        0.894588
+FIRE:   89 20:39:34      -34.760791       12.473195
+FIRE:   90 20:39:34      -36.141406        4.245836
+FIRE:   91 20:39:34      -36.076156        5.170999
+FIRE:   92 20:39:34      -36.187972        2.864021
+FIRE:   93 20:39:34      -36.224696        1.771790
+FIRE:   94 20:39:34      -36.228744        1.467512
+FIRE:   95 20:39:34      -36.234538        0.932845
+FIRE:   96 20:39:34      -36.239200        0.902779
+FIRE:   97 20:39:34      -36.241454        0.864013
+FIRE:   98 20:39:34      -36.242225        0.817516
+FIRE:   99 20:39:34      -36.243594        0.930736
+FIRE:  100 20:39:34      -36.246921        0.919793
+FIRE:  101 20:39:34      -36.252532        0.651741
+FIRE:  102 20:39:34      -36.258510        0.572221
+FIRE:  103 20:39:34      -36.262179        0.498348
+FIRE:  104 20:39:34      -36.264998        0.848026
+FIRE:  105 20:39:34      -36.270885        0.605134
+FIRE:  106 20:39:34      -36.276633        0.262630
+FIRE:  107 20:39:34      -36.279643        0.606929
+FIRE:  108 20:39:34      -36.285697        0.289322
+FIRE:  109 20:39:35      -36.289523        0.633978
+FIRE:  110 20:39:35      -36.295012        0.498164
+FIRE:  111 20:39:35      -36.299163        0.591469
+FIRE:  112 20:39:35      -36.305324        0.463169
+FIRE:  113 20:39:35      -36.307754        0.957318
+FIRE:  114 20:39:35      -36.315795        0.660129
+FIRE:  115 20:39:35      -36.322928        0.731648
+FIRE:  116 20:39:35      -36.326785        0.877941
+FIRE:  117 20:39:35      -36.311549        2.208278
+FIRE:  118 20:39:35      -36.215301        6.027562
+FIRE:  119 20:39:35      -36.330050        1.509494
+FIRE:  120 20:39:35      -36.335177        1.126162
+FIRE:  121 20:39:35      -36.340587        0.925240
+FIRE:  122 20:39:35      -36.341182        0.923266
+FIRE:  123 20:39:35      -36.337825        1.014666
+FIRE:  124 20:39:35      -36.336402        1.206122
+FIRE:  125 20:39:35      -36.339347        0.913356
+FIRE:  126 20:39:35      -36.342704        0.909328
+FIRE:  127 20:39:35      -36.342296        0.904057
+FIRE:  128 20:39:35      -36.340312        0.898733
+FIRE:  129 20:39:35      -36.342589        0.893525
+FIRE:  130 20:39:35      -36.344993        0.889264
+FIRE:  131 20:39:35      -36.342967        0.886676
+FIRE:  132 20:39:35      -36.346416        0.885886
+FIRE:  133 20:39:35      -36.345424        0.891177
+FIRE:  134 20:39:35      -36.348292        0.903341
+FIRE:  135 20:39:35      -36.346007        0.931213
+FIRE:  136 20:39:35      -36.349059        0.964931
+FIRE:  137 20:39:35      -36.351012        1.023833
+FIRE:  138 20:39:35      -36.349360        1.102290
+FIRE:  139 20:39:35      -36.344741        1.187329
+FIRE:  140 20:39:35      -36.343932        1.279825
+FIRE:  141 20:39:35      -36.345866        1.367746
+FIRE:  142 20:39:35      -36.346957        1.452486
+FIRE:  143 20:39:35      -36.343337        1.526923
+FIRE:  144 20:39:35      -36.340167        1.591029
+FIRE:  145 20:39:35      -36.339293        1.649089
+FIRE:  146 20:39:35      -36.335879        1.699160
+FIRE:  147 20:39:35      -36.333903        1.740292
+FIRE:  148 20:39:35      -36.331958        1.775026
+FIRE:  149 20:39:35      -36.329307        1.802995
+FIRE:  150 20:39:35      -36.327655        1.825674
+FIRE:  151 20:39:35      -36.325255        1.844450
+FIRE:  152 20:39:35      -36.323714        1.860069
+FIRE:  153 20:39:35      -36.321574        1.872497
+FIRE:  154 20:39:35      -36.319945        1.881945
+FIRE:  155 20:39:35      -36.317889        1.888554
+FIRE:  156 20:39:35      -36.316291        1.893591
+FIRE:  157 20:39:35      -36.314807        1.898131
+FIRE:  158 20:39:35      -36.313979        1.900148
+FIRE:  159 20:39:35      -36.313220        1.899407
+FIRE:  160 20:39:35      -36.312785        1.898085
+FIRE:  161 20:39:35      -36.312301        1.896945
+FIRE:  162 20:39:35      -36.311881        1.895290
+FIRE:  163 20:39:35      -36.311358        1.892192
+FIRE:  164 20:39:35      -36.310790        1.887727
+FIRE:  165 20:39:35      -36.310382        1.882436
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  166 20:39:35      -36.310122        1.876136
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  167 20:39:35      -36.310035        1.869059
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  168 20:39:35      -36.309966        1.862081
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  169 20:39:35      -36.309844        1.855148
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  170 20:39:35      -36.309707        1.848134
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  171 20:39:35      -36.309489        1.841021
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  172 20:39:35      -36.309276        1.833560
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  173 20:39:35      -36.309131        1.825460
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  174 20:39:35      -36.309104        1.816614
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  175 20:39:35      -36.309234        1.807804
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  176 20:39:35      -36.309436        1.799418
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  177 20:39:35      -36.309619        1.791505
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  178 20:39:35      -36.309741        1.783894
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  179 20:39:35      -36.309775        1.776427
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  180 20:39:35      -36.309764        1.768859
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  181 20:39:35      -36.309791        1.761069
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  182 20:39:35      -36.309855        1.753101
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  183 20:39:35      -36.309958        1.744803
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  184 20:39:35      -36.310100        1.736928
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  185 20:39:35      -36.310267        1.729514
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  186 20:39:35      -36.310451        1.722377
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  187 20:39:35      -36.310641        1.715492
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  188 20:39:35      -36.310824        1.708835
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  189 20:39:35      -36.311004        1.702193
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  190 20:39:35      -36.311191        1.695928
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  191 20:39:35      -36.311416        1.689741
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  192 20:39:35      -36.311645        1.684010
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  193 20:39:36      -36.311877        1.678430
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  194 20:39:36      -36.312083        1.673131
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  195 20:39:36      -36.312278        1.668010
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  196 20:39:36      -36.312453        1.663134
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  197 20:39:36      -36.312640        1.658424
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  198 20:39:36      -36.312835        1.654015
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  199 20:39:36      -36.313048        1.649666
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  200 20:39:36      -36.313277        1.645540
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  201 20:39:36      -36.313502        1.641801
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  202 20:39:36      -36.313716        1.638176
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  203 20:39:36      -36.313914        1.634831
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  204 20:39:36      -36.314109        1.631625
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  205 20:39:36      -36.314281        1.628677
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  206 20:39:36      -36.314448        1.625884
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  207 20:39:36      -36.314601        1.623302
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  208 20:39:36      -36.314750        1.620802
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  209 20:39:36      -36.314879        1.618557
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  210 20:39:36      -36.315017        1.616235
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  211 20:39:36      -36.315135        1.614245
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  212 20:39:36      -36.315253        1.612206
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  213 20:39:36      -36.315349        1.610494
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  214 20:39:36      -36.315455        1.608740
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  215 20:39:36      -36.315555        1.607035
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  216 20:39:36      -36.315642        1.605523
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  217 20:39:36      -36.315730        1.604030
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  218 20:39:36      -36.315810        1.602630
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  219 20:39:36      -36.315886        1.601303
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  220 20:39:36      -36.315963        1.599987
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  221 20:39:36      -36.316028        1.598878
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  222 20:39:36      -36.316089        1.597769
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  223 20:39:36      -36.316157        1.596674
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  224 20:39:36      -36.316222        1.595525
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  225 20:39:36      -36.316272        1.594639
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  226 20:39:36      -36.316329        1.593710
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  227 20:39:36      -36.316375        1.592897
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  228 20:39:36      -36.316428        1.591974
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  229 20:39:36      -36.316478        1.591140
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  230 20:39:36      -36.316520        1.590396
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  231 20:39:36      -36.316558        1.589718
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  232 20:39:36      -36.316596        1.589035
+FIRE:  233 20:39:36      -36.316646        1.588364
+FIRE:  234 20:39:36      -36.316695        1.587815
+FIRE:  235 20:39:36      -36.316756        1.587098
+FIRE:  236 20:39:36      -36.316794        1.586462
+FIRE:  237 20:39:36      -36.316836        1.585872
+FIRE:  238 20:39:36      -36.316890        1.585860
+FIRE:  239 20:39:36      -36.317016        1.585886
+FIRE:  240 20:39:36      -36.317199        1.585523
+FIRE:  241 20:39:36      -36.317386        1.585116
+FIRE:  242 20:39:36      -36.317584        1.584928
+FIRE:  243 20:39:36      -36.317866        1.585309
+FIRE:  244 20:39:36      -36.318301        1.586368
+FIRE:  245 20:39:36      -36.318942        1.587103
+FIRE:  246 20:39:36      -36.319694        1.587171
+FIRE:  247 20:39:36      -36.320464        1.586510
+FIRE:  248 20:39:36      -36.321162        1.585907
+FIRE:  249 20:39:36      -36.321818        1.585306
+FIRE:  250 20:39:36      -36.322467        1.584939
+FIRE:  251 20:39:36      -36.323119        1.584605
+FIRE:  252 20:39:36      -36.323737        1.583986
+FIRE:  253 20:39:36      -36.324294        1.583064
+FIRE:  254 20:39:36      -36.324740        1.581859
+FIRE:  255 20:39:36      -36.325034        1.580766
+FIRE:  256 20:39:36      -36.325206        1.579333
+FIRE:  257 20:39:36      -36.325252        1.578484
+FIRE:  258 20:39:36      -36.325274        1.578940
+FIRE:  259 20:39:36      -36.325427        1.579395
+FIRE:  260 20:39:36      -36.325656        1.579475
+FIRE:  261 20:39:36      -36.325915        1.579349
+FIRE:  262 20:39:36      -36.326179        1.579207
+FIRE:  263 20:39:36      -36.326457        1.579422
+FIRE:  264 20:39:36      -36.326812        1.579731
+FIRE:  265 20:39:36      -36.327266        1.580531
+FIRE:  266 20:39:36      -36.327834        1.580913
+FIRE:  267 20:39:36      -36.328460        1.580792
+FIRE:  268 20:39:36      -36.329097        1.580864
+FIRE:  269 20:39:36      -36.329764        1.580960
+FIRE:  270 20:39:36      -36.330493        1.581473
+FIRE:  271 20:39:36      -36.331359        1.582280
+FIRE:  272 20:39:36      -36.332408        1.584140
+FIRE:  273 20:39:36      -36.333877        1.588116
+FIRE:  274 20:39:36      -36.335803        1.589660
+FIRE:  275 20:39:36      -36.337844        1.589859
+FIRE:  276 20:39:36      -36.339885        1.589447
+FIRE:  277 20:39:36      -36.341899        1.589127
+FIRE:  278 20:39:36      -36.343890        1.588811
+FIRE:  279 20:39:36      -36.345790        1.587523
+FIRE:  280 20:39:36      -36.347590        1.587254
+FIRE:  281 20:39:36      -36.349399        1.587735
+FIRE:  282 20:39:36      -36.351283        1.587628
+FIRE:  283 20:39:36      -36.353164        1.587510
+FIRE:  284 20:39:36      -36.354999        1.586755
+FIRE:  285 20:39:36      -36.356746        1.585961
+FIRE:  286 20:39:36      -36.358413        1.585326
+FIRE:  287 20:39:36      -36.359996        1.584738
+FIRE:  288 20:39:36      -36.361491        1.583985
+FIRE:  289 20:39:36      -36.362887        1.583073
+FIRE:  290 20:39:36      -36.364165        1.582078
+FIRE:  291 20:39:36      -36.365317        1.581020
+FIRE:  292 20:39:36      -36.366321        1.579848
+FIRE:  293 20:39:37      -36.367187        1.578676
+FIRE:  294 20:39:37      -36.367927        1.577994
+FIRE:  295 20:39:37      -36.368594        1.577625
+FIRE:  296 20:39:37      -36.369224        1.576919
+FIRE:  297 20:39:37      -36.369773        1.576569
+FIRE:  298 20:39:37      -36.370284        1.576241
+FIRE:  299 20:39:37      -36.370765        1.575964
+FIRE:  300 20:39:37      -36.371215        1.575681
+FIRE:  301 20:39:37      -36.371638        1.575442
+FIRE:  302 20:39:37      -36.372050        1.575374
+FIRE:  303 20:39:37      -36.372470        1.575608
+FIRE:  304 20:39:37      -36.372928        1.575682
+FIRE:  305 20:39:37      -36.373378        1.575555
+FIRE:  306 20:39:37      -36.373790        1.574910
+FIRE:  307 20:39:37      -36.374122        1.574263
+FIRE:  308 20:39:37      -36.374358        1.573362
+FIRE:  309 20:39:37      -36.374469        1.572442
+FIRE:  310 20:39:37      -36.374438        1.572238
+FIRE:  311 20:39:37      -36.374270        1.572198
+FIRE:  312 20:39:37      -36.373969        1.572050
+FIRE:  313 20:39:37      -36.373519        1.572099
+FIRE:  314 20:39:37      -36.372890        1.572040
+FIRE:  315 20:39:37      -36.372066        1.571972
+FIRE:  316 20:39:37      -36.371047        1.571901
+FIRE:  317 20:39:37      -36.369849        1.571812
+FIRE:  318 20:39:37      -36.368499        1.571713
+FIRE:  319 20:39:37      -36.366996        1.571713
+FIRE:  320 20:39:37      -36.365355        1.571616
+FIRE:  321 20:39:37      -36.363578        1.571709
+FIRE:  322 20:39:37      -36.361686        1.571694
+FIRE:  323 20:39:37      -36.359672        1.571668
+FIRE:  324 20:39:37      -36.357539        1.571630
+FIRE:  325 20:39:37      -36.355361        1.571492
+FIRE:  326 20:39:37      -36.353179        1.571452
+FIRE:  327 20:39:37      -36.351008        1.571408
+FIRE:  328 20:39:37      -36.348819        1.571353
+FIRE:  329 20:39:37      -36.346595        1.571294
+FIRE:  330 20:39:37      -36.344481        1.571329
+FIRE:  331 20:39:37      -36.342521        1.571274
+FIRE:  332 20:39:37      -36.340743        1.571197
+FIRE:  333 20:39:37      -36.339290        1.571236
+FIRE:  334 20:39:37      -36.338340        1.571051
+FIRE:  335 20:39:37      -36.337707        1.571071
+FIRE:  336 20:39:37      -36.337283        1.570998
+FIRE:  337 20:39:37      -36.337039        1.571120
+FIRE:  338 20:39:37      -36.336940        1.571037
+FIRE:  339 20:39:37      -36.336917        1.570959
+FIRE:  340 20:39:37      -36.336917        1.570979
+FIRE:  341 20:39:37      -36.336909        1.570895
+FIRE:  342 20:39:37      -36.336856        1.570913
+FIRE:  343 20:39:37      -36.336772        1.570927
+FIRE:  344 20:39:37      -36.336642        1.570819
+FIRE:  345 20:39:37      -36.336478        1.570792
+FIRE:  346 20:39:37      -36.336299        1.570654
+FIRE:  347 20:39:37      -36.336112        1.570520
+FIRE:  348 20:39:37      -36.335917        1.570484
+FIRE:  349 20:39:37      -36.335765        1.570478
+FIRE:  350 20:39:37      -36.335574        1.570400
+FIRE:  351 20:39:37      -36.335296        1.570374
+FIRE:  352 20:39:37      -36.334895        1.570444
+FIRE:  353 20:39:37      -36.334399        1.570380
+FIRE:  354 20:39:37      -36.333796        1.570304
+FIRE:  355 20:39:37      -36.333056        1.570244
+FIRE:  356 20:39:37      -36.332202        1.570209
+FIRE:  357 20:39:37      -36.331248        1.570409
+FIRE:  358 20:39:37      -36.330184        1.570516
+FIRE:  359 20:39:37      -36.328986        1.570501
+FIRE:  360 20:39:37      -36.327674        1.570374
+FIRE:  361 20:39:37      -36.326324        1.570548
+FIRE:  362 20:39:37      -36.325080        1.570680
+FIRE:  363 20:39:37      -36.324039        1.570589
+FIRE:  364 20:39:37      -36.323131        1.570701
+FIRE:  365 20:39:37      -36.322253        1.570898
+FIRE:  366 20:39:37      -36.321353        1.570979
+FIRE:  367 20:39:37      -36.320457        1.571139
+FIRE:  368 20:39:37      -36.319667        1.571378
+FIRE:  369 20:39:37      -36.319079        1.571396
+FIRE:  370 20:39:37      -36.318667        1.571502
+FIRE:  371 20:39:37      -36.318374        1.571688
+FIRE:  372 20:39:37      -36.318149        1.571884
+FIRE:  373 20:39:37      -36.317969        1.571992
+FIRE:  374 20:39:37      -36.317813        1.572218
+FIRE:  375 20:39:37      -36.317710        1.572219
+FIRE:  376 20:39:37      -36.317641        1.572503
+FIRE:  377 20:39:37      -36.317626        1.572484
+FIRE:  378 20:39:37      -36.317603        1.572552
+FIRE:  379 20:39:37      -36.317573        1.572556
+FIRE:  380 20:39:37      -36.317546        1.572656
+FIRE:  381 20:39:37      -36.317523        1.572843
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  382 20:39:37      -36.317523        1.572841
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  383 20:39:37      -36.317523        1.572855
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  384 20:39:37      -36.317527        1.572783
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  385 20:39:37      -36.317523        1.572837
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  386 20:39:37      -36.317523        1.572900
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  387 20:39:37      -36.317519        1.572980
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  388 20:39:37      -36.317523        1.572875
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  389 20:39:37      -36.317512        1.573000
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  390 20:39:37      -36.317512        1.573033
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  391 20:39:37      -36.317519        1.572980
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  392 20:39:37      -36.317508        1.573153
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  393 20:39:37      -36.317508        1.573133
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  394 20:39:38      -36.317508        1.573133
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  395 20:39:38      -36.317515        1.573049
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  396 20:39:38      -36.317512        1.573074
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  397 20:39:38      -36.317508        1.573118
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  398 20:39:38      -36.317504        1.573189
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  399 20:39:38      -36.317500        1.573257
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  400 20:39:38      -36.317500        1.573248
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  401 20:39:38      -36.317500        1.573252
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  402 20:39:38      -36.317500        1.573268
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  403 20:39:38      -36.317500        1.573291
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  404 20:39:38      -36.317500        1.573232
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  405 20:39:38      -36.317500        1.573285
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  406 20:39:38      -36.317492        1.573347
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  407 20:39:38      -36.317489        1.573415
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  408 20:39:38      -36.317492        1.573396
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  409 20:39:38      -36.317492        1.573390
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  410 20:39:38      -36.317485        1.573488
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  411 20:39:38      -36.317481        1.573601
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  412 20:39:38      -36.317485        1.573509
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  413 20:39:38      -36.317485        1.573533
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  414 20:39:38      -36.317485        1.573561
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  415 20:39:38      -36.317481        1.573588
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  416 20:39:38      -36.317481        1.573625
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  417 20:39:38      -36.317481        1.573568
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  418 20:39:38      -36.317481        1.573612
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  419 20:39:38      -36.317473        1.573765
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  420 20:39:38      -36.317477        1.573720
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  421 20:39:38      -36.317481        1.573666
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  422 20:39:38      -36.317473        1.573720
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  423 20:39:38      -36.317470        1.573782
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  424 20:39:38      -36.317481        1.573625
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  425 20:39:38      -36.317473        1.573681
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  426 20:39:38      -36.317473        1.573740
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  427 20:39:38      -36.317470        1.573791
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  428 20:39:38      -36.317470        1.573840
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  429 20:39:38      -36.317462        1.573890
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  430 20:39:38      -36.317470        1.573830
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  431 20:39:38      -36.317473        1.573771
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+FIRE:  432 20:39:38      -36.317470        1.573804
+FIRE:  433 20:39:38      -36.317473        1.573839
+FIRE:  434 20:39:38      -36.317531        1.573602
+FIRE:  435 20:39:38      -36.317584        1.573334
+FIRE:  436 20:39:38      -36.317924        1.573124
+FIRE:  437 20:39:38      -36.318469        1.572803
+FIRE:  438 20:39:38      -36.319949        1.572898
+FIRE:  439 20:39:38      -36.321769        1.573567
+FIRE:  440 20:39:38      -36.323413        1.574063
+FIRE:  441 20:39:38      -36.324798        1.574945
+FIRE:  442 20:39:38      -36.325290        1.575638
+FIRE:  443 20:39:38      -36.325175        1.580127
+FIRE:  444 20:39:38      -36.325526        1.585144
+FIRE:  445 20:39:38      -36.325965        1.588815
+FIRE:  446 20:39:38      -36.327140        1.595319
+FIRE:  447 20:39:38      -36.329707        1.597781
+FIRE:  448 20:39:38      -36.335891        1.616976
+FIRE:  449 20:39:38      -36.344493        1.623831
+FIRE:  450 20:39:38      -36.353068        1.634120
+FIRE:  451 20:39:38      -36.361617        1.643450
+FIRE:  452 20:39:38      -36.367541        1.652072
+FIRE:  453 20:39:38      -36.367137        1.655779
+FIRE:  454 20:39:38      -36.357081        1.660770
+FIRE:  455 20:39:38      -36.339396        1.657666
+FIRE:  456 20:39:38      -36.318416        1.677449
+FIRE:  457 20:39:38      -36.293090        1.696756
+FIRE:  458 20:39:38      -36.264247        1.721311
+FIRE:  459 20:39:38      -36.224994        1.602196
+FIRE:  460 20:39:38      -36.197970        1.436677
+FIRE:  461 20:39:38      -36.219787        1.258402
+FIRE:  462 20:39:38      -36.269824        0.935330
+FIRE:  463 20:39:38      -36.352511        0.307415
+FIRE:  464 20:39:38      -36.564242        1.414186
+FIRE:  465 20:39:38      -36.439776        2.528623
+FIRE:  466 20:39:38      -36.714332        3.889680
+FIRE:  467 20:39:38      -37.207416        5.041317
+FIRE:  468 20:39:38      -38.055167        5.460735
+FIRE:  469 20:39:38      -38.634990        4.196398
+FIRE:  470 20:39:38      -38.241511        4.653367
+FIRE:  471 20:39:38      -38.022975        7.485476
+FIRE:  472 20:39:38      -37.726405       10.053902
+FIRE:  473 20:39:38      -37.818339        8.490042
+FIRE:  474 20:39:38      -37.827964        5.891704
+FIRE:  475 20:39:38      -36.900981       13.366998
+FIRE:  476 20:39:38      -35.609965       20.597716
+FIRE:  477 20:39:38      -34.964454       25.690941
+FIRE:  478 20:39:38      -35.133861       25.846156
+FIRE:  479 20:39:38      -35.753242       21.529852
+FIRE:  480 20:39:38      -36.412845       15.053765
+FIRE:  481 20:39:38      -36.806849        9.517371
+FIRE:  482 20:39:39      -36.902541        3.312815
+FIRE:  483 20:39:39      -36.542449        3.179512
+FIRE:  484 20:39:39      -36.651534        2.248120
+FIRE:  485 20:39:39      -36.761584        1.559569
+FIRE:  486 20:39:39      -36.843513        1.936610
+FIRE:  487 20:39:39      -36.905871        2.325841
+FIRE:  488 20:39:39      -36.945792        3.133738
+FIRE:  489 20:39:39      -37.010528        3.774872
+FIRE:  490 20:39:39      -37.087314        4.203704
+FIRE:  491 20:39:39      -37.217834        4.790392
+FIRE:  492 20:39:39      -37.431487        5.512870
+FIRE:  493 20:39:39      -37.668563        5.575832
+FIRE:  494 20:39:39      -37.863647        5.199046
+FIRE:  495 20:39:39      -37.837798        3.177578
+FIRE:  496 20:39:39      -36.739722       10.574905
+FIRE:  497 20:39:39      -37.405967        5.697846
+FIRE:  498 20:39:39      -37.806521        1.904417
+FIRE:  499 20:39:39      -37.845531        1.942227
+FIRE:  500 20:39:39      -37.851447        1.810842
+opt done! cost  6.195462226867676  seconds.

@@ -1,0 +1,48 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_lattice']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['transformation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_rotation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_positions']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/bulk_substitute_LaFeO3/run/results/opt_task/24/calypso_run_mlp.py:62: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress)
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 21:56:00      -72.990486        3.901501
+FIRE:    1 21:56:00      -73.245201        3.770939
+FIRE:    2 21:56:00      -73.707748        3.566012
+FIRE:    3 21:56:00      -74.319695        3.211384
+FIRE:    4 21:56:00      -74.996231        2.843299
+FIRE:    5 21:56:00      -75.597404        2.363680
+FIRE:    6 21:56:00      -76.085297        2.077502
+FIRE:    7 21:56:00      -76.476761        1.762518
+FIRE:    8 21:56:01      -76.787987        1.464814
+FIRE:    9 21:56:01      -77.015373        1.137491
+FIRE:   10 21:56:01      -77.183159        0.918369
+FIRE:   11 21:56:01      -77.318733        0.793004
+FIRE:   12 21:56:01      -77.447044        0.642268
+FIRE:   13 21:56:01      -77.553185        0.494673
+FIRE:   14 21:56:01      -77.647522        0.552921
+FIRE:   15 21:56:01      -77.739967        0.518802
+FIRE:   16 21:56:01      -77.821571        0.442125
+FIRE:   17 21:56:01      -77.894699        0.381308
+FIRE:   18 21:56:01      -77.951859        0.122752
+FIRE:   19 21:56:01      -77.953552        0.200257
+FIRE:   20 21:56:01      -77.958359        0.163080
+FIRE:   21 21:56:01      -77.961876        0.089925
+opt done! cost  1.220350742340088  seconds.

@@ -1,0 +1,105 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_CrI3/reference/results/opt_task/24/calypso_run_mlp.py:243: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Layer Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 16:36:25      -11.535796       20.323663
+FIRE:    1 16:36:25      -22.549363       11.246806
+FIRE:    2 16:36:25      -29.340482        7.832237
+FIRE:    3 16:36:25      -34.217912        5.714982
+FIRE:    4 16:36:25      -36.558004        5.073435
+FIRE:    5 16:36:25      -38.025474        4.742004
+FIRE:    6 16:36:25      -38.872337        4.504434
+FIRE:    7 16:36:25      -39.456152        4.155372
+FIRE:    8 16:36:26      -40.066765        3.603279
+FIRE:    9 16:36:26      -40.597322        3.586209
+FIRE:   10 16:36:26      -41.107466        3.581558
+FIRE:   11 16:36:26      -41.639918        3.445042
+FIRE:   12 16:36:26      -42.300924        3.019110
+FIRE:   13 16:36:26      -43.131488        2.783084
+FIRE:   14 16:36:26      -44.163713        2.653440
+FIRE:   15 16:36:26      -45.317932        2.717455
+FIRE:   16 16:36:26      -46.585994        2.972624
+FIRE:   17 16:36:26      -47.739768        2.548047
+FIRE:   18 16:36:26      -48.717218        2.205010
+FIRE:   19 16:36:26      -49.544061        2.097012
+FIRE:   20 16:36:26      -50.217865        1.929107
+FIRE:   21 16:36:26      -50.722281        1.876273
+FIRE:   22 16:36:26      -51.178854        1.729728
+FIRE:   23 16:36:26      -51.625237        1.752153
+FIRE:   24 16:36:26      -52.136343        1.723925
+FIRE:   25 16:36:26      -52.677026        1.447937
+FIRE:   26 16:36:26      -53.159686        1.173067
+FIRE:   27 16:36:26      -53.563771        0.985830
+FIRE:   28 16:36:26      -53.886219        0.795384
+FIRE:   29 16:36:26      -54.140858        0.597088
+FIRE:   30 16:36:26      -54.328346        0.565196
+FIRE:   31 16:36:26      -54.480172        0.606145
+FIRE:   32 16:36:26      -54.599859        0.590958
+FIRE:   33 16:36:26      -54.697167        0.552181
+FIRE:   34 16:36:26      -54.792209        0.560444
+FIRE:   35 16:36:26      -54.907196        0.499777
+FIRE:   36 16:36:26      -55.032352        0.430848
+FIRE:   37 16:36:26      -55.148777        0.387507
+FIRE:   38 16:36:26      -55.230164        0.211149
+FIRE:   39 16:36:26      -55.258896        0.298997
+FIRE:   40 16:36:26      -55.256000        0.318050
+FIRE:   41 16:36:26      -55.276615        0.180440
+FIRE:   42 16:36:26      -55.277646        0.250101
+FIRE:   43 16:36:26      -55.280125        0.215534
+FIRE:   44 16:36:26      -55.283516        0.149940
+FIRE:   45 16:36:26      -55.285867        0.061035
+FIRE:   46 16:36:26      -55.286504        0.094631
+FIRE:   47 16:36:26      -55.286649        0.093165
+FIRE:   48 16:36:26      -55.286908        0.090178
+FIRE:   49 16:36:27      -55.287254        0.085604
+FIRE:   50 16:36:27      -55.287664        0.079359
+FIRE:   51 16:36:27      -55.288094        0.071494
+FIRE:   52 16:36:27      -55.288512        0.062203
+FIRE:   53 16:36:27      -55.288918        0.051984
+FIRE:   54 16:36:27      -55.289354        0.043217
+FIRE:   55 16:36:27      -55.289835        0.049538
+FIRE:   56 16:36:27      -55.290419        0.056935
+FIRE:   57 16:36:27      -55.291135        0.059284
+FIRE:   58 16:36:27      -55.292011        0.054442
+FIRE:   59 16:36:27      -55.293018        0.049516
+FIRE:   60 16:36:27      -55.294147        0.049997
+FIRE:   61 16:36:27      -55.295326        0.047069
+FIRE:   62 16:36:27      -55.296839        0.067425
+FIRE:   63 16:36:27      -55.299174        0.075957
+FIRE:   64 16:36:27      -55.302231        0.052567
+FIRE:   65 16:36:27      -55.305300        0.076481
+FIRE:   66 16:36:27      -55.308360        0.054310
+FIRE:   67 16:36:27      -55.310431        0.028182
+FIRE:   68 16:36:27      -55.310576        0.058076
+FIRE:   69 16:36:27      -55.310827        0.052255
+FIRE:   70 16:36:27      -55.311230        0.042280
+FIRE:   71 16:36:27      -55.311736        0.031177
+FIRE:   72 16:36:27      -55.312299        0.022179
+FIRE:   73 16:36:27      -55.312892        0.019999
+FIRE:   74 16:36:27      -55.313466        0.017433
+FIRE:   75 16:36:27      -55.313971        0.018958
+FIRE:   76 16:36:27      -55.314540        0.020617
+FIRE:   77 16:36:27      -55.315276        0.019283
+FIRE:   78 16:36:27      -55.316183        0.019872
+FIRE:   79 16:36:27      -55.317361        0.018906
+FIRE:   80 16:36:27      -55.318683        0.014278
+FIRE:   81 16:36:27      -55.319798        0.022751
+FIRE:   82 16:36:27      -55.320640        0.025826
+FIRE:   83 16:36:27      -55.321547        0.025671
+FIRE:   84 16:36:27      -55.322354        0.019565
+FIRE:   85 16:36:27      -55.322267        0.038718
+FIRE:   86 16:36:27      -55.322454        0.024298
+FIRE:   87 16:36:27      -55.322528        0.010505
+FIRE:   88 16:36:27      -55.322539        0.010089
+FIRE:   89 16:36:27      -55.322558        0.009285
+opt done! cost  2.1832644939422607  seconds.

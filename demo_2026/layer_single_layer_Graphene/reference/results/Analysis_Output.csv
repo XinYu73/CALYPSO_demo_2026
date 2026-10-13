@@ -1,0 +1,5 @@
+ idx   caly_name      formula       enth_per_atom      fitness      volume_per_atom   density   min_dis  spg(0.1)  spgnum(0.1) natom(0.1)
+  0    caly_12           C8            -9.184          -9.184           39.828         0.501     1.425  P6/mmm        191         2     
+  1    caly_3            C8            -6.546          -6.546           41.705         0.478     1.380  P6/mmm        191         8     
+  2    caly_19           C8            -6.174          -6.174           43.377         0.460     1.365  P6/mmm        191         8     
+  3    caly_18           C8            -6.108          -6.108           38.677         0.516     1.509  P6/mmm        191         8     

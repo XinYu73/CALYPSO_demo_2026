@@ -1,0 +1,35 @@
+/public/home/mzq001/temp_xinyu_2025/demo/cluster_normal_CH4/reference/results/opt_task/17/calypso_run_mlp.py:233: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[0, 0, 0], [0, 0, 0], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Point Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 20:05:30      -21.090494        1.050178
+FIRE:    1 20:05:30      -21.137136        1.141482
+FIRE:    2 20:05:30      -21.222333        0.890975
+FIRE:    3 20:05:30      -21.271188        0.612865
+FIRE:    4 20:05:30      -21.274927        0.607430
+FIRE:    5 20:05:30      -21.282283        0.600883
+FIRE:    6 20:05:30      -21.293107        0.595367
+FIRE:    7 20:05:30      -21.307268        0.599453
+FIRE:    8 20:05:30      -21.325033        0.614066
+FIRE:    9 20:05:30      -21.348079        0.734188
+FIRE:   10 20:05:30      -21.380929        0.799516
+FIRE:   11 20:05:30      -21.427061        0.885336
+FIRE:   12 20:05:30      -21.502363        1.257879
+FIRE:   13 20:05:30      -21.670753        1.826488
+FIRE:   14 20:05:30      -21.959800        1.877099
+FIRE:   15 20:05:30      -22.349758        1.706772
+FIRE:   16 20:05:30      -22.826465        1.624008
+FIRE:   17 20:05:30      -23.352411        1.169966
+FIRE:   18 20:05:30      -23.693229        0.518798
+FIRE:   19 20:05:30      -23.758251        0.373118
+FIRE:   20 20:05:30      -23.760089        0.335265
+FIRE:   21 20:05:31      -23.763032        0.264363
+FIRE:   22 20:05:31      -23.765975        0.173588
+FIRE:   23 20:05:31      -23.767869        0.080154
+opt done! cost  0.39134907722473145  seconds.

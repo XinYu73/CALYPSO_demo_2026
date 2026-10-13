@@ -1,0 +1,127 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_lattice']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['transformation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_rotation_matrix']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_positions']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['std_mapping_to_primitive']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16/calypso_run_mlp.py:62: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress)
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Start to Optimize Structures using  chgnet@0.3.0
+       Step     Time          Energy          fmax
+LBFGS:    0 08:38:36      -77.024359        6.051146
+LBFGS:    1 08:38:36      -78.451588        2.129006
+LBFGS:    2 08:38:37      -78.713306        2.153541
+LBFGS:    3 08:38:37      -80.013703        2.278617
+LBFGS:    4 08:38:37      -81.023748        2.442287
+LBFGS:    5 08:38:37      -82.065556        2.509966
+LBFGS:    6 08:38:37      -83.011539        2.693550
+LBFGS:    7 08:38:37      -83.688373        2.684229
+LBFGS:    8 08:38:37      -84.189785        2.624792
+LBFGS:    9 08:38:37      -84.744657        2.740555
+LBFGS:   10 08:38:37      -85.336182        3.056466
+LBFGS:   11 08:38:37      -85.969203        3.207679
+LBFGS:   12 08:38:38      -86.658653        3.186912
+LBFGS:   13 08:38:38      -85.749133        3.250145
+LBFGS:   14 08:38:38      -86.451735        3.233611
+LBFGS:   15 08:38:38      -87.050273        3.278394
+LBFGS:   16 08:38:38      -87.109373        3.216298
+LBFGS:   17 08:38:38      -87.326766        3.175321
+LBFGS:   18 08:38:38      -85.404148        3.928508
+LBFGS:   19 08:38:38      -84.426807        5.306594
+LBFGS:   20 08:38:38      -84.954453        3.409088
+LBFGS:   21 08:38:38      -84.677188        3.416251
+LBFGS:   22 08:38:39      -84.950768        3.419567
+LBFGS:   23 08:38:39      -85.244154        3.689778
+LBFGS:   24 08:38:39      -84.892151        3.470398
+LBFGS:   25 08:38:39      -84.520884        3.482843
+LBFGS:   26 08:38:39      -85.016549        3.179613
+LBFGS:   27 08:38:39      -85.502899        3.419157
+LBFGS:   28 08:38:39      -85.924835        3.552397
+LBFGS:   29 08:38:39      -86.470596        3.381133
+LBFGS:   30 08:38:39      -86.016670        3.498392
+LBFGS:   31 08:38:39      -85.675477        3.014815
+LBFGS:   32 08:38:40      -86.131913        3.406447
+LBFGS:   33 08:38:40      -86.682450        3.268954
+LBFGS:   34 08:38:40      -86.159729        3.230920
+LBFGS:   35 08:38:40      -85.563140        2.881501
+LBFGS:   36 08:38:40      -86.170204        2.982510
+LBFGS:   37 08:38:40      -86.622276        3.263292
+LBFGS:   38 08:38:40      -86.108016        3.063098
+LBFGS:   39 08:38:40      -86.630981        3.257363
+LBFGS:   40 08:38:40      -87.230210        3.105721
+LBFGS:   41 08:38:40      -86.718529        3.152355
+LBFGS:   42 08:38:41      -86.310410        2.742499
+LBFGS:   43 08:38:41      -86.772568        3.030564
+LBFGS:   44 08:38:41      -87.328668        2.989673
+LBFGS:   45 08:38:41      -86.773850        3.012564
+LBFGS:   46 08:38:41      -86.273353        2.630653
+LBFGS:   47 08:38:41      -86.768120        3.024157
+LBFGS:   48 08:38:41      -87.280907        3.013339
+LBFGS:   49 08:38:41      -86.786651        3.004934
+LBFGS:   50 08:38:41      -86.316840        2.571319
+LBFGS:   51 08:38:41      -86.791122        2.983719
+LBFGS:   52 08:38:42      -87.288101        3.002939
+LBFGS:   53 08:38:42      -86.832611        2.903358
+LBFGS:   54 08:38:42      -86.397385        2.561791
+LBFGS:   55 08:38:42      -86.839088        2.884924
+LBFGS:   56 08:38:42      -87.298515        2.914801
+LBFGS:   57 08:38:42      -86.845573        2.868421
+LBFGS:   58 08:38:42      -86.410469        2.566798
+LBFGS:   59 08:38:42      -86.857521        2.830176
+LBFGS:   60 08:38:42      -87.324463        2.824315
+LBFGS:   61 08:38:42      -86.878548        2.786496
+LBFGS:   62 08:38:43      -86.440865        2.510015
+LBFGS:   63 08:38:43      -86.887733        2.753503
+LBFGS:   64 08:38:43      -87.347069        2.767071
+LBFGS:   65 08:38:43      -86.898453        2.737820
+LBFGS:   66 08:38:43      -86.459565        2.491309
+LBFGS:   67 08:38:43      -86.907234        2.725914
+LBFGS:   68 08:38:43      -87.363426        2.731945
+LBFGS:   69 08:38:43      -86.917099        2.719875
+LBFGS:   70 08:38:43      -86.477585        2.495747
+LBFGS:   71 08:38:44      -86.922196        2.713472
+LBFGS:   72 08:38:44      -87.372994        2.700326
+LBFGS:   73 08:38:44      -86.934609        2.694878
+LBFGS:   74 08:38:44      -86.497330        2.523130
+LBFGS:   75 08:38:44      -86.929009        2.697276
+LBFGS:   76 08:38:44      -87.368614        2.690834
+LBFGS:   77 08:38:44      -86.949898        2.662600
+LBFGS:   78 08:38:44      -86.520684        2.554720
+LBFGS:   79 08:38:45      -86.923958        2.711892
+LBFGS:   80 08:38:45      -87.336403        2.731676
+LBFGS:   81 08:38:45      -86.959244        2.641013
+LBFGS:   82 08:38:45      -86.556985        2.583869
+LBFGS:   83 08:38:45      -86.922081        2.715785
+LBFGS:   84 08:38:45      -87.295348        2.796547
+LBFGS:   85 08:38:45      -86.919861        2.717741
+LBFGS:   86 08:38:45      -86.541422        2.636313
+LBFGS:   87 08:38:45      -86.922127        2.711284
+LBFGS:   88 08:38:45      -87.305579        2.784787
+LBFGS:   89 08:38:46      -86.917679        2.716740
+LBFGS:   90 08:38:46      -86.527018        2.671411
+LBFGS:   91 08:38:46      -86.918030        2.715818
+LBFGS:   92 08:38:46      -87.310522        2.793508
+LBFGS:   93 08:38:46      -86.912148        2.724213
+LBFGS:   94 08:38:46      -86.510386        2.678066
+LBFGS:   95 08:38:46      -86.916123        2.716234
+LBFGS:   96 08:38:46      -87.324293        2.781073
+LBFGS:   97 08:38:46      -86.914933        2.715817
+LBFGS:   98 08:38:46      -86.504229        2.682096
+LBFGS:   99 08:38:47      -86.917313        2.712056
+LBFGS:  100 08:38:47      -87.332510        2.780483
+opt done! cost  10.50359058380127  seconds.

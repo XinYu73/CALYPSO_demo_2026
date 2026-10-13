@@ -1,0 +1,30 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_Graphene/reference/results/opt_task/10/calypso_run_mlp.py:243: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Layer Group
+Start to Optimize Structures using  chgnet@0.3.0
+       Step     Time          Energy          fmax
+LBFGS:    0 09:20:34      -51.319649        2.627733
+LBFGS:    1 09:20:34      -51.945443        2.005506
+LBFGS:    2 09:20:34      -51.612006        3.151407
+LBFGS:    3 09:20:34      -52.240312        0.301738
+LBFGS:    4 09:20:34      -52.244446        0.309569
+LBFGS:    5 09:20:34      -52.252177        0.345488
+LBFGS:    6 09:20:34      -52.300300        0.892237
+LBFGS:    7 09:20:34      -52.286160        0.721790
+LBFGS:    8 09:20:34      -52.289901        1.031889
+LBFGS:    9 09:20:34      -52.284880        0.961423
+LBFGS:   10 09:20:34      -52.302421        0.865557
+LBFGS:   11 09:20:34      -52.310183        0.825985
+LBFGS:   12 09:20:34      -52.350837        0.484606
+LBFGS:   13 09:20:34      -52.369568        0.060549
+LBFGS:   14 09:20:34      -52.370125        0.004509
+opt done! cost  0.667626142501831  seconds.

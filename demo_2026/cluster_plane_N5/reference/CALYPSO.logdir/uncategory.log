@@ -1,0 +1,115 @@
+2025-10-16 20:36:02 | INFO     | root     | Start a new calculation.
+2025-10-16 20:36:02 | INFO     | root     | config file          : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/input.toml
+2025-10-16 20:36:02 | INFO     | root     | reference states file: /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/ref_ene.txt
+2025-10-16 20:36:02 | INFO     | root     | log file             : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/CALYPSO.log
+2025-10-16 20:36:02 | INFO     | root     | log directory        : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/CALYPSO.logdir
+2025-10-16 20:36:03 | WARNING  | Machine  | Executor is 'local', ignore the config None, None, None, and None.
+2025-10-16 20:36:03 | WARNING  | py.warnings | /public/home/mzq001/software/CALYPSO-Python/src/python/calypso/generators/cluster_generator.py:134: UserWarning: Cluster will generated ONLY in these groups: [5, 5].
+  warnings.warn(
+
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:36:13 | INFO     | Shell Scheduler | Job `calypso-0` is submitted into machine:local with job id `3238187`...
+2025-10-16 20:36:13 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 20:36:13 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 20:36:23 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/0` is `FINISHED`
+2025-10-16 20:36:23 | INFO     | Shell Scheduler | Job `calypso-1` is submitted into machine:local with job id `3238247`...
+2025-10-16 20:36:23 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 20:36:23 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 20:36:33 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/1` is `FINISHED`
+2025-10-16 20:36:33 | INFO     | Shell Scheduler | Job `calypso-2` is submitted into machine:local with job id `3238319`...
+2025-10-16 20:36:34 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 20:36:34 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 20:36:44 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/2` is `FINISHED`
+2025-10-16 20:36:44 | INFO     | Shell Scheduler | Job `calypso-3` is submitted into machine:local with job id `3238380`...
+2025-10-16 20:36:44 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 20:36:44 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 20:36:54 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/3` is `FINISHED`
+2025-10-16 20:36:54 | INFO     | Shell Scheduler | Job `calypso-4` is submitted into machine:local with job id `3238439`...
+2025-10-16 20:36:54 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 20:36:54 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 20:37:04 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/4` is `FINISHED`
+2025-10-16 20:37:04 | INFO     | Shell Scheduler | Job `calypso-5` is submitted into machine:local with job id `3238834`...
+2025-10-16 20:37:05 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 20:37:05 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 20:37:15 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/5` is `FINISHED`
+2025-10-16 20:37:15 | INFO     | Shell Scheduler | Job `calypso-6` is submitted into machine:local with job id `3238894`...
+2025-10-16 20:37:15 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 20:37:15 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 20:37:25 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/6` is `FINISHED`
+2025-10-16 20:37:25 | INFO     | Shell Scheduler | Job `calypso-7` is submitted into machine:local with job id `3238953`...
+2025-10-16 20:37:25 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 20:37:26 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 20:37:36 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/7` is `FINISHED`
+2025-10-16 20:37:36 | INFO     | Shell Scheduler | Job `calypso-8` is submitted into machine:local with job id `3239013`...
+2025-10-16 20:37:36 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 20:37:36 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 20:37:46 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/8` is `FINISHED`
+2025-10-16 20:37:46 | INFO     | Shell Scheduler | Job `calypso-9` is submitted into machine:local with job id `3239075`...
+2025-10-16 20:37:46 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 20:37:46 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 20:37:56 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/9` is `FINISHED`
+2025-10-16 20:38:03 | WARNING  | py.warnings | /public/home/mzq001/software/CALYPSO-Python/src/python/calypso/generators/cluster_generator.py:134: UserWarning: Cluster will generated ONLY in these groups: [5, 5].
+  warnings.warn(
+
+2025-10-16 20:38:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:03 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:04 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:04 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:04 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:04 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:04 | INFO     | ClusterGenerator | Try to generate structure with N5 in point group count 5 with fortran method
+2025-10-16 20:38:06 | INFO     | Shell Scheduler | Job `calypso-10` is submitted into machine:local with job id `3239670`...
+2025-10-16 20:38:06 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 20:38:07 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 20:38:17 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/10` is `FINISHED`
+2025-10-16 20:38:17 | INFO     | Shell Scheduler | Job `calypso-11` is submitted into machine:local with job id `3239733`...
+2025-10-16 20:38:17 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 20:38:17 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 20:38:27 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/11` is `FINISHED`
+2025-10-16 20:38:27 | INFO     | Shell Scheduler | Job `calypso-12` is submitted into machine:local with job id `3239794`...
+2025-10-16 20:38:27 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 20:38:27 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 20:38:37 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/12` is `FINISHED`
+2025-10-16 20:38:37 | INFO     | Shell Scheduler | Job `calypso-13` is submitted into machine:local with job id `3239856`...
+2025-10-16 20:38:38 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 20:38:38 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 20:38:48 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 20:38:48 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 20:38:48 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 20:38:58 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/13` is `FINISHED`
+2025-10-16 20:38:58 | INFO     | Shell Scheduler | Job `calypso-14` is submitted into machine:local with job id `3239971`...
+2025-10-16 20:38:59 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/14` is `RUNNING`
+2025-10-16 20:38:59 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/14` is `RUNNING`
+2025-10-16 20:39:09 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/14` is `FINISHED`
+2025-10-16 20:39:09 | INFO     | Shell Scheduler | Job `calypso-15` is submitted into machine:local with job id `3240366`...
+2025-10-16 20:39:09 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 20:39:09 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 20:39:19 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/15` is `FINISHED`
+2025-10-16 20:39:19 | INFO     | Shell Scheduler | Job `calypso-16` is submitted into machine:local with job id `3240425`...
+2025-10-16 20:39:19 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/16` is `RUNNING`
+2025-10-16 20:39:19 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/16` is `RUNNING`
+2025-10-16 20:39:29 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/16` is `FINISHED`
+2025-10-16 20:39:29 | INFO     | Shell Scheduler | Job `calypso-17` is submitted into machine:local with job id `3240490`...
+2025-10-16 20:39:30 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/17` is `RUNNING`
+2025-10-16 20:39:30 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/17` is `RUNNING`
+2025-10-16 20:39:40 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/17` is `FINISHED`
+2025-10-16 20:39:40 | INFO     | Shell Scheduler | Job `calypso-18` is submitted into machine:local with job id `3240549`...
+2025-10-16 20:39:40 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/18` is `RUNNING`
+2025-10-16 20:39:40 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/18` is `RUNNING`
+2025-10-16 20:39:50 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/18` is `FINISHED`
+2025-10-16 20:39:50 | INFO     | Shell Scheduler | Job `calypso-19` is submitted into machine:local with job id `3240609`...
+2025-10-16 20:39:50 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/19` is `RUNNING`
+2025-10-16 20:39:51 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/19` is `RUNNING`
+2025-10-16 20:40:01 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/cluster_plane_N5/reference/results/opt_task/19` is `FINISHED`
+2025-10-16 20:40:11 | INFO     | root     | CALYPSO DONE!

@@ -1,0 +1,54 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/0/calypso_run_mlp.py:243: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Layer Group
+Start to Optimize Structures using  chgnet@0.3.0
+       Step     Time          Energy          fmax
+LBFGS:    0 09:46:45      -15.240855        2.347755
+LBFGS:    1 09:46:45      -15.475306        2.377156
+LBFGS:    2 09:46:45      -14.109368        2.286141
+LBFGS:    3 09:46:45      -12.864245        1.936177
+LBFGS:    4 09:46:45      -11.814575        1.656538
+LBFGS:    5 09:46:45      -10.918341        1.359706
+LBFGS:    6 09:46:45      -10.201530        1.125450
+LBFGS:    7 09:46:45       -9.578116        1.071822
+LBFGS:    8 09:46:45       -9.004366        1.046804
+LBFGS:    9 09:46:45       -8.473527        0.977664
+LBFGS:   10 09:46:45       -8.027162        0.884871
+LBFGS:   11 09:46:45       -7.611285        0.843029
+LBFGS:   12 09:46:45       -7.218727        0.767726
+LBFGS:   13 09:46:45       -6.862653        0.695370
+LBFGS:   14 09:46:45       -6.541325        0.616567
+LBFGS:   15 09:46:45       -6.300880        0.470084
+LBFGS:   16 09:46:45       -6.124088        0.391379
+LBFGS:   17 09:46:45       -5.968737        0.333302
+LBFGS:   18 09:46:45       -5.833333        0.336095
+LBFGS:   19 09:46:45       -5.728423        0.309631
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   20 09:46:45       -5.654977        0.287591
+Structure graph_id=None has 2 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   21 09:46:45       -5.615745        0.285972
+Structure graph_id=None has 2 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   22 09:46:45       -5.614282        0.288414
+Structure graph_id=None has 2 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   23 09:46:45       -5.615774        0.290093
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   24 09:46:45       -5.568613        0.245954
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   25 09:46:46       -5.524989        0.201580
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   26 09:46:46       -5.490631        0.155197
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   27 09:46:46       -5.464221        0.105293
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   28 09:46:46       -5.453587        0.009558
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+opt done! cost  0.3051431179046631  seconds.

@@ -1,0 +1,8 @@
+/public/home/mzq001/temp_xinyu_2025/demo/cluster_normal_CH4/reference/results/opt_task/8/calypso_run_mlp.py:263: UserWarning: The minimum distance of two atoms is 0.5896436169094, too close.
+  warnings.warn(f"The minimum distance of two atoms is {min_dis}, too close.")
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Point Group
+Start to Optimize Structures using  chgnet@0.3.0
+opt done! cost  0.009986400604248047  seconds.

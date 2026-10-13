@@ -1,0 +1,570 @@
+
+============================================================
+ _______  _______  _              _______  _______  _______
+(  ____ \(  ___  )( \   |\     /|(  ____ )(  ____ \(  ___  )
+| (    \/| (   ) || (   ( \   / )| (    )|| (    \/| (   ) |
+| |      | (___) || |    \ (_) / | (____)|| (_____ | |   | |
+| |      |  ___  || |     \   /  |  _____)(_____  )| |   | |
+| |      | (   ) || |      ) (   | (            ) || |   | |
+| (____/\| )   ( || (____/\| |   | )      /\____) || (___) |
+(_______/|/     \|(_______/\_/   |/       \_______)(_______)
+============================================================
+Version=10.0.1
+
+2025-10-16 08:33:32 | INFO     | root     | Start a new calculation.
+2025-10-16 08:33:32 | INFO     | root     | config file          : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/input.toml
+2025-10-16 08:33:32 | INFO     | root     | reference states file: /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/ref_ene.txt
+2025-10-16 08:33:32 | INFO     | root     | log file             : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/CALYPSO.log
+2025-10-16 08:33:32 | INFO     | root     | log directory        : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/CALYPSO.logdir
+2025-10-16 08:33:33 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:33 | INFO     | Generator | random generated 0-th structures: H4O8Fe4
+2025-10-16 08:33:33 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:33 | INFO     | Generator | random generated 1-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 2-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 3-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 4-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 5-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 6-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 7-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 8-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 9-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:34 | INFO     | Generator | random generated 10-th structures: H4O8Fe4
+2025-10-16 08:33:34 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 11-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 12-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 13-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 14-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 15-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 16-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 17-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 18-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 19-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 20-th structures: H4O8Fe4
+2025-10-16 08:33:35 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:35 | INFO     | Generator | random generated 21-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 22-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 23-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 24-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 25-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 26-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 27-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 28-th structures: H4O8Fe4
+2025-10-16 08:33:36 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:33:36 | INFO     | Generator | random generated 29-th structures: H4O8Fe4
+2025-10-16 08:33:43 | INFO     | Orchestrator | len(results)=0
+2025-10-16 08:33:43 | INFO     | Shell Scheduler | Job `calypso-0` is submitted into machine:local with job id `2392691`...
+2025-10-16 08:33:43 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0` is `running`
+2025-10-16 08:33:44 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0` is `running`
+2025-10-16 08:33:53 | INFO     | Orchestrator | len(results)=0
+2025-10-16 08:33:54 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0` is `running`
+2025-10-16 08:33:54 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0` is `running`
+2025-10-16 08:34:03 | INFO     | Orchestrator | len(results)=0
+2025-10-16 08:34:04 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0` is `finished`
+2025-10-16 08:34:04 | INFO     | Shell Scheduler | Job `calypso-1` is submitted into machine:local with job id `2393216`...
+2025-10-16 08:34:04 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1` is `running`
+2025-10-16 08:34:04 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1` is `running`
+2025-10-16 08:34:13 | INFO     | Orchestrator | len(results)=0
+2025-10-16 08:34:15 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1` is `running`
+2025-10-16 08:34:15 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1` is `running`
+2025-10-16 08:34:23 | INFO     | Orchestrator | len(results)=1
+2025-10-16 08:34:25 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1` is `finished`
+2025-10-16 08:34:25 | INFO     | Shell Scheduler | Job `calypso-2` is submitted into machine:local with job id `2393302`...
+2025-10-16 08:34:25 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/2` is `running`
+2025-10-16 08:34:25 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/2` is `running`
+2025-10-16 08:34:33 | INFO     | Orchestrator | len(results)=1
+2025-10-16 08:34:35 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/2` is `finished`
+2025-10-16 08:34:35 | INFO     | Shell Scheduler | Job `calypso-3` is submitted into machine:local with job id `2393349`...
+2025-10-16 08:34:35 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3` is `running`
+2025-10-16 08:34:35 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3` is `running`
+2025-10-16 08:34:43 | INFO     | Orchestrator | len(results)=2
+2025-10-16 08:34:46 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3` is `running`
+2025-10-16 08:34:46 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3` is `running`
+2025-10-16 08:34:53 | INFO     | Orchestrator | len(results)=3
+2025-10-16 08:34:56 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3` is `finished`
+2025-10-16 08:34:56 | INFO     | Shell Scheduler | Job `calypso-4` is submitted into machine:local with job id `2393435`...
+2025-10-16 08:34:56 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4` is `running`
+2025-10-16 08:34:56 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4` is `running`
+2025-10-16 08:35:03 | INFO     | Orchestrator | len(results)=3
+2025-10-16 08:35:06 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4` is `running`
+2025-10-16 08:35:07 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4` is `running`
+2025-10-16 08:35:13 | INFO     | Orchestrator | len(results)=4
+2025-10-16 08:35:17 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4` is `finished`
+2025-10-16 08:35:17 | INFO     | Shell Scheduler | Job `calypso-5` is submitted into machine:local with job id `2393860`...
+2025-10-16 08:35:17 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5` is `running`
+2025-10-16 08:35:17 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5` is `running`
+2025-10-16 08:35:23 | INFO     | Orchestrator | len(results)=4
+2025-10-16 08:35:27 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5` is `running`
+2025-10-16 08:35:27 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5` is `running`
+2025-10-16 08:35:33 | INFO     | Orchestrator | len(results)=5
+2025-10-16 08:35:37 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5` is `finished`
+2025-10-16 08:35:37 | INFO     | Shell Scheduler | Job `calypso-6` is submitted into machine:local with job id `2393946`...
+2025-10-16 08:35:37 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/6` is `running`
+2025-10-16 08:35:38 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/6` is `running`
+2025-10-16 08:35:43 | INFO     | Orchestrator | len(results)=5
+2025-10-16 08:35:48 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/6` is `finished`
+2025-10-16 08:35:48 | INFO     | Shell Scheduler | Job `calypso-7` is submitted into machine:local with job id `2393995`...
+2025-10-16 08:35:48 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7` is `running`
+2025-10-16 08:35:48 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7` is `running`
+2025-10-16 08:35:53 | INFO     | Orchestrator | len(results)=6
+2025-10-16 08:35:58 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7` is `running`
+2025-10-16 08:35:58 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7` is `running`
+2025-10-16 08:36:03 | INFO     | Orchestrator | len(results)=7
+2025-10-16 08:36:08 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7` is `finished`
+2025-10-16 08:36:08 | INFO     | Shell Scheduler | Job `calypso-8` is submitted into machine:local with job id `2394572`...
+2025-10-16 08:36:09 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/8` is `running`
+2025-10-16 08:36:09 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/8` is `running`
+2025-10-16 08:36:13 | INFO     | Orchestrator | len(results)=7
+2025-10-16 08:36:19 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/8` is `finished`
+2025-10-16 08:36:19 | INFO     | Shell Scheduler | Job `calypso-9` is submitted into machine:local with job id `2394619`...
+2025-10-16 08:36:19 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9` is `running`
+2025-10-16 08:36:19 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9` is `running`
+2025-10-16 08:36:23 | INFO     | Orchestrator | len(results)=8
+2025-10-16 08:36:29 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9` is `running`
+2025-10-16 08:36:29 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9` is `running`
+2025-10-16 08:36:33 | INFO     | Orchestrator | len(results)=9
+2025-10-16 08:36:39 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9` is `finished`
+2025-10-16 08:36:39 | INFO     | Shell Scheduler | Job `calypso-10` is submitted into machine:local with job id `2394707`...
+2025-10-16 08:36:40 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10` is `running`
+2025-10-16 08:36:40 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10` is `running`
+2025-10-16 08:36:43 | INFO     | Orchestrator | len(results)=9
+2025-10-16 08:36:50 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10` is `running`
+2025-10-16 08:36:50 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10` is `running`
+2025-10-16 08:36:53 | INFO     | Orchestrator | len(results)=10
+2025-10-16 08:37:00 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10` is `finished`
+2025-10-16 08:37:00 | INFO     | Shell Scheduler | Job `calypso-11` is submitted into machine:local with job id `2394794`...
+2025-10-16 08:37:00 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11` is `running`
+2025-10-16 08:37:01 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11` is `running`
+2025-10-16 08:37:03 | INFO     | Orchestrator | len(results)=10
+2025-10-16 08:37:11 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11` is `running`
+2025-10-16 08:37:11 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11` is `running`
+2025-10-16 08:37:13 | INFO     | Orchestrator | len(results)=11
+2025-10-16 08:37:21 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11` is `finished`
+2025-10-16 08:37:21 | INFO     | Shell Scheduler | Job `calypso-12` is submitted into machine:local with job id `2395228`...
+2025-10-16 08:37:21 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/12` is `running`
+2025-10-16 08:37:21 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/12` is `running`
+2025-10-16 08:37:23 | INFO     | Orchestrator | len(results)=11
+2025-10-16 08:37:31 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/12` is `finished`
+2025-10-16 08:37:31 | INFO     | Shell Scheduler | Job `calypso-13` is submitted into machine:local with job id `2395275`...
+2025-10-16 08:37:31 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13` is `running`
+2025-10-16 08:37:32 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13` is `running`
+2025-10-16 08:37:33 | INFO     | Orchestrator | len(results)=12
+2025-10-16 08:37:42 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13` is `running`
+2025-10-16 08:37:42 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13` is `running`
+2025-10-16 08:37:43 | INFO     | Orchestrator | len(results)=13
+2025-10-16 08:37:52 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13` is `finished`
+2025-10-16 08:37:52 | INFO     | Shell Scheduler | Job `calypso-14` is submitted into machine:local with job id `2395361`...
+2025-10-16 08:37:52 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14` is `running`
+2025-10-16 08:37:52 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14` is `running`
+2025-10-16 08:37:53 | INFO     | Orchestrator | len(results)=13
+2025-10-16 08:38:03 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14` is `running`
+2025-10-16 08:38:03 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14` is `running`
+2025-10-16 08:38:03 | INFO     | Orchestrator | len(results)=14
+2025-10-16 08:38:13 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14` is `finished`
+2025-10-16 08:38:13 | INFO     | Shell Scheduler | Job `calypso-15` is submitted into machine:local with job id `2395940`...
+2025-10-16 08:38:13 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15` is `running`
+2025-10-16 08:38:13 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15` is `running`
+2025-10-16 08:38:13 | INFO     | Orchestrator | len(results)=14
+2025-10-16 08:38:23 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15` is `running`
+2025-10-16 08:38:23 | INFO     | Orchestrator | len(results)=15
+2025-10-16 08:38:23 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15` is `running`
+2025-10-16 08:38:33 | INFO     | Orchestrator | len(results)=15
+2025-10-16 08:38:33 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15` is `finished`
+2025-10-16 08:38:33 | INFO     | Shell Scheduler | Job `calypso-16` is submitted into machine:local with job id `2396027`...
+2025-10-16 08:38:34 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16` is `running`
+2025-10-16 08:38:34 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16` is `running`
+2025-10-16 08:38:43 | INFO     | Orchestrator | len(results)=15
+2025-10-16 08:38:44 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16` is `running`
+2025-10-16 08:38:44 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16` is `running`
+2025-10-16 08:38:53 | INFO     | Orchestrator | len(results)=16
+2025-10-16 08:38:54 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16` is `finished`
+2025-10-16 08:38:54 | INFO     | Shell Scheduler | Job `calypso-17` is submitted into machine:local with job id `2396113`...
+2025-10-16 08:38:54 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17` is `running`
+2025-10-16 08:38:55 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17` is `running`
+2025-10-16 08:39:03 | INFO     | Orchestrator | len(results)=16
+2025-10-16 08:39:05 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17` is `running`
+2025-10-16 08:39:05 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17` is `running`
+2025-10-16 08:39:13 | INFO     | Orchestrator | len(results)=17
+2025-10-16 08:39:15 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17` is `finished`
+2025-10-16 08:39:15 | INFO     | Shell Scheduler | Job `calypso-18` is submitted into machine:local with job id `2396536`...
+2025-10-16 08:39:15 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18` is `running`
+2025-10-16 08:39:15 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18` is `running`
+2025-10-16 08:39:23 | INFO     | Orchestrator | len(results)=17
+2025-10-16 08:39:25 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18` is `running`
+2025-10-16 08:39:26 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18` is `running`
+2025-10-16 08:39:33 | INFO     | Orchestrator | len(results)=18
+2025-10-16 08:39:36 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18` is `finished`
+2025-10-16 08:39:36 | INFO     | Shell Scheduler | Job `calypso-19` is submitted into machine:local with job id `2396622`...
+2025-10-16 08:39:36 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/19` is `running`
+2025-10-16 08:39:36 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/19` is `running`
+2025-10-16 08:39:43 | INFO     | Orchestrator | len(results)=18
+2025-10-16 08:39:46 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/19` is `finished`
+2025-10-16 08:39:46 | INFO     | Shell Scheduler | Job `calypso-20` is submitted into machine:local with job id `2396669`...
+2025-10-16 08:39:46 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20` is `running`
+2025-10-16 08:39:46 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20` is `running`
+2025-10-16 08:39:53 | INFO     | Orchestrator | len(results)=19
+2025-10-16 08:39:57 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20` is `running`
+2025-10-16 08:39:57 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20` is `running`
+2025-10-16 08:40:03 | INFO     | Orchestrator | len(results)=20
+2025-10-16 08:40:07 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20` is `finished`
+2025-10-16 08:40:07 | INFO     | Shell Scheduler | Job `calypso-21` is submitted into machine:local with job id `2397252`...
+2025-10-16 08:40:07 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21` is `running`
+2025-10-16 08:40:07 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21` is `running`
+2025-10-16 08:40:13 | INFO     | Orchestrator | len(results)=20
+2025-10-16 08:40:17 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21` is `running`
+2025-10-16 08:40:18 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21` is `running`
+2025-10-16 08:40:23 | INFO     | Orchestrator | len(results)=21
+2025-10-16 08:40:28 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21` is `finished`
+2025-10-16 08:40:28 | INFO     | Shell Scheduler | Job `calypso-22` is submitted into machine:local with job id `2397338`...
+2025-10-16 08:40:28 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22` is `running`
+2025-10-16 08:40:28 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22` is `running`
+2025-10-16 08:40:33 | INFO     | Orchestrator | len(results)=21
+2025-10-16 08:40:38 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22` is `running`
+2025-10-16 08:40:38 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22` is `running`
+2025-10-16 08:40:43 | INFO     | Orchestrator | len(results)=22
+2025-10-16 08:40:48 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22` is `finished`
+2025-10-16 08:40:48 | INFO     | Shell Scheduler | Job `calypso-23` is submitted into machine:local with job id `2397431`...
+2025-10-16 08:40:48 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23` is `running`
+2025-10-16 08:40:49 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23` is `running`
+2025-10-16 08:40:53 | INFO     | Orchestrator | len(results)=22
+2025-10-16 08:40:59 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23` is `running`
+2025-10-16 08:40:59 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23` is `running`
+2025-10-16 08:41:03 | INFO     | Orchestrator | len(results)=23
+2025-10-16 08:41:09 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23` is `finished`
+2025-10-16 08:41:09 | INFO     | Shell Scheduler | Job `calypso-24` is submitted into machine:local with job id `2397866`...
+2025-10-16 08:41:09 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24` is `running`
+2025-10-16 08:41:09 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24` is `running`
+2025-10-16 08:41:13 | INFO     | Orchestrator | len(results)=23
+2025-10-16 08:41:20 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24` is `running`
+2025-10-16 08:41:20 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24` is `running`
+2025-10-16 08:41:23 | INFO     | Orchestrator | len(results)=24
+2025-10-16 08:41:30 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24` is `finished`
+2025-10-16 08:41:30 | INFO     | Shell Scheduler | Job `calypso-25` is submitted into machine:local with job id `2397952`...
+2025-10-16 08:41:30 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25` is `running`
+2025-10-16 08:41:30 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25` is `running`
+2025-10-16 08:41:33 | INFO     | Orchestrator | len(results)=24
+2025-10-16 08:41:40 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25` is `running`
+2025-10-16 08:41:41 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25` is `running`
+2025-10-16 08:41:43 | INFO     | Orchestrator | len(results)=25
+2025-10-16 08:41:51 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25` is `finished`
+2025-10-16 08:41:51 | INFO     | Shell Scheduler | Job `calypso-26` is submitted into machine:local with job id `2398039`...
+2025-10-16 08:41:51 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26` is `running`
+2025-10-16 08:41:51 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26` is `running`
+2025-10-16 08:41:53 | INFO     | Orchestrator | len(results)=25
+2025-10-16 08:42:01 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26` is `running`
+2025-10-16 08:42:01 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26` is `running`
+2025-10-16 08:42:03 | INFO     | Orchestrator | len(results)=26
+2025-10-16 08:42:11 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26` is `finished`
+2025-10-16 08:42:11 | INFO     | Shell Scheduler | Job `calypso-27` is submitted into machine:local with job id `2398617`...
+2025-10-16 08:42:11 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27` is `running`
+2025-10-16 08:42:12 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27` is `running`
+2025-10-16 08:42:13 | INFO     | Orchestrator | len(results)=26
+2025-10-16 08:42:22 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27` is `running`
+2025-10-16 08:42:22 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27` is `running`
+2025-10-16 08:42:23 | INFO     | Orchestrator | len(results)=27
+2025-10-16 08:42:32 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27` is `finished`
+2025-10-16 08:42:32 | INFO     | Shell Scheduler | Job `calypso-28` is submitted into machine:local with job id `2398703`...
+2025-10-16 08:42:32 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28` is `running`
+2025-10-16 08:42:32 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28` is `running`
+2025-10-16 08:42:33 | INFO     | Orchestrator | len(results)=27
+2025-10-16 08:42:43 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28` is `running`
+2025-10-16 08:42:43 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28` is `running`
+2025-10-16 08:42:43 | INFO     | Orchestrator | len(results)=28
+2025-10-16 08:42:53 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28` is `finished`
+2025-10-16 08:42:53 | INFO     | Shell Scheduler | Job `calypso-29` is submitted into machine:local with job id `2398789`...
+2025-10-16 08:42:53 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/29` is `running`
+2025-10-16 08:42:53 | INFO     | Orchestrator | len(results)=28
+2025-10-16 08:43:03 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/29` is `running`
+2025-10-16 08:43:03 | INFO     | Orchestrator | len(results)=29
+2025-10-16 08:43:13 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/29` is `finished`
+2025-10-16 08:43:13 | INFO     | Orchestrator | len(results)=29
+2025-10-16 08:43:14 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:14 | INFO     | Generator | random generated 30-th structures: H4O8Fe4
+2025-10-16 08:43:14 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 31-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 32-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+---------------------------------------------------------------------------------------------
+          You have searched 30 structures across 1 formulas.
+          Currently, the lowest energy structure has a value of -6.9060 eV (using EBH if available),
+          space group Pnma_62, located at /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25
+---------------------------------------------------------------------------------------------
+
+Idx   Name          Formula         EBH(eV/atom)    Enthalpy(eV/atom)    Fitness         Volume(A^3/atom)     Density(g/cm^3)      SpaceGroup      MinDistance(A) 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1     caly_25       H4O8Fe4         nan             -6.9060              -6.9060         9.0208               4.0889               Pnma_62         1.0360         
+2     caly_28       H4O8Fe4         nan             -6.8034              -6.8034         11.1354              3.3124               Pnma_62         0.9856         
+3     caly_17       H4O8Fe4         nan             -6.7636              -6.7636         12.0940              3.0499               Pnma_62         0.9847         
+4     caly_12       H4O8Fe4         nan             -6.4103              -6.4103         13.0426              2.8281               Pnma_62         0.9830         
+
+2025-10-16 08:43:15 | INFO     | Generator | random generated 33-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 34-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 35-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 36-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 37-th structures: H4O8Fe4
+2025-10-16 08:43:15 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:15 | INFO     | Generator | random generated 38-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 39-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 40-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 41-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 42-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 43-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 44-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 45-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 46-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 47-th structures: H4O8Fe4
+2025-10-16 08:43:16 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:16 | INFO     | Generator | random generated 48-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 49-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 50-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 51-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 52-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 53-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 54-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 55-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 56-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:17 | INFO     | Generator | random generated 57-th structures: H4O8Fe4
+2025-10-16 08:43:17 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:18 | INFO     | Generator | random generated 58-th structures: H4O8Fe4
+2025-10-16 08:43:18 | INFO     | CrystalGenerator | Try to generate structure with (Fe)4(O)4{OH}4 in spacegroup 62 with random method
+2025-10-16 08:43:18 | INFO     | Generator | random generated 59-th structures: H4O8Fe4
+2025-10-16 08:43:23 | INFO     | Shell Scheduler | Job `calypso-30` is submitted into machine:local with job id `2399235`...
+2025-10-16 08:43:23 | INFO     | Shell Scheduler | Job `calypso-30` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/30` is `running`
+2025-10-16 08:43:23 | INFO     | Shell Scheduler | Job `calypso-30` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/30` is `running`
+2025-10-16 08:43:25 | INFO     | Orchestrator | len(results)=0
+2025-10-16 08:43:33 | INFO     | Shell Scheduler | Job `calypso-30` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/30` is `finished`
+2025-10-16 08:43:33 | INFO     | Shell Scheduler | Job `calypso-31` is submitted into machine:local with job id `2399282`...
+2025-10-16 08:43:33 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31` is `running`
+2025-10-16 08:43:34 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31` is `running`
+2025-10-16 08:43:35 | INFO     | Orchestrator | len(results)=0
+2025-10-16 08:43:44 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31` is `running`
+2025-10-16 08:43:44 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31` is `running`
+2025-10-16 08:43:45 | INFO     | Orchestrator | len(results)=1
+2025-10-16 08:43:54 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31` is `finished`
+2025-10-16 08:43:54 | INFO     | Shell Scheduler | Job `calypso-32` is submitted into machine:local with job id `2399369`...
+2025-10-16 08:43:54 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32` is `running`
+2025-10-16 08:43:54 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32` is `running`
+2025-10-16 08:43:55 | INFO     | Orchestrator | len(results)=1
+2025-10-16 08:44:05 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32` is `running`
+2025-10-16 08:44:05 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32` is `running`
+2025-10-16 08:44:05 | INFO     | Orchestrator | len(results)=2
+2025-10-16 08:44:15 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32` is `finished`
+2025-10-16 08:44:15 | INFO     | Shell Scheduler | Job `calypso-33` is submitted into machine:local with job id `2399949`...
+2025-10-16 08:44:15 | INFO     | Orchestrator | len(results)=2
+2025-10-16 08:44:15 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33` is `running`
+2025-10-16 08:44:15 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33` is `running`
+2025-10-16 08:44:25 | INFO     | Orchestrator | len(results)=3
+2025-10-16 08:44:25 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33` is `running`
+2025-10-16 08:44:26 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33` is `running`
+2025-10-16 08:44:35 | INFO     | Orchestrator | len(results)=3
+2025-10-16 08:44:36 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33` is `finished`
+2025-10-16 08:44:36 | INFO     | Shell Scheduler | Job `calypso-34` is submitted into machine:local with job id `2400035`...
+2025-10-16 08:44:36 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34` is `running`
+2025-10-16 08:44:36 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34` is `running`
+2025-10-16 08:44:45 | INFO     | Orchestrator | len(results)=3
+2025-10-16 08:44:46 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34` is `running`
+2025-10-16 08:44:46 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34` is `running`
+2025-10-16 08:44:55 | INFO     | Orchestrator | len(results)=4
+2025-10-16 08:44:56 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34` is `finished`
+2025-10-16 08:44:56 | INFO     | Shell Scheduler | Job `calypso-35` is submitted into machine:local with job id `2400122`...
+2025-10-16 08:44:56 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35` is `running`
+2025-10-16 08:44:57 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35` is `running`
+2025-10-16 08:45:05 | INFO     | Orchestrator | len(results)=4
+2025-10-16 08:45:07 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35` is `running`
+2025-10-16 08:45:07 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35` is `running`
+2025-10-16 08:45:15 | INFO     | Orchestrator | len(results)=5
+2025-10-16 08:45:17 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35` is `finished`
+2025-10-16 08:45:17 | INFO     | Shell Scheduler | Job `calypso-36` is submitted into machine:local with job id `2400547`...
+2025-10-16 08:45:17 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36` is `running`
+2025-10-16 08:45:17 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36` is `running`
+2025-10-16 08:45:25 | INFO     | Orchestrator | len(results)=5
+2025-10-16 08:45:28 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36` is `running`
+2025-10-16 08:45:28 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36` is `running`
+2025-10-16 08:45:35 | INFO     | Orchestrator | len(results)=6
+2025-10-16 08:45:38 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36` is `finished`
+2025-10-16 08:45:38 | INFO     | Shell Scheduler | Job `calypso-37` is submitted into machine:local with job id `2400646`...
+2025-10-16 08:45:38 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37` is `running`
+2025-10-16 08:45:38 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37` is `running`
+2025-10-16 08:45:45 | INFO     | Orchestrator | len(results)=6
+2025-10-16 08:45:48 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37` is `running`
+2025-10-16 08:45:49 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37` is `running`
+2025-10-16 08:45:55 | INFO     | Orchestrator | len(results)=7
+2025-10-16 08:45:59 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37` is `finished`
+2025-10-16 08:45:59 | INFO     | Shell Scheduler | Job `calypso-38` is submitted into machine:local with job id `2400732`...
+2025-10-16 08:45:59 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38` is `running`
+2025-10-16 08:45:59 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38` is `running`
+2025-10-16 08:46:05 | INFO     | Orchestrator | len(results)=7
+2025-10-16 08:46:09 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38` is `running`
+2025-10-16 08:46:09 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38` is `running`
+2025-10-16 08:46:15 | INFO     | Orchestrator | len(results)=8
+2025-10-16 08:46:19 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38` is `finished`
+2025-10-16 08:46:19 | INFO     | Shell Scheduler | Job `calypso-39` is submitted into machine:local with job id `2401310`...
+2025-10-16 08:46:19 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39` is `running`
+2025-10-16 08:46:20 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39` is `running`
+2025-10-16 08:46:25 | INFO     | Orchestrator | len(results)=8
+2025-10-16 08:46:30 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39` is `running`
+2025-10-16 08:46:30 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39` is `running`
+2025-10-16 08:46:35 | INFO     | Orchestrator | len(results)=9
+2025-10-16 08:46:40 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39` is `finished`
+2025-10-16 08:46:40 | INFO     | Shell Scheduler | Job `calypso-40` is submitted into machine:local with job id `2401397`...
+2025-10-16 08:46:40 | INFO     | Shell Scheduler | Job `calypso-40` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40` is `running`
+2025-10-16 08:46:40 | INFO     | Shell Scheduler | Job `calypso-40` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40` is `running`
+2025-10-16 08:46:45 | INFO     | Orchestrator | len(results)=9
+2025-10-16 08:46:51 | INFO     | Shell Scheduler | Job `calypso-40` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40` is `running`
+2025-10-16 08:46:51 | INFO     | Shell Scheduler | Job `calypso-40` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40` is `running`
+2025-10-16 08:46:55 | INFO     | Orchestrator | len(results)=10
+2025-10-16 08:47:01 | INFO     | Shell Scheduler | Job `calypso-40` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40` is `finished`
+2025-10-16 08:47:01 | INFO     | Shell Scheduler | Job `calypso-41` is submitted into machine:local with job id `2401723`...
+2025-10-16 08:47:01 | INFO     | Shell Scheduler | Job `calypso-41` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/41` is `running`
+2025-10-16 08:47:01 | INFO     | Shell Scheduler | Job `calypso-41` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/41` is `running`
+2025-10-16 08:47:05 | INFO     | Orchestrator | len(results)=10
+2025-10-16 08:47:11 | INFO     | Shell Scheduler | Job `calypso-41` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/41` is `finished`
+2025-10-16 08:47:11 | INFO     | Shell Scheduler | Job `calypso-42` is submitted into machine:local with job id `2401866`...
+2025-10-16 08:47:11 | INFO     | Shell Scheduler | Job `calypso-42` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42` is `running`
+2025-10-16 08:47:11 | INFO     | Shell Scheduler | Job `calypso-42` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42` is `running`
+2025-10-16 08:47:15 | INFO     | Orchestrator | len(results)=11
+2025-10-16 08:47:22 | INFO     | Shell Scheduler | Job `calypso-42` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42` is `running`
+2025-10-16 08:47:22 | INFO     | Shell Scheduler | Job `calypso-42` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42` is `running`
+2025-10-16 08:47:25 | INFO     | Orchestrator | len(results)=12
+2025-10-16 08:47:32 | INFO     | Shell Scheduler | Job `calypso-42` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42` is `finished`
+2025-10-16 08:47:32 | INFO     | Shell Scheduler | Job `calypso-43` is submitted into machine:local with job id `2401953`...
+2025-10-16 08:47:32 | INFO     | Shell Scheduler | Job `calypso-43` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43` is `running`
+2025-10-16 08:47:32 | INFO     | Shell Scheduler | Job `calypso-43` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43` is `running`
+2025-10-16 08:47:35 | INFO     | Orchestrator | len(results)=12
+2025-10-16 08:47:42 | INFO     | Shell Scheduler | Job `calypso-43` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43` is `running`
+2025-10-16 08:47:43 | INFO     | Shell Scheduler | Job `calypso-43` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43` is `running`
+2025-10-16 08:47:45 | INFO     | Orchestrator | len(results)=13
+2025-10-16 08:47:53 | INFO     | Shell Scheduler | Job `calypso-43` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43` is `finished`
+2025-10-16 08:47:53 | INFO     | Shell Scheduler | Job `calypso-44` is submitted into machine:local with job id `2402039`...
+2025-10-16 08:47:53 | INFO     | Shell Scheduler | Job `calypso-44` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44` is `running`
+2025-10-16 08:47:53 | INFO     | Shell Scheduler | Job `calypso-44` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44` is `running`
+2025-10-16 08:47:55 | INFO     | Orchestrator | len(results)=13
+2025-10-16 08:48:03 | INFO     | Shell Scheduler | Job `calypso-44` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44` is `running`
+2025-10-16 08:48:03 | INFO     | Shell Scheduler | Job `calypso-44` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44` is `running`
+2025-10-16 08:48:05 | INFO     | Orchestrator | len(results)=14
+2025-10-16 08:48:13 | INFO     | Shell Scheduler | Job `calypso-44` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44` is `finished`
+2025-10-16 08:48:13 | INFO     | Shell Scheduler | Job `calypso-45` is submitted into machine:local with job id `2402616`...
+2025-10-16 08:48:13 | INFO     | Shell Scheduler | Job `calypso-45` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45` is `running`
+2025-10-16 08:48:14 | INFO     | Shell Scheduler | Job `calypso-45` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45` is `running`
+2025-10-16 08:48:15 | INFO     | Orchestrator | len(results)=14
+2025-10-16 08:48:24 | INFO     | Shell Scheduler | Job `calypso-45` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45` is `running`
+2025-10-16 08:48:24 | INFO     | Shell Scheduler | Job `calypso-45` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45` is `running`
+2025-10-16 08:48:25 | INFO     | Orchestrator | len(results)=15
+2025-10-16 08:48:34 | INFO     | Shell Scheduler | Job `calypso-45` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45` is `finished`
+2025-10-16 08:48:34 | INFO     | Shell Scheduler | Job `calypso-46` is submitted into machine:local with job id `2402703`...
+2025-10-16 08:48:34 | INFO     | Shell Scheduler | Job `calypso-46` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46` is `running`
+2025-10-16 08:48:34 | INFO     | Shell Scheduler | Job `calypso-46` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46` is `running`
+2025-10-16 08:48:35 | INFO     | Orchestrator | len(results)=15
+2025-10-16 08:48:45 | INFO     | Shell Scheduler | Job `calypso-46` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46` is `running`
+2025-10-16 08:48:45 | INFO     | Shell Scheduler | Job `calypso-46` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46` is `running`
+2025-10-16 08:48:45 | INFO     | Orchestrator | len(results)=16
+2025-10-16 08:48:55 | INFO     | Shell Scheduler | Job `calypso-46` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46` is `finished`
+2025-10-16 08:48:55 | INFO     | Shell Scheduler | Job `calypso-47` is submitted into machine:local with job id `2402789`...
+2025-10-16 08:48:55 | INFO     | Orchestrator | len(results)=16
+2025-10-16 08:48:55 | INFO     | Shell Scheduler | Job `calypso-47` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/47` is `running`
+2025-10-16 08:48:55 | INFO     | Shell Scheduler | Job `calypso-47` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/47` is `running`
+2025-10-16 08:49:05 | INFO     | Orchestrator | len(results)=17
+2025-10-16 08:49:05 | INFO     | Shell Scheduler | Job `calypso-47` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/47` is `finished`
+2025-10-16 08:49:05 | INFO     | Shell Scheduler | Job `calypso-48` is submitted into machine:local with job id `2403172`...
+2025-10-16 08:49:05 | INFO     | Shell Scheduler | Job `calypso-48` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48` is `running`
+2025-10-16 08:49:05 | INFO     | Shell Scheduler | Job `calypso-48` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48` is `running`
+2025-10-16 08:49:15 | INFO     | Orchestrator | len(results)=17
+2025-10-16 08:49:16 | INFO     | Shell Scheduler | Job `calypso-48` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48` is `running`
+2025-10-16 08:49:16 | INFO     | Shell Scheduler | Job `calypso-48` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48` is `running`
+2025-10-16 08:49:25 | INFO     | Orchestrator | len(results)=18
+2025-10-16 08:49:26 | INFO     | Shell Scheduler | Job `calypso-48` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48` is `finished`
+2025-10-16 08:49:26 | INFO     | Shell Scheduler | Job `calypso-49` is submitted into machine:local with job id `2403258`...
+2025-10-16 08:49:26 | INFO     | Shell Scheduler | Job `calypso-49` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/49` is `running`
+2025-10-16 08:49:26 | INFO     | Shell Scheduler | Job `calypso-49` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/49` is `running`
+2025-10-16 08:49:35 | INFO     | Orchestrator | len(results)=18
+2025-10-16 08:49:36 | INFO     | Shell Scheduler | Job `calypso-49` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/49` is `finished`
+2025-10-16 08:49:36 | INFO     | Shell Scheduler | Job `calypso-50` is submitted into machine:local with job id `2403318`...
+2025-10-16 08:49:36 | INFO     | Shell Scheduler | Job `calypso-50` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50` is `running`
+2025-10-16 08:49:36 | INFO     | Shell Scheduler | Job `calypso-50` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50` is `running`
+2025-10-16 08:49:45 | INFO     | Orchestrator | len(results)=19
+2025-10-16 08:49:47 | INFO     | Shell Scheduler | Job `calypso-50` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50` is `running`
+2025-10-16 08:49:47 | INFO     | Shell Scheduler | Job `calypso-50` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50` is `running`
+2025-10-16 08:49:55 | INFO     | Orchestrator | len(results)=20
+2025-10-16 08:49:57 | INFO     | Shell Scheduler | Job `calypso-50` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50` is `finished`
+2025-10-16 08:49:57 | INFO     | Shell Scheduler | Job `calypso-51` is submitted into machine:local with job id `2403408`...
+2025-10-16 08:49:57 | INFO     | Shell Scheduler | Job `calypso-51` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/51` is `running`
+2025-10-16 08:49:57 | INFO     | Shell Scheduler | Job `calypso-51` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/51` is `running`
+2025-10-16 08:50:05 | INFO     | Orchestrator | len(results)=20
+2025-10-16 08:50:07 | INFO     | Shell Scheduler | Job `calypso-51` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/51` is `terminated`
+2025-10-16 08:50:07 | INFO     | Machine  | Job calypso-51 is 1 times to be resubmitted to local...
+2025-10-16 08:50:07 | INFO     | Shell Scheduler | Job `calypso-51` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/51` is `finished`
+2025-10-16 08:50:07 | INFO     | Shell Scheduler | Job `calypso-52` is submitted into machine:local with job id `2403948`...
+2025-10-16 08:50:07 | INFO     | Shell Scheduler | Job `calypso-52` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52` is `running`
+2025-10-16 08:50:08 | INFO     | Shell Scheduler | Job `calypso-52` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52` is `running`
+2025-10-16 08:50:15 | INFO     | Orchestrator | len(results)=21
+2025-10-16 08:50:18 | INFO     | Shell Scheduler | Job `calypso-52` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52` is `running`
+2025-10-16 08:50:18 | INFO     | Shell Scheduler | Job `calypso-52` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52` is `running`
+2025-10-16 08:50:25 | INFO     | Orchestrator | len(results)=22
+2025-10-16 08:50:28 | INFO     | Shell Scheduler | Job `calypso-52` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52` is `finished`
+2025-10-16 08:50:28 | INFO     | Shell Scheduler | Job `calypso-53` is submitted into machine:local with job id `2404034`...
+2025-10-16 08:50:28 | INFO     | Shell Scheduler | Job `calypso-53` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53` is `running`
+2025-10-16 08:50:28 | INFO     | Shell Scheduler | Job `calypso-53` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53` is `running`
+2025-10-16 08:50:35 | INFO     | Orchestrator | len(results)=22
+2025-10-16 08:50:39 | INFO     | Shell Scheduler | Job `calypso-53` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53` is `running`
+2025-10-16 08:50:39 | INFO     | Shell Scheduler | Job `calypso-53` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53` is `running`
+2025-10-16 08:50:45 | INFO     | Orchestrator | len(results)=23
+2025-10-16 08:50:49 | INFO     | Shell Scheduler | Job `calypso-53` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53` is `finished`
+2025-10-16 08:50:49 | INFO     | Shell Scheduler | Job `calypso-54` is submitted into machine:local with job id `2404120`...
+2025-10-16 08:50:49 | INFO     | Shell Scheduler | Job `calypso-54` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54` is `running`
+2025-10-16 08:50:49 | INFO     | Shell Scheduler | Job `calypso-54` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54` is `running`
+2025-10-16 08:50:55 | INFO     | Orchestrator | len(results)=23
+2025-10-16 08:50:59 | INFO     | Shell Scheduler | Job `calypso-54` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54` is `running`
+2025-10-16 08:50:59 | INFO     | Shell Scheduler | Job `calypso-54` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54` is `running`
+2025-10-16 08:51:05 | INFO     | Orchestrator | len(results)=24
+2025-10-16 08:51:09 | INFO     | Shell Scheduler | Job `calypso-54` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54` is `finished`
+2025-10-16 08:51:09 | INFO     | Shell Scheduler | Job `calypso-55` is submitted into machine:local with job id `2404542`...
+2025-10-16 08:51:10 | INFO     | Shell Scheduler | Job `calypso-55` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/55` is `running`
+2025-10-16 08:51:10 | INFO     | Shell Scheduler | Job `calypso-55` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/55` is `running`
+2025-10-16 08:51:15 | INFO     | Orchestrator | len(results)=24

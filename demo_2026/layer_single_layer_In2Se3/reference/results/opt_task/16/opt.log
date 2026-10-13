@@ -1,0 +1,118 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/16/calypso_run_mlp.py:243: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Layer Group
+Start to Optimize Structures using  chgnet@0.3.0
+       Step     Time          Energy          fmax
+LBFGS:    0 09:49:40      -13.796970        2.413640
+LBFGS:    1 09:49:40      -14.002281        2.485775
+LBFGS:    2 09:49:40      -12.866484        2.286248
+LBFGS:    3 09:49:40      -11.839230        1.974907
+LBFGS:    4 09:49:40      -11.028753        1.557454
+LBFGS:    5 09:49:40      -10.341249        1.424936
+LBFGS:    6 09:49:40       -9.740100        1.209287
+LBFGS:    7 09:49:40       -9.240900        1.029258
+LBFGS:    8 09:49:40       -8.804012        0.941403
+LBFGS:    9 09:49:40       -8.413733        0.862424
+LBFGS:   10 09:49:40       -8.058770        0.809956
+LBFGS:   11 09:49:40       -7.753945        0.782670
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   12 09:49:40       -7.465265        0.794943
+LBFGS:   13 09:49:40       -7.753917        0.782682
+LBFGS:   14 09:49:40       -8.056508        0.811611
+LBFGS:   15 09:49:40       -7.756991        0.782419
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   16 09:49:40       -7.475413        0.794335
+LBFGS:   17 09:49:40       -7.756902        0.782437
+LBFGS:   18 09:49:40       -8.053885        0.813521
+LBFGS:   19 09:49:40       -7.760292        0.782224
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   20 09:49:40       -7.486783        0.793732
+LBFGS:   21 09:49:40       -7.760112        0.782228
+LBFGS:   22 09:49:40       -8.050837        0.815742
+LBFGS:   23 09:49:40       -7.763841        0.782069
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   24 09:49:40       -7.499563        0.793242
+LBFGS:   25 09:49:40       -7.763561        0.782083
+LBFGS:   26 09:49:41       -8.047308        0.818361
+LBFGS:   27 09:49:41       -7.767655        0.781965
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   28 09:49:41       -7.513947        0.792958
+LBFGS:   29 09:49:41       -7.767235        0.781985
+LBFGS:   30 09:49:41       -8.043207        0.821447
+LBFGS:   31 09:49:41       -7.771689        0.781941
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   32 09:49:41       -7.530062        0.792804
+LBFGS:   33 09:49:41       -7.771104        0.781952
+LBFGS:   34 09:49:41       -8.038541        0.825047
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   35 09:49:41       -7.775713        0.781964
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   36 09:49:41       -7.547351        0.792668
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   37 09:49:41       -7.319630        0.812586
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   38 09:49:41       -7.546636        0.792709
+LBFGS:   39 09:49:41       -7.773393        0.781958
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   40 09:49:41       -7.546754        0.792710
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   41 09:49:41       -7.320140        0.812572
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   42 09:49:41       -7.099887        0.796776
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   43 09:49:41       -6.904414        0.840888
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   44 09:49:41       -6.749594        0.914660
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   45 09:49:41       -6.648763        1.032465
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   46 09:49:41       -6.606449        1.196517
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   47 09:49:41       -6.611106        1.258363
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   48 09:49:41       -6.600078        1.147986
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   49 09:49:41       -6.591186        1.099326
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   50 09:49:41       -6.545732        0.958481
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   51 09:49:41       -6.452884        0.773000
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   52 09:49:41       -6.345499        0.575418
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   53 09:49:41       -6.204619        0.469964
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   54 09:49:41       -6.054703        0.406466
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   55 09:49:41       -5.922549        0.319829
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   56 09:49:41       -5.827928        0.297207
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   57 09:49:41       -5.743744        0.263425
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   58 09:49:41       -5.670432        0.225314
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   59 09:49:41       -5.604731        0.199626
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   60 09:49:41       -5.549681        0.151013
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   61 09:49:41       -5.510573        0.092284
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   62 09:49:41       -5.486448        0.044702
+Structure graph_id=None has 2 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   63 09:49:41       -5.471731        0.037097
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   64 09:49:41       -5.460979        0.022159
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+LBFGS:   65 09:49:41       -5.456308        0.005509
+Structure graph_id=None has 3 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+opt done! cost  0.6543011665344238  seconds.

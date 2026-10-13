@@ -1,0 +1,261 @@
+
+============================================================
+ _______  _______  _              _______  _______  _______
+(  ____ \(  ___  )( \   |\     /|(  ____ )(  ____ \(  ___  )
+| (    \/| (   ) || (   ( \   / )| (    )|| (    \/| (   ) |
+| |      | (___) || |    \ (_) / | (____)|| (_____ | |   | |
+| |      |  ___  || |     \   /  |  _____)(_____  )| |   | |
+| |      | (   ) || |      ) (   | (            ) || |   | |
+| (____/\| )   ( || (____/\| |   | )      /\____) || (___) |
+(_______/|/     \|(_______/\_/   |/       \_______)(_______)
+============================================================
+Version=10.0.2.dev46+gb22cd5457.d20251016
+
+2025-10-16 17:10:25 | INFO     | root     | Start a new calculation.
+2025-10-16 17:10:25 | INFO     | root     | config file          : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/input.toml
+2025-10-16 17:10:25 | INFO     | root     | reference states file: /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/ref_ene.txt
+2025-10-16 17:10:25 | INFO     | root     | log file             : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/CALYPSO.log
+2025-10-16 17:10:25 | INFO     | root     | log directory        : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/CALYPSO.logdir
+2025-10-16 17:10:25 | WARNING  | Machine  | Executor is 'local', ignore the config None, None, None, and None.
+2025-10-16 17:10:25 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:25 | INFO     | Generator | random generated 0-th structures: C8Br2Ba
+2025-10-16 17:10:25 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 1-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 2-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 3-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 4-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 5-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 6-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:26 | INFO     | Generator | random generated 7-th structures: C8Br2Ba
+2025-10-16 17:10:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:27 | INFO     | Generator | random generated 8-th structures: C8Br2Ba
+2025-10-16 17:10:27 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:10:27 | INFO     | Generator | random generated 9-th structures: C8Br2Ba
+2025-10-16 17:10:35 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:10:35 | INFO     | Shell Scheduler | Job `calypso-0` is submitted into machine:local with job id `3035200`...
+2025-10-16 17:10:35 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:35 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:45 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:10:45 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:46 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:46 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:55 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:10:56 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:56 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:10:57 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:11:05 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:11:07 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:11:07 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:11:07 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `RUNNING`
+2025-10-16 17:11:15 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:11:17 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/0` is `FINISHED`
+2025-10-16 17:11:17 | INFO     | Shell Scheduler | Job `calypso-1` is submitted into machine:local with job id `3035711`...
+2025-10-16 17:11:17 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:18 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:25 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:11:28 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:28 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:28 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:35 | INFO     | Orchestrator | len(results)=1
+2025-10-16 17:11:38 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:39 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:39 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `RUNNING`
+2025-10-16 17:11:45 | INFO     | Orchestrator | len(results)=1
+2025-10-16 17:11:49 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/1` is `FINISHED`
+2025-10-16 17:11:49 | INFO     | Shell Scheduler | Job `calypso-2` is submitted into machine:local with job id `3035844`...
+2025-10-16 17:11:49 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:11:49 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:11:55 | INFO     | Orchestrator | len(results)=1
+2025-10-16 17:11:59 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:00 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:00 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:05 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:12:10 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:10 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:10 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:15 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:12:21 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:21 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:21 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `RUNNING`
+2025-10-16 17:12:25 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:12:31 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/2` is `FINISHED`
+2025-10-16 17:12:31 | INFO     | Shell Scheduler | Job `calypso-3` is submitted into machine:local with job id `3036527`...
+2025-10-16 17:12:31 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 17:12:31 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 17:12:35 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:12:42 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 17:12:42 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 17:12:42 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/3` is `RUNNING`
+2025-10-16 17:12:45 | INFO     | Orchestrator | len(results)=3
+2025-10-16 17:12:52 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/3` is `FINISHED`
+2025-10-16 17:12:52 | INFO     | Shell Scheduler | Job `calypso-4` is submitted into machine:local with job id `3036620`...
+2025-10-16 17:12:52 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 17:12:52 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 17:12:55 | INFO     | Orchestrator | len(results)=3
+2025-10-16 17:13:03 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 17:13:03 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 17:13:03 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4` is `RUNNING`
+2025-10-16 17:13:05 | INFO     | Orchestrator | len(results)=4
+2025-10-16 17:13:13 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4` is `FINISHED`
+2025-10-16 17:13:13 | INFO     | Shell Scheduler | Job `calypso-5` is submitted into machine:local with job id `3037045`...
+2025-10-16 17:13:13 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 17:13:13 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 17:13:15 | INFO     | Orchestrator | len(results)=4
+2025-10-16 17:13:23 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 17:13:24 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 17:13:24 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/5` is `RUNNING`
+2025-10-16 17:13:25 | INFO     | Orchestrator | len(results)=5
+2025-10-16 17:13:34 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/5` is `FINISHED`
+2025-10-16 17:13:34 | INFO     | Shell Scheduler | Job `calypso-6` is submitted into machine:local with job id `3037137`...
+2025-10-16 17:13:34 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:34 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:35 | INFO     | Orchestrator | len(results)=5
+2025-10-16 17:13:44 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:45 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:45 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:45 | INFO     | Orchestrator | len(results)=6
+2025-10-16 17:13:55 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:55 | INFO     | Orchestrator | len(results)=6
+2025-10-16 17:13:55 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:13:55 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:14:05 | INFO     | Orchestrator | len(results)=6
+2025-10-16 17:14:06 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:14:06 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:14:06 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `RUNNING`
+2025-10-16 17:14:15 | INFO     | Orchestrator | len(results)=6
+2025-10-16 17:14:16 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/6` is `FINISHED`
+2025-10-16 17:14:16 | INFO     | Shell Scheduler | Job `calypso-7` is submitted into machine:local with job id `3037805`...
+2025-10-16 17:14:16 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 17:14:16 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 17:14:25 | INFO     | Orchestrator | len(results)=6
+2025-10-16 17:14:27 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 17:14:27 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 17:14:27 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/7` is `RUNNING`
+2025-10-16 17:14:35 | INFO     | Orchestrator | len(results)=7
+2025-10-16 17:14:37 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/7` is `FINISHED`
+2025-10-16 17:14:37 | INFO     | Shell Scheduler | Job `calypso-8` is submitted into machine:local with job id `3037895`...
+2025-10-16 17:14:37 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 17:14:37 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 17:14:45 | INFO     | Orchestrator | len(results)=7
+2025-10-16 17:14:48 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 17:14:48 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 17:14:48 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/8` is `RUNNING`
+2025-10-16 17:14:55 | INFO     | Orchestrator | len(results)=8
+2025-10-16 17:14:58 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/8` is `FINISHED`
+2025-10-16 17:14:58 | INFO     | Shell Scheduler | Job `calypso-9` is submitted into machine:local with job id `3037985`...
+2025-10-16 17:14:58 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 17:14:58 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 17:15:05 | INFO     | Orchestrator | len(results)=8
+2025-10-16 17:15:09 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 17:15:09 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 17:15:09 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/9` is `RUNNING`
+2025-10-16 17:15:15 | INFO     | Orchestrator | len(results)=9
+2025-10-16 17:15:19 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/9` is `FINISHED`
+2025-10-16 17:15:25 | INFO     | Orchestrator | len(results)=9
+2025-10-16 17:15:25 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:25 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:26 | INFO     | Generator | random generated 10-th structures: C8Br2Ba
+---------------------------------------------------------------------------------------------
+          You have searched 10 structures across 1 formulas.
+          Currently, the lowest energy structure has a value of -7.8380 eV (using EBH if available),
+          space group P3m1_156, located at /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/4
+---------------------------------------------------------------------------------------------
+
+Idx   Name          Formula         EBH(eV/atom)    Enthalpy(eV/atom)    Fitness         Volume(A^3/atom)     Density(g/cm^3)      SpaceGroup      MinDistance(A) 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1     caly_4        C8Br2Ba         nan             -7.8380              -7.8380         53.2562              1.1146               P3m1_156        1.4264         
+
+2025-10-16 17:15:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:26 | INFO     | Generator | random generated 11-th structures: C8Br2Ba
+2025-10-16 17:15:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:26 | INFO     | Generator | random generated 12-th structures: C8Br2Ba
+2025-10-16 17:15:26 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:27 | INFO     | Generator | random generated 13-th structures: C8Br2Ba
+2025-10-16 17:15:27 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:27 | INFO     | Generator | lpso generated 14-th structures: C8Br2Ba
+2025-10-16 17:15:27 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:27 | INFO     | Generator | lpso generated 15-th structures: C8Br2Ba
+2025-10-16 17:15:27 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:27 | INFO     | Generator | random generated 16-th structures: C8Br2Ba
+2025-10-16 17:15:27 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:27 | INFO     | Generator | lpso generated 17-th structures: C8Br2Ba
+2025-10-16 17:15:27 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:28 | INFO     | Generator | lpso generated 18-th structures: C8Br2Ba
+2025-10-16 17:15:28 | INFO     | LayerGenerator | Try to generate structure with C8Ba1Br2 in group 69 with random method
+2025-10-16 17:15:28 | INFO     | Generator | random generated 19-th structures: C8Br2Ba
+2025-10-16 17:15:29 | INFO     | Shell Scheduler | Job `calypso-10` is submitted into machine:local with job id `3038455`...
+2025-10-16 17:15:29 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:29 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:36 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:15:39 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:40 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:40 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:46 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:15:50 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:50 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:50 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `RUNNING`
+2025-10-16 17:15:56 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:16:00 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/10` is `FINISHED`
+2025-10-16 17:16:01 | INFO     | Shell Scheduler | Job `calypso-11` is submitted into machine:local with job id `3038588`...
+2025-10-16 17:16:01 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:01 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:06 | INFO     | Orchestrator | len(results)=0
+2025-10-16 17:16:11 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:11 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:11 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:16 | INFO     | Orchestrator | len(results)=1
+2025-10-16 17:16:22 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:22 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:22 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `RUNNING`
+2025-10-16 17:16:26 | INFO     | Orchestrator | len(results)=1
+2025-10-16 17:16:32 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/11` is `FINISHED`
+2025-10-16 17:16:32 | INFO     | Shell Scheduler | Job `calypso-12` is submitted into machine:local with job id `3039218`...
+2025-10-16 17:16:32 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:32 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:36 | INFO     | Orchestrator | len(results)=1
+2025-10-16 17:16:43 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:43 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:43 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:46 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:16:53 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:53 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:54 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `RUNNING`
+2025-10-16 17:16:56 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:17:04 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/12` is `FINISHED`
+2025-10-16 17:17:04 | INFO     | Shell Scheduler | Job `calypso-13` is submitted into machine:local with job id `3039687`...
+2025-10-16 17:17:04 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 17:17:04 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 17:17:06 | INFO     | Orchestrator | len(results)=2
+2025-10-16 17:17:14 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 17:17:14 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 17:17:15 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/13` is `RUNNING`
+2025-10-16 17:17:16 | INFO     | Orchestrator | len(results)=3
+2025-10-16 17:17:25 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/13` is `FINISHED`
+2025-10-16 17:17:25 | INFO     | Shell Scheduler | Job `calypso-14` is submitted into machine:local with job id `3039777`...
+2025-10-16 17:17:25 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/14` is `RUNNING`
+2025-10-16 17:17:25 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/14` is `RUNNING`
+2025-10-16 17:17:26 | INFO     | Orchestrator | len(results)=3
+2025-10-16 17:17:35 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/14` is `FINISHED`
+2025-10-16 17:17:35 | INFO     | Shell Scheduler | Job `calypso-15` is submitted into machine:local with job id `3039824`...
+2025-10-16 17:17:35 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:35 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:36 | INFO     | Orchestrator | len(results)=4
+2025-10-16 17:17:45 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:46 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:46 | INFO     | Orchestrator | len(results)=5
+2025-10-16 17:17:46 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:56 | INFO     | Orchestrator | len(results)=5
+2025-10-16 17:17:56 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:56 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:17:56 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:18:06 | INFO     | Orchestrator | len(results)=5
+2025-10-16 17:18:07 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:18:07 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`
+2025-10-16 17:18:07 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_BaBr3_Graphene/reference/results/opt_task/15` is `RUNNING`

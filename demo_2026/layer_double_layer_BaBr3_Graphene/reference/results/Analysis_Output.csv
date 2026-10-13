@@ -1,0 +1,7 @@
+ idx   caly_name      formula       enth_per_atom      fitness      volume_per_atom   density   min_dis  spg(0.1)  spgnum(0.1) natom(0.1)
+  0    caly_4         C8Br2Ba          -7.838          -7.838           53.256         1.115     1.426   P3m1          156         11    
+  1    caly_5         C8Br2Ba          -6.857          -6.857           53.149         1.117     1.412   P3m1          156         11    
+  2    caly_9         C8Br2Ba          -6.720          -6.720           57.329         1.035     1.444   P3m1          156         11    
+  3    caly_2         C8Br2Ba          -6.684          -6.684           39.489         1.503     1.418   P3m1          156         11    
+  4    caly_1         C8Br2Ba          -6.682          -6.682           39.474         1.504     1.418   P3m1          156         11    
+  5    caly_3         C8Br2Ba          -6.654          -6.654           39.653         1.497     1.421   P3m1          156         11    

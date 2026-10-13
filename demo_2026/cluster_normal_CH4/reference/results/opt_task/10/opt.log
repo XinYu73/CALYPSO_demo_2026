@@ -1,0 +1,54 @@
+/public/home/mzq001/temp_xinyu_2025/demo/cluster_normal_CH4/reference/results/opt_task/10/calypso_run_mlp.py:233: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[0, 0, 0], [0, 0, 0], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Point Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 20:04:18      -19.247003       27.953014
+FIRE:    1 20:04:18      -22.340154        6.419108
+FIRE:    2 20:04:18      -22.239660        9.038495
+FIRE:    3 20:04:18      -22.506154        7.906794
+FIRE:    4 20:04:18      -22.932966        6.394163
+FIRE:    5 20:04:18      -23.360534        3.878825
+FIRE:    6 20:04:18      -23.587182        1.468824
+FIRE:    7 20:04:18      -23.507413        3.172859
+FIRE:    8 20:04:18      -23.520891        3.027441
+FIRE:    9 20:04:18      -23.545820        2.733109
+FIRE:   10 20:04:18      -23.578540        2.346581
+FIRE:   11 20:04:18      -23.614354        1.814538
+FIRE:   12 20:04:18      -23.648130        1.336057
+FIRE:   13 20:04:18      -23.675922        1.144455
+FIRE:   14 20:04:18      -23.695194        0.932890
+FIRE:   15 20:04:18      -23.705846        0.738942
+FIRE:   16 20:04:18      -23.707755        1.326728
+FIRE:   17 20:04:18      -23.708377        1.309695
+FIRE:   18 20:04:18      -23.709594        1.275724
+FIRE:   19 20:04:18      -23.711355        1.225309
+FIRE:   20 20:04:18      -23.713575        1.157726
+FIRE:   21 20:04:18      -23.716146        1.060318
+FIRE:   22 20:04:18      -23.718934        0.960947
+FIRE:   23 20:04:18      -23.721826        0.841765
+FIRE:   24 20:04:18      -23.725000        0.719585
+FIRE:   25 20:04:18      -23.728393        0.585710
+FIRE:   26 20:04:18      -23.731859        0.457024
+FIRE:   27 20:04:18      -23.735288        0.451897
+FIRE:   28 20:04:18      -23.738580        0.442305
+FIRE:   29 20:04:18      -23.741826        0.428366
+FIRE:   30 20:04:18      -23.744977        0.400927
+FIRE:   31 20:04:18      -23.748346        0.430444
+FIRE:   32 20:04:18      -23.752378        0.424660
+FIRE:   33 20:04:18      -23.757030        0.371838
+FIRE:   34 20:04:18      -23.761693        0.271368
+FIRE:   35 20:04:18      -23.764919        0.150464
+FIRE:   36 20:04:19      -23.766073        0.273146
+FIRE:   37 20:04:19      -23.766176        0.261097
+FIRE:   38 20:04:19      -23.766366        0.237989
+FIRE:   39 20:04:19      -23.766618        0.205533
+FIRE:   40 20:04:19      -23.766893        0.164206
+FIRE:   41 20:04:19      -23.767156        0.114228
+FIRE:   42 20:04:19      -23.767368        0.083971
+opt done! cost  0.6593799591064453  seconds.

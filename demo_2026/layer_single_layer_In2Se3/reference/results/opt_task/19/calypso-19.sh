@@ -1,0 +1,16 @@
+#!/bin/bash
+
+remote_work_dir=/public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/19
+cd ${remote_work_dir}
+export -p > ${remote_work_dir}/env
+if [ ! -f calypso-19_tag ]; then
+echo 'bash run_flow.sh  " /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python " ' > temp_script.sh
+timeout -k 10 3600s  bash temp_script.sh  > calypso-19.log 2>&1 && touch calypso-19_tag
+exit_code=$?
+if [ "$exit_code" == 124 ]; then
+    touch timeout_tag
+    exit_code=0
+elif [ "$exit_code" != 0 ]; then
+    echo "Command failed with exit code $exit_code"
+fi
+fi

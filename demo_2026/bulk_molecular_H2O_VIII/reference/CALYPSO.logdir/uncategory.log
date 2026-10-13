@@ -1,0 +1,248 @@
+2025-10-16 07:52:05 | INFO     | root     | Start a new calculation.
+2025-10-16 07:52:05 | INFO     | root     | config file          : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/input.toml
+2025-10-16 07:52:05 | INFO     | root     | reference states file: /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/ref_ene.txt
+2025-10-16 07:52:05 | INFO     | root     | log file             : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/CALYPSO.log
+2025-10-16 07:52:05 | INFO     | root     | log directory        : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/CALYPSO.logdir
+2025-10-16 07:52:06 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:06 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:06 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:06 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:06 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:06 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:07 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:08 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:08 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:08 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:08 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:08 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:08 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:09 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:52:16 | INFO     | Shell Scheduler | Job `calypso-0` is submitted into machine:local with job id `2366477`...
+2025-10-16 07:52:16 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/0` is `running`
+2025-10-16 07:52:16 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/0` is `running`
+2025-10-16 07:52:26 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/0` is `running`
+2025-10-16 07:52:26 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/0` is `running`
+2025-10-16 07:52:36 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/0` is `finished`
+2025-10-16 07:52:36 | INFO     | Shell Scheduler | Job `calypso-1` is submitted into machine:local with job id `2366563`...
+2025-10-16 07:52:36 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/1` is `running`
+2025-10-16 07:52:36 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/1` is `running`
+2025-10-16 07:52:47 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/1` is `running`
+2025-10-16 07:52:47 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/1` is `running`
+2025-10-16 07:52:57 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/1` is `finished`
+2025-10-16 07:52:57 | INFO     | Shell Scheduler | Job `calypso-2` is submitted into machine:local with job id `2366650`...
+2025-10-16 07:52:57 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/2` is `running`
+2025-10-16 07:52:57 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/2` is `running`
+2025-10-16 07:53:07 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/2` is `running`
+2025-10-16 07:53:07 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/2` is `running`
+2025-10-16 07:53:17 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/2` is `finished`
+2025-10-16 07:53:17 | INFO     | Shell Scheduler | Job `calypso-3` is submitted into machine:local with job id `2367088`...
+2025-10-16 07:53:18 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/3` is `running`
+2025-10-16 07:53:18 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/3` is `running`
+2025-10-16 07:53:28 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/3` is `running`
+2025-10-16 07:53:28 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/3` is `running`
+2025-10-16 07:53:38 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/3` is `finished`
+2025-10-16 07:53:38 | INFO     | Shell Scheduler | Job `calypso-4` is submitted into machine:local with job id `2367174`...
+2025-10-16 07:53:38 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/4` is `running`
+2025-10-16 07:53:39 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/4` is `running`
+2025-10-16 07:53:49 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/4` is `running`
+2025-10-16 07:53:49 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/4` is `running`
+2025-10-16 07:53:59 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/4` is `finished`
+2025-10-16 07:53:59 | INFO     | Shell Scheduler | Job `calypso-5` is submitted into machine:local with job id `2367260`...
+2025-10-16 07:53:59 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/5` is `running`
+2025-10-16 07:53:59 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/5` is `running`
+2025-10-16 07:54:09 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/5` is `finished`
+2025-10-16 07:54:09 | INFO     | Shell Scheduler | Job `calypso-6` is submitted into machine:local with job id `2367816`...
+2025-10-16 07:54:09 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/6` is `running`
+2025-10-16 07:54:10 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/6` is `running`
+2025-10-16 07:54:20 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/6` is `finished`
+2025-10-16 07:54:20 | INFO     | Shell Scheduler | Job `calypso-7` is submitted into machine:local with job id `2367863`...
+2025-10-16 07:54:20 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/7` is `running`
+2025-10-16 07:54:20 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/7` is `running`
+2025-10-16 07:54:30 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/7` is `running`
+2025-10-16 07:54:30 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/7` is `running`
+2025-10-16 07:54:40 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/7` is `finished`
+2025-10-16 07:54:40 | INFO     | Shell Scheduler | Job `calypso-8` is submitted into machine:local with job id `2367950`...
+2025-10-16 07:54:40 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/8` is `running`
+2025-10-16 07:54:41 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/8` is `running`
+2025-10-16 07:54:51 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/8` is `running`
+2025-10-16 07:54:51 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/8` is `running`
+2025-10-16 07:55:01 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/8` is `finished`
+2025-10-16 07:55:01 | INFO     | Shell Scheduler | Job `calypso-9` is submitted into machine:local with job id `2368400`...
+2025-10-16 07:55:01 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/9` is `running`
+2025-10-16 07:55:01 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/9` is `running`
+2025-10-16 07:55:11 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/9` is `finished`
+2025-10-16 07:55:11 | INFO     | Shell Scheduler | Job `calypso-10` is submitted into machine:local with job id `2368447`...
+2025-10-16 07:55:11 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/10` is `running`
+2025-10-16 07:55:12 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/10` is `running`
+2025-10-16 07:55:22 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/10` is `running`
+2025-10-16 07:55:22 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/10` is `running`
+2025-10-16 07:55:32 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/10` is `finished`
+2025-10-16 07:55:32 | INFO     | Shell Scheduler | Job `calypso-11` is submitted into machine:local with job id `2368533`...
+2025-10-16 07:55:32 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/11` is `running`
+2025-10-16 07:55:32 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/11` is `running`
+2025-10-16 07:55:42 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/11` is `finished`
+2025-10-16 07:55:42 | INFO     | Shell Scheduler | Job `calypso-12` is submitted into machine:local with job id `2368580`...
+2025-10-16 07:55:43 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/12` is `running`
+2025-10-16 07:55:43 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/12` is `running`
+2025-10-16 07:55:53 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/12` is `finished`
+2025-10-16 07:55:53 | INFO     | Shell Scheduler | Job `calypso-13` is submitted into machine:local with job id `2368627`...
+2025-10-16 07:55:53 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/13` is `running`
+2025-10-16 07:55:53 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/13` is `running`
+2025-10-16 07:56:03 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/13` is `running`
+2025-10-16 07:56:04 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/13` is `running`
+2025-10-16 07:56:14 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/13` is `finished`
+2025-10-16 07:56:14 | INFO     | Shell Scheduler | Job `calypso-14` is submitted into machine:local with job id `2369219`...
+2025-10-16 07:56:14 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/14` is `running`
+2025-10-16 07:56:14 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/14` is `running`
+2025-10-16 07:56:24 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/14` is `finished`
+2025-10-16 07:56:24 | INFO     | Shell Scheduler | Job `calypso-15` is submitted into machine:local with job id `2369266`...
+2025-10-16 07:56:24 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/15` is `running`
+2025-10-16 07:56:24 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/15` is `running`
+2025-10-16 07:56:34 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/15` is `finished`
+2025-10-16 07:56:34 | INFO     | Shell Scheduler | Job `calypso-16` is submitted into machine:local with job id `2369313`...
+2025-10-16 07:56:34 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/16` is `running`
+2025-10-16 07:56:34 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/16` is `running`
+2025-10-16 07:56:44 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/16` is `finished`
+2025-10-16 07:56:45 | INFO     | Shell Scheduler | Job `calypso-17` is submitted into machine:local with job id `2369360`...
+2025-10-16 07:56:45 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/17` is `running`
+2025-10-16 07:56:45 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/17` is `running`
+2025-10-16 07:56:55 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/17` is `running`
+2025-10-16 07:56:55 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/17` is `running`
+2025-10-16 07:57:05 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/17` is `finished`
+2025-10-16 07:57:05 | INFO     | Shell Scheduler | Job `calypso-18` is submitted into machine:local with job id `2369800`...
+2025-10-16 07:57:05 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/18` is `running`
+2025-10-16 07:57:06 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/18` is `running`
+2025-10-16 07:57:16 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/18` is `finished`
+2025-10-16 07:57:16 | INFO     | Shell Scheduler | Job `calypso-19` is submitted into machine:local with job id `2369848`...
+2025-10-16 07:57:16 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/19` is `running`
+2025-10-16 07:57:26 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/19` is `running`
+2025-10-16 07:57:36 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/19` is `running`
+2025-10-16 07:57:46 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/19` is `finished`
+2025-10-16 07:57:56 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:57 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:58 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:59 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:59 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:59 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:59 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:57:59 | INFO     | CrystalGenerator | Try to generate structure with {H2O}4 in spacegroup 141 with random method
+2025-10-16 07:58:06 | INFO     | Shell Scheduler | Job `calypso-20` is submitted into machine:local with job id `2370530`...
+2025-10-16 07:58:06 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/20` is `running`
+2025-10-16 07:58:06 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/20` is `running`
+2025-10-16 07:58:16 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/20` is `finished`
+2025-10-16 07:58:16 | INFO     | Shell Scheduler | Job `calypso-21` is submitted into machine:local with job id `2370579`...
+2025-10-16 07:58:17 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/21` is `running`
+2025-10-16 07:58:17 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/21` is `running`
+2025-10-16 07:58:27 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/21` is `running`
+2025-10-16 07:58:27 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/21` is `running`
+2025-10-16 07:58:37 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/21` is `finished`
+2025-10-16 07:58:37 | INFO     | Shell Scheduler | Job `calypso-22` is submitted into machine:local with job id `2370667`...
+2025-10-16 07:58:37 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/22` is `running`
+2025-10-16 07:58:38 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/22` is `running`
+2025-10-16 07:58:48 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/22` is `finished`
+2025-10-16 07:58:48 | INFO     | Shell Scheduler | Job `calypso-23` is submitted into machine:local with job id `2370714`...
+2025-10-16 07:58:48 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/23` is `running`
+2025-10-16 07:58:48 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/23` is `running`
+2025-10-16 07:58:58 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/23` is `finished`
+2025-10-16 07:58:58 | INFO     | Shell Scheduler | Job `calypso-24` is submitted into machine:local with job id `2370761`...
+2025-10-16 07:58:58 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/24` is `running`
+2025-10-16 07:58:58 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/24` is `running`
+2025-10-16 07:59:08 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/24` is `running`
+2025-10-16 07:59:09 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/24` is `running`
+2025-10-16 07:59:19 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/24` is `finished`
+2025-10-16 07:59:19 | INFO     | Shell Scheduler | Job `calypso-25` is submitted into machine:local with job id `2371198`...
+2025-10-16 07:59:19 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/25` is `running`
+2025-10-16 07:59:19 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/25` is `running`
+2025-10-16 07:59:29 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/25` is `running`
+2025-10-16 07:59:29 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/25` is `running`
+2025-10-16 07:59:39 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/25` is `finished`
+2025-10-16 07:59:39 | INFO     | Shell Scheduler | Job `calypso-26` is submitted into machine:local with job id `2371284`...
+2025-10-16 07:59:39 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/26` is `running`
+2025-10-16 07:59:40 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/26` is `running`
+2025-10-16 07:59:50 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/26` is `finished`
+2025-10-16 07:59:50 | INFO     | Shell Scheduler | Job `calypso-27` is submitted into machine:local with job id `2371331`...
+2025-10-16 07:59:50 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/27` is `running`
+2025-10-16 07:59:50 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/27` is `running`
+2025-10-16 08:00:00 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/27` is `finished`
+2025-10-16 08:00:00 | INFO     | Shell Scheduler | Job `calypso-28` is submitted into machine:local with job id `2371378`...
+2025-10-16 08:00:00 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/28` is `running`
+2025-10-16 08:00:00 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/28` is `running`
+2025-10-16 08:00:10 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/28` is `running`
+2025-10-16 08:00:11 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/28` is `running`
+2025-10-16 08:00:21 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/28` is `finished`
+2025-10-16 08:00:21 | INFO     | Shell Scheduler | Job `calypso-29` is submitted into machine:local with job id `2371971`...
+2025-10-16 08:00:21 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/29` is `running`
+2025-10-16 08:00:21 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/29` is `running`
+2025-10-16 08:00:31 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/29` is `finished`
+2025-10-16 08:00:31 | INFO     | Shell Scheduler | Job `calypso-30` is submitted into machine:local with job id `2372032`...
+2025-10-16 08:00:31 | INFO     | Shell Scheduler | Job `calypso-30` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/30` is `running`
+2025-10-16 08:00:31 | INFO     | Shell Scheduler | Job `calypso-30` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/30` is `running`
+2025-10-16 08:00:41 | INFO     | Shell Scheduler | Job `calypso-30` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/30` is `finished`
+2025-10-16 08:00:41 | INFO     | Shell Scheduler | Job `calypso-31` is submitted into machine:local with job id `2372079`...
+2025-10-16 08:00:41 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/31` is `running`
+2025-10-16 08:00:42 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/31` is `running`
+2025-10-16 08:00:52 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/31` is `running`
+2025-10-16 08:00:52 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/31` is `running`
+2025-10-16 08:01:02 | INFO     | Shell Scheduler | Job `calypso-31` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/31` is `finished`
+2025-10-16 08:01:02 | INFO     | Shell Scheduler | Job `calypso-32` is submitted into machine:local with job id `2372527`...
+2025-10-16 08:01:02 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/32` is `running`
+2025-10-16 08:01:02 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/32` is `running`
+2025-10-16 08:01:13 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/32` is `running`
+2025-10-16 08:01:13 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/32` is `running`
+2025-10-16 08:01:23 | INFO     | Shell Scheduler | Job `calypso-32` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/32` is `finished`
+2025-10-16 08:01:23 | INFO     | Shell Scheduler | Job `calypso-33` is submitted into machine:local with job id `2372613`...
+2025-10-16 08:01:23 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/33` is `running`
+2025-10-16 08:01:23 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/33` is `running`
+2025-10-16 08:01:33 | INFO     | Shell Scheduler | Job `calypso-33` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/33` is `finished`
+2025-10-16 08:01:33 | INFO     | Shell Scheduler | Job `calypso-34` is submitted into machine:local with job id `2372660`...
+2025-10-16 08:01:33 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/34` is `running`
+2025-10-16 08:01:33 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/34` is `running`
+2025-10-16 08:01:43 | INFO     | Shell Scheduler | Job `calypso-34` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/34` is `finished`
+2025-10-16 08:01:43 | INFO     | Shell Scheduler | Job `calypso-35` is submitted into machine:local with job id `2372708`...
+2025-10-16 08:01:44 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/35` is `running`
+2025-10-16 08:01:44 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/35` is `running`
+2025-10-16 08:01:54 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/35` is `running`
+2025-10-16 08:01:54 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/35` is `running`
+2025-10-16 08:02:04 | INFO     | Shell Scheduler | Job `calypso-35` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/35` is `finished`
+2025-10-16 08:02:04 | INFO     | Shell Scheduler | Job `calypso-36` is submitted into machine:local with job id `2373257`...
+2025-10-16 08:02:04 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `running`
+2025-10-16 08:02:05 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `running`
+2025-10-16 08:02:15 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `running`
+2025-10-16 08:02:15 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `running`
+2025-10-16 08:02:25 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `running`
+2025-10-16 08:02:25 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `running`
+2025-10-16 08:02:35 | INFO     | Shell Scheduler | Job `calypso-36` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/36` is `finished`
+2025-10-16 08:02:35 | INFO     | Shell Scheduler | Job `calypso-37` is submitted into machine:local with job id `2373428`...
+2025-10-16 08:02:36 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/37` is `running`
+2025-10-16 08:02:36 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/37` is `running`
+2025-10-16 08:02:46 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/37` is `running`
+2025-10-16 08:02:46 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/37` is `running`
+2025-10-16 08:02:56 | INFO     | Shell Scheduler | Job `calypso-37` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/37` is `finished`
+2025-10-16 08:02:56 | INFO     | Shell Scheduler | Job `calypso-38` is submitted into machine:local with job id `2373515`...
+2025-10-16 08:02:56 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/38` is `running`
+2025-10-16 08:02:56 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/38` is `running`
+2025-10-16 08:03:06 | INFO     | Shell Scheduler | Job `calypso-38` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/38` is `finished`
+2025-10-16 08:03:06 | INFO     | Shell Scheduler | Job `calypso-39` is submitted into machine:local with job id `2373915`...
+2025-10-16 08:03:07 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/39` is `running`
+2025-10-16 08:03:17 | INFO     | Shell Scheduler | Job `calypso-39` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_H2O_VIII/results/opt_task/39` is `finished`
+2025-10-16 08:03:27 | INFO     | root     | CALYPSO DONE!

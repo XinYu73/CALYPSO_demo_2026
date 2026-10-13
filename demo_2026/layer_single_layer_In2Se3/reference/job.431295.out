@@ -1,0 +1,277 @@
+
+============================================================
+ _______  _______  _              _______  _______  _______
+(  ____ \(  ___  )( \   |\     /|(  ____ )(  ____ \(  ___  )
+| (    \/| (   ) || (   ( \   / )| (    )|| (    \/| (   ) |
+| |      | (___) || |    \ (_) / | (____)|| (_____ | |   | |
+| |      |  ___  || |     \   /  |  _____)(_____  )| |   | |
+| |      | (   ) || |      ) (   | (            ) || |   | |
+| (____/\| )   ( || (____/\| |   | )      /\____) || (___) |
+(_______/|/     \|(_______/\_/   |/       \_______)(_______)
+============================================================
+Version=10.0.1
+
+2025-10-16 09:46:32 | INFO     | root     | Start a new calculation.
+2025-10-16 09:46:32 | INFO     | root     | config file          : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/input.toml
+2025-10-16 09:46:32 | INFO     | root     | reference states file: /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/ref_ene.txt
+2025-10-16 09:46:32 | INFO     | root     | log file             : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/CALYPSO.log
+2025-10-16 09:46:32 | INFO     | root     | log directory        : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/CALYPSO.logdir
+2025-10-16 09:46:32 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:33 | INFO     | Generator | random generated 0-th structures: Se3In2
+2025-10-16 09:46:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:33 | INFO     | Generator | random generated 1-th structures: Se3In2
+2025-10-16 09:46:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:36 | INFO     | Generator | random generated 2-th structures: Se3In2
+2025-10-16 09:46:36 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:37 | INFO     | Generator | random generated 3-th structures: Se3In2
+2025-10-16 09:46:37 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:37 | INFO     | Generator | random generated 4-th structures: Se3In2
+2025-10-16 09:46:37 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:37 | INFO     | Generator | random generated 5-th structures: Se3In2
+2025-10-16 09:46:37 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:37 | INFO     | Generator | random generated 6-th structures: Se3In2
+2025-10-16 09:46:37 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:37 | INFO     | Generator | random generated 7-th structures: Se3In2
+2025-10-16 09:46:37 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:37 | INFO     | Generator | random generated 8-th structures: Se3In2
+2025-10-16 09:46:37 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:46:38 | INFO     | Generator | random generated 9-th structures: Se3In2
+2025-10-16 09:46:42 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:46:42 | INFO     | Shell Scheduler | Job `calypso-0` is submitted into machine:local with job id `2442405`...
+2025-10-16 09:46:43 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/0` is `running`
+2025-10-16 09:46:43 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/0` is `running`
+2025-10-16 09:46:52 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:46:53 | INFO     | Shell Scheduler | Job `calypso-0` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/0` is `finished`
+2025-10-16 09:46:53 | INFO     | Shell Scheduler | Job `calypso-1` is submitted into machine:local with job id `2442515`...
+2025-10-16 09:46:53 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/1` is `running`
+2025-10-16 09:46:53 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/1` is `running`
+2025-10-16 09:47:02 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:47:03 | INFO     | Shell Scheduler | Job `calypso-1` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/1` is `finished`
+2025-10-16 09:47:03 | INFO     | Shell Scheduler | Job `calypso-2` is submitted into machine:local with job id `2442903`...
+2025-10-16 09:47:03 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/2` is `running`
+2025-10-16 09:47:03 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/2` is `running`
+2025-10-16 09:47:12 | INFO     | Orchestrator | len(results)=1
+2025-10-16 09:47:13 | INFO     | Shell Scheduler | Job `calypso-2` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/2` is `finished`
+2025-10-16 09:47:13 | INFO     | Shell Scheduler | Job `calypso-3` is submitted into machine:local with job id `2443026`...
+2025-10-16 09:47:14 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/3` is `running`
+2025-10-16 09:47:14 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/3` is `running`
+2025-10-16 09:47:22 | INFO     | Orchestrator | len(results)=2
+2025-10-16 09:47:24 | INFO     | Shell Scheduler | Job `calypso-3` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/3` is `finished`
+2025-10-16 09:47:24 | INFO     | Shell Scheduler | Job `calypso-4` is submitted into machine:local with job id `2443102`...
+2025-10-16 09:47:24 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/4` is `running`
+2025-10-16 09:47:24 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/4` is `running`
+2025-10-16 09:47:32 | INFO     | Orchestrator | len(results)=3
+2025-10-16 09:47:34 | INFO     | Shell Scheduler | Job `calypso-4` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/4` is `finished`
+2025-10-16 09:47:34 | INFO     | Shell Scheduler | Job `calypso-5` is submitted into machine:local with job id `2443149`...
+2025-10-16 09:47:34 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/5` is `running`
+2025-10-16 09:47:34 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/5` is `running`
+2025-10-16 09:47:42 | INFO     | Orchestrator | len(results)=4
+2025-10-16 09:47:44 | INFO     | Shell Scheduler | Job `calypso-5` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/5` is `finished`
+2025-10-16 09:47:44 | INFO     | Shell Scheduler | Job `calypso-6` is submitted into machine:local with job id `2443196`...
+2025-10-16 09:47:45 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/6` is `running`
+2025-10-16 09:47:45 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/6` is `running`
+2025-10-16 09:47:52 | INFO     | Orchestrator | len(results)=5
+2025-10-16 09:47:55 | INFO     | Shell Scheduler | Job `calypso-6` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/6` is `finished`
+2025-10-16 09:47:55 | INFO     | Shell Scheduler | Job `calypso-7` is submitted into machine:local with job id `2443243`...
+2025-10-16 09:47:55 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/7` is `running`
+2025-10-16 09:47:55 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/7` is `running`
+2025-10-16 09:48:02 | INFO     | Orchestrator | len(results)=6
+2025-10-16 09:48:05 | INFO     | Shell Scheduler | Job `calypso-7` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/7` is `finished`
+2025-10-16 09:48:05 | INFO     | Shell Scheduler | Job `calypso-8` is submitted into machine:local with job id `2443803`...
+2025-10-16 09:48:05 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/8` is `running`
+2025-10-16 09:48:05 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/8` is `running`
+2025-10-16 09:48:12 | INFO     | Orchestrator | len(results)=7
+2025-10-16 09:48:15 | INFO     | Shell Scheduler | Job `calypso-8` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/8` is `finished`
+2025-10-16 09:48:15 | INFO     | Shell Scheduler | Job `calypso-9` is submitted into machine:local with job id `2443925`...
+2025-10-16 09:48:16 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/9` is `running`
+2025-10-16 09:48:22 | INFO     | Orchestrator | len(results)=8
+2025-10-16 09:48:26 | INFO     | Shell Scheduler | Job `calypso-9` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/9` is `finished`
+2025-10-16 09:48:32 | INFO     | Orchestrator | len(results)=9
+2025-10-16 09:48:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:33 | INFO     | Generator | random generated 10-th structures: Se3In2
+---------------------------------------------------------------------------------------------
+          You have searched 10 structures across 1 formulas.
+          Currently, the lowest energy structure has a value of -3.7521 eV (using EBH if available),
+          space group P3m1_156, located at /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/6
+---------------------------------------------------------------------------------------------
+
+Idx   Name          Formula         EBH(eV/atom)    Enthalpy(eV/atom)    Fitness         Volume(A^3/atom)     Density(g/cm^3)      SpaceGroup      MinDistance(A) 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1     caly_6        Se3In2          nan             -3.7521              -3.7521         56.8601              2.7250               P3m1_156        2.4920         
+2     caly_5        Se3In2          nan             -3.6526              -3.6526         71.0939              2.1794               P3m1_156        2.7087         
+3     caly_2        Se3In2          nan             -1.0913              -1.0913         376.5634             0.4115               P3m1_156        5.8592         
+
+2025-10-16 09:48:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:33 | INFO     | Generator | random generated 11-th structures: Se3In2
+2025-10-16 09:48:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:33 | INFO     | Generator | lpso generated 12-th structures: Se3In2
+2025-10-16 09:48:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:33 | INFO     | Generator | random generated 13-th structures: Se3In2
+2025-10-16 09:48:33 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:33 | INFO     | Generator | lpso generated 14-th structures: Se3In2
+2025-10-16 09:48:34 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:34 | INFO     | Generator | lpso generated 15-th structures: Se3In2
+2025-10-16 09:48:34 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:34 | INFO     | Generator | lpso generated 16-th structures: Se3In2
+2025-10-16 09:48:34 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:34 | INFO     | Generator | random generated 17-th structures: Se3In2
+2025-10-16 09:48:34 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:34 | INFO     | Generator | random generated 18-th structures: Se3In2
+2025-10-16 09:48:34 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:48:34 | INFO     | Generator | random generated 19-th structures: Se3In2
+2025-10-16 09:48:36 | INFO     | Shell Scheduler | Job `calypso-10` is submitted into machine:local with job id `2444030`...
+2025-10-16 09:48:36 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/10` is `running`
+2025-10-16 09:48:36 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/10` is `running`
+2025-10-16 09:48:43 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:48:46 | INFO     | Shell Scheduler | Job `calypso-10` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/10` is `finished`
+2025-10-16 09:48:46 | INFO     | Shell Scheduler | Job `calypso-11` is submitted into machine:local with job id `2444077`...
+2025-10-16 09:48:46 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/11` is `running`
+2025-10-16 09:48:46 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/11` is `running`
+2025-10-16 09:48:53 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:48:56 | INFO     | Shell Scheduler | Job `calypso-11` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/11` is `finished`
+2025-10-16 09:48:56 | INFO     | Shell Scheduler | Job `calypso-12` is submitted into machine:local with job id `2444130`...
+2025-10-16 09:48:56 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/12` is `running`
+2025-10-16 09:48:57 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/12` is `running`
+2025-10-16 09:49:03 | INFO     | Orchestrator | len(results)=1
+2025-10-16 09:49:07 | INFO     | Shell Scheduler | Job `calypso-12` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/12` is `finished`
+2025-10-16 09:49:07 | INFO     | Shell Scheduler | Job `calypso-13` is submitted into machine:local with job id `2444619`...
+2025-10-16 09:49:07 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/13` is `running`
+2025-10-16 09:49:07 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/13` is `running`
+2025-10-16 09:49:13 | INFO     | Orchestrator | len(results)=2
+2025-10-16 09:49:17 | INFO     | Shell Scheduler | Job `calypso-13` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/13` is `finished`
+2025-10-16 09:49:17 | INFO     | Shell Scheduler | Job `calypso-14` is submitted into machine:local with job id `2444668`...
+2025-10-16 09:49:17 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/14` is `running`
+2025-10-16 09:49:17 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/14` is `running`
+2025-10-16 09:49:23 | INFO     | Orchestrator | len(results)=3
+2025-10-16 09:49:27 | INFO     | Shell Scheduler | Job `calypso-14` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/14` is `finished`
+2025-10-16 09:49:27 | INFO     | Shell Scheduler | Job `calypso-15` is submitted into machine:local with job id `2444721`...
+2025-10-16 09:49:27 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/15` is `running`
+2025-10-16 09:49:27 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/15` is `running`
+2025-10-16 09:49:33 | INFO     | Orchestrator | len(results)=4
+2025-10-16 09:49:37 | INFO     | Shell Scheduler | Job `calypso-15` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/15` is `finished`
+2025-10-16 09:49:37 | INFO     | Shell Scheduler | Job `calypso-16` is submitted into machine:local with job id `2444872`...
+2025-10-16 09:49:38 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/16` is `running`
+2025-10-16 09:49:38 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/16` is `running`
+2025-10-16 09:49:43 | INFO     | Orchestrator | len(results)=5
+2025-10-16 09:49:48 | INFO     | Shell Scheduler | Job `calypso-16` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/16` is `finished`
+2025-10-16 09:49:48 | INFO     | Shell Scheduler | Job `calypso-17` is submitted into machine:local with job id `2444920`...
+2025-10-16 09:49:48 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/17` is `running`
+2025-10-16 09:49:48 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/17` is `running`
+2025-10-16 09:49:53 | INFO     | Orchestrator | len(results)=6
+2025-10-16 09:49:58 | INFO     | Shell Scheduler | Job `calypso-17` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/17` is `finished`
+2025-10-16 09:49:58 | INFO     | Shell Scheduler | Job `calypso-18` is submitted into machine:local with job id `2444967`...
+2025-10-16 09:49:58 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/18` is `running`
+2025-10-16 09:49:58 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/18` is `running`
+2025-10-16 09:50:03 | INFO     | Orchestrator | len(results)=7
+2025-10-16 09:50:08 | INFO     | Shell Scheduler | Job `calypso-18` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/18` is `finished`
+2025-10-16 09:50:08 | INFO     | Shell Scheduler | Job `calypso-19` is submitted into machine:local with job id `2445511`...
+2025-10-16 09:50:09 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/19` is `running`
+2025-10-16 09:50:13 | INFO     | Orchestrator | len(results)=8
+2025-10-16 09:50:19 | INFO     | Shell Scheduler | Job `calypso-19` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/19` is `finished`
+2025-10-16 09:50:23 | INFO     | Orchestrator | len(results)=9
+---------------------------------------------------------------------------------------------
+          You have searched 20 structures across 1 formulas.
+          Currently, the lowest energy structure has a value of -3.9653 eV (using EBH if available),
+          space group P3m1_156, located at /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/10
+---------------------------------------------------------------------------------------------
+
+Idx   Name          Formula         EBH(eV/atom)    Enthalpy(eV/atom)    Fitness         Volume(A^3/atom)     Density(g/cm^3)      SpaceGroup      MinDistance(A) 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1     caly_10       Se3In2          nan             -3.9653              -3.9653         63.2966              2.4479               P3m1_156        2.5535         
+2     caly_15       Se3In2          nan             -3.9507              -3.9507         63.6265              2.4352               P-3m1_164       2.6788         
+3     caly_17       Se3In2          nan             -3.9215              -3.9215         60.9582              2.5418               P3m1_156        2.6849         
+4     caly_6        Se3In2          nan             -3.7521              -3.7521         56.8601              2.7250               P3m1_156        2.4920         
+5     caly_5        Se3In2          nan             -3.6526              -3.6526         71.0939              2.1794               P3m1_156        2.7087         
+6     caly_2        Se3In2          nan             -1.0913              -1.0913         376.5634             0.4115               P3m1_156        5.8592         
+7     caly_13       Se3In2          nan             -1.0895              -1.0895         634.7497             0.2441               P3m1_156        5.9341         
+
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:24 | INFO     | Generator | lpso generated 20-th structures: Se3In2
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:24 | INFO     | Generator | random generated 21-th structures: Se3In2
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:24 | INFO     | Generator | random generated 22-th structures: Se3In2
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:24 | INFO     | Generator | random generated 23-th structures: Se3In2
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:24 | INFO     | Generator | lpso generated 24-th structures: Se3In2
+2025-10-16 09:50:24 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:25 | INFO     | Generator | lpso generated 25-th structures: Se3In2
+2025-10-16 09:50:25 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:25 | INFO     | Generator | random generated 26-th structures: Se3In2
+2025-10-16 09:50:25 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:25 | INFO     | Generator | lpso generated 27-th structures: Se3In2
+2025-10-16 09:50:25 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:25 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:25 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:25 | INFO     | Generator | random generated 28-th structures: Se3In2
+2025-10-16 09:50:25 | INFO     | LayerGenerator | Try to generate structure with In2Se3 in group 69 with random method
+2025-10-16 09:50:26 | INFO     | Generator | random generated 29-th structures: Se3In2
+2025-10-16 09:50:29 | INFO     | Shell Scheduler | Job `calypso-20` is submitted into machine:local with job id `2445693`...
+2025-10-16 09:50:29 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/20` is `running`
+2025-10-16 09:50:29 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/20` is `running`
+2025-10-16 09:50:33 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:50:39 | INFO     | Shell Scheduler | Job `calypso-20` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/20` is `finished`
+2025-10-16 09:50:39 | INFO     | Shell Scheduler | Job `calypso-21` is submitted into machine:local with job id `2445740`...
+2025-10-16 09:50:39 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/21` is `running`
+2025-10-16 09:50:39 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/21` is `running`
+2025-10-16 09:50:43 | INFO     | Orchestrator | len(results)=0
+2025-10-16 09:50:49 | INFO     | Shell Scheduler | Job `calypso-21` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/21` is `finished`
+2025-10-16 09:50:49 | INFO     | Shell Scheduler | Job `calypso-22` is submitted into machine:local with job id `2445787`...
+2025-10-16 09:50:49 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/22` is `running`
+2025-10-16 09:50:50 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/22` is `running`
+2025-10-16 09:50:53 | INFO     | Orchestrator | len(results)=1
+2025-10-16 09:51:00 | INFO     | Shell Scheduler | Job `calypso-22` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/22` is `finished`
+2025-10-16 09:51:00 | INFO     | Shell Scheduler | Job `calypso-23` is submitted into machine:local with job id `2445835`...
+2025-10-16 09:51:00 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/23` is `running`
+2025-10-16 09:51:00 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/23` is `running`
+2025-10-16 09:51:03 | INFO     | Orchestrator | len(results)=2
+2025-10-16 09:51:10 | INFO     | Shell Scheduler | Job `calypso-23` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/23` is `finished`
+2025-10-16 09:51:10 | INFO     | Shell Scheduler | Job `calypso-24` is submitted into machine:local with job id `2446268`...
+2025-10-16 09:51:10 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/24` is `running`
+2025-10-16 09:51:10 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/24` is `running`
+2025-10-16 09:51:13 | INFO     | Orchestrator | len(results)=3
+2025-10-16 09:51:20 | INFO     | Shell Scheduler | Job `calypso-24` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/24` is `finished`
+2025-10-16 09:51:20 | INFO     | Shell Scheduler | Job `calypso-25` is submitted into machine:local with job id `2446375`...
+2025-10-16 09:51:20 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/25` is `running`
+2025-10-16 09:51:21 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/25` is `running`
+2025-10-16 09:51:23 | INFO     | Orchestrator | len(results)=4
+2025-10-16 09:51:31 | INFO     | Shell Scheduler | Job `calypso-25` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/25` is `finished`
+2025-10-16 09:51:31 | INFO     | Shell Scheduler | Job `calypso-26` is submitted into machine:local with job id `2446472`...
+2025-10-16 09:51:31 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/26` is `running`
+2025-10-16 09:51:31 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/26` is `running`
+2025-10-16 09:51:33 | INFO     | Orchestrator | len(results)=5
+2025-10-16 09:51:41 | INFO     | Shell Scheduler | Job `calypso-26` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/26` is `finished`
+2025-10-16 09:51:41 | INFO     | Shell Scheduler | Job `calypso-27` is submitted into machine:local with job id `2446580`...
+2025-10-16 09:51:41 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/27` is `running`
+2025-10-16 09:51:41 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/27` is `running`
+2025-10-16 09:51:43 | INFO     | Orchestrator | len(results)=6
+2025-10-16 09:51:51 | INFO     | Shell Scheduler | Job `calypso-27` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/27` is `finished`
+2025-10-16 09:51:51 | INFO     | Shell Scheduler | Job `calypso-28` is submitted into machine:local with job id `2446633`...
+2025-10-16 09:51:51 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/28` is `running`
+2025-10-16 09:51:52 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/28` is `running`
+2025-10-16 09:51:53 | INFO     | Orchestrator | len(results)=7
+2025-10-16 09:52:02 | INFO     | Shell Scheduler | Job `calypso-28` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/28` is `finished`
+2025-10-16 09:52:02 | INFO     | Shell Scheduler | Job `calypso-29` is submitted into machine:local with job id `2447190`...
+2025-10-16 09:52:02 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/29` is `running`
+2025-10-16 09:52:03 | INFO     | Orchestrator | len(results)=8
+2025-10-16 09:52:12 | INFO     | Shell Scheduler | Job `calypso-29` in `machine:local : /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/29` is `finished`
+2025-10-16 09:52:13 | INFO     | Orchestrator | len(results)=9
+---------------------------------------------------------------------------------------------
+          You have searched 30 structures across 1 formulas.
+          Currently, the lowest energy structure has a value of -3.9653 eV (using EBH if available),
+          space group P3m1_156, located at /public/home/mzq001/temp_xinyu_2025/demo/layer_single_layer_In2Se3/reference/results/opt_task/10
+---------------------------------------------------------------------------------------------
+
+Idx   Name          Formula         EBH(eV/atom)    Enthalpy(eV/atom)    Fitness         Volume(A^3/atom)     Density(g/cm^3)      SpaceGroup      MinDistance(A) 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1     caly_10       Se3In2          nan             -3.9653              -3.9653         63.2966              2.4479               P3m1_156        2.5535         
+2     caly_15       Se3In2          nan             -3.9507              -3.9507         63.6265              2.4352               P-3m1_164       2.6788         
+3     caly_17       Se3In2          nan             -3.9215              -3.9215         60.9582              2.5418               P3m1_156        2.6849         
+4     caly_6        Se3In2          nan             -3.7521              -3.7521         56.8601              2.7250               P3m1_156        2.4920         
+5     caly_5        Se3In2          nan             -3.6526              -3.6526         71.0939              2.1794               P3m1_156        2.7087         
+6     caly_2        Se3In2          nan             -1.0913              -1.0913         376.5634             0.4115               P3m1_156        5.8592         
+7     caly_13       Se3In2          nan             -1.0895              -1.0895         634.7497             0.2441               P3m1_156        5.9341         
+
+2025-10-16 09:52:22 | INFO     | root     | CALYPSO DONE!

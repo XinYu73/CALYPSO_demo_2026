@@ -1,0 +1,68 @@
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['rotations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/spglib/spglib.py:115: DeprecationWarning: dict interface (SpglibDataset['translations']) is deprecated.Use attribute interface ({self.__class__.__name__}.{key}) instead
+  warnings.warn(
+/public/home/mzq001/temp_xinyu_2025/demo/layer_double_layer_CrI3/reference/results/opt_task/6/calypso_run_mlp.py:243: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[1, 1, 1], [1, 1, 1], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Layer Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 16:33:19      -34.660506        5.190283
+FIRE:    1 16:33:19      -36.419109        4.512321
+FIRE:    2 16:33:19      -38.483111        3.996089
+FIRE:    3 16:33:19      -40.209417        3.583863
+FIRE:    4 16:33:19      -41.606606        3.113379
+FIRE:    5 16:33:20      -42.718639        3.052000
+FIRE:    6 16:33:20      -43.533441        2.813454
+FIRE:    7 16:33:20      -44.135540        2.800995
+FIRE:    8 16:33:20      -44.661423        2.837774
+FIRE:    9 16:33:20      -45.193286        2.848656
+FIRE:   10 16:33:20      -45.825554        2.797463
+FIRE:   11 16:33:20      -46.573069        2.661921
+FIRE:   12 16:33:20      -47.368614        2.527346
+FIRE:   13 16:33:20      -48.140231        2.491512
+FIRE:   14 16:33:20      -48.859736        2.264131
+FIRE:   15 16:33:20      -49.474045        2.028448
+FIRE:   16 16:33:20      -50.034080        1.825328
+FIRE:   17 16:33:20      -50.516217        1.785490
+FIRE:   18 16:33:20      -51.009361        1.692695
+FIRE:   19 16:33:20      -51.486107        1.591138
+FIRE:   20 16:33:20      -51.953598        1.460991
+FIRE:   21 16:33:20      -52.401491        1.251846
+FIRE:   22 16:33:20      -52.824387        1.204244
+FIRE:   23 16:33:20      -53.262424        1.031544
+FIRE:   24 16:33:20      -53.667331        0.825627
+FIRE:   25 16:33:20      -53.964087        0.584698
+FIRE:   26 16:33:20      -54.147636        0.419915
+FIRE:   27 16:33:20      -54.283902        0.527337
+FIRE:   28 16:33:20      -54.407381        0.577525
+FIRE:   29 16:33:20      -54.504001        0.564211
+FIRE:   30 16:33:20      -54.579923        0.524775
+FIRE:   31 16:33:20      -54.673250        0.493311
+FIRE:   32 16:33:20      -54.800436        0.398621
+FIRE:   33 16:33:20      -54.906196        0.262332
+FIRE:   34 16:33:20      -54.940608        0.149219
+FIRE:   35 16:33:20      -54.909236        0.378346
+FIRE:   36 16:33:20      -54.957483        0.047810
+FIRE:   37 16:33:20      -54.957978        0.052584
+FIRE:   38 16:33:20      -54.958613        0.062966
+FIRE:   39 16:33:20      -54.959121        0.072652
+FIRE:   40 16:33:20      -54.959585        0.078183
+FIRE:   41 16:33:20      -54.960242        0.078976
+FIRE:   42 16:33:20      -54.961180        0.075354
+FIRE:   43 16:33:20      -54.962311        0.067745
+FIRE:   44 16:33:20      -54.963523        0.055810
+FIRE:   45 16:33:20      -54.964733        0.043700
+FIRE:   46 16:33:20      -54.966264        0.039404
+FIRE:   47 16:33:20      -54.968151        0.044979
+FIRE:   48 16:33:20      -54.969866        0.049269
+FIRE:   49 16:33:20      -54.971569        0.038200
+FIRE:   50 16:33:20      -54.972839        0.011677
+FIRE:   51 16:33:20      -54.973119        0.012981
+FIRE:   52 16:33:20      -54.973149        0.009313
+opt done! cost  1.1559228897094727  seconds.

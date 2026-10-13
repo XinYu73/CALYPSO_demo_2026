@@ -1,0 +1,27 @@
+/public/home/mzq001/temp_xinyu_2025/demo/cluster_normal_CH4/reference/results/opt_task/4/calypso_run_mlp.py:233: FutureWarning: Import UnitCellFilter from ase.filters
+  ucf = UnitCellFilter(atoms, scalar_pressure=aim_stress,mask=[[0, 0, 0], [0, 0, 0], [0, 0, 0]])
+/public/home/lvjian/software/anaconda3/envs/chgnet/lib/python3.11/site-packages/pymatgen/io/ase.py:267: UserWarning: Only FixAtoms is supported by Pymatgen. Other constraints will not be set.
+  warnings.warn(
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cpu
+CHGNet will run on cpu
+Optimization Running with fix Point Group
+Start to Optimize Structures using  chgnet@0.3.0
+      Step     Time          Energy          fmax
+FIRE:    0 20:03:06      -21.085959        2.534356
+FIRE:    1 20:03:06      -21.341965        2.475482
+FIRE:    2 20:03:06      -21.813303        2.316827
+FIRE:    3 20:03:06      -22.399464        1.772188
+FIRE:    4 20:03:06      -22.889284        1.670722
+FIRE:    5 20:03:06      -23.219853        2.335207
+FIRE:    6 20:03:06      -23.602909        1.565866
+FIRE:    7 20:03:06      -23.759442        0.185727
+FIRE:    8 20:03:06      -23.759783        0.179637
+FIRE:    9 20:03:06      -23.760416        0.168501
+FIRE:   10 20:03:06      -23.761271        0.154513
+FIRE:   11 20:03:06      -23.762266        0.140854
+FIRE:   12 20:03:06      -23.763325        0.127152
+FIRE:   13 20:03:06      -23.764336        0.110399
+FIRE:   14 20:03:06      -23.765251        0.101073
+FIRE:   15 20:03:06      -23.766186        0.095273
+opt done! cost  0.278550386428833  seconds.

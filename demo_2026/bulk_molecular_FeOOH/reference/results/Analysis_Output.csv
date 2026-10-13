@@ -1,0 +1,5 @@
+ idx   caly_name      formula       enth_per_atom      fitness      volume_per_atom   density   min_dis  spg(0.1)  spgnum(0.1) natom(0.1)
+  0    caly_25        H4O8Fe4          -6.906          -6.906            9.021         4.089     1.036  Pnma           62         16    
+  1    caly_28        H4O8Fe4          -6.803          -6.803           11.135         3.312     0.986  Pnma           62         16    
+  2    caly_17        H4O8Fe4          -6.764          -6.764           12.094         3.050     0.985  Pnma           62         16    
+  3    caly_12        H4O8Fe4          -6.410          -6.410           13.043         2.828     0.983  Pnma           62         16    

@@ -1,0 +1,1802 @@
+{
+    "calypso-0": {
+        "name": "calypso-0",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2392691,
+        "status": "finished",
+        "local_work_dir": "0",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "0",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0/calypso-0.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/0/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-1": {
+        "name": "calypso-1",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393216,
+        "status": "finished",
+        "local_work_dir": "1",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "1",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1/calypso-1.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/1/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-2": {
+        "name": "calypso-2",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393302,
+        "status": "finished",
+        "local_work_dir": "2",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "2",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/2/calypso-2.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/2/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-3": {
+        "name": "calypso-3",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393349,
+        "status": "finished",
+        "local_work_dir": "3",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "3",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3/calypso-3.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/3/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-4": {
+        "name": "calypso-4",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393435,
+        "status": "finished",
+        "local_work_dir": "4",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "4",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4/calypso-4.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/4/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-5": {
+        "name": "calypso-5",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393860,
+        "status": "finished",
+        "local_work_dir": "5",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "5",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5/calypso-5.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/5/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-6": {
+        "name": "calypso-6",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393946,
+        "status": "finished",
+        "local_work_dir": "6",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "6",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/6/calypso-6.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/6/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-7": {
+        "name": "calypso-7",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2393995,
+        "status": "finished",
+        "local_work_dir": "7",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "7",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7/calypso-7.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/7/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-8": {
+        "name": "calypso-8",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2394572,
+        "status": "finished",
+        "local_work_dir": "8",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "8",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/8/calypso-8.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/8/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-9": {
+        "name": "calypso-9",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2394619,
+        "status": "finished",
+        "local_work_dir": "9",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "9",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9/calypso-9.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/9/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-10": {
+        "name": "calypso-10",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2394707,
+        "status": "finished",
+        "local_work_dir": "10",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "10",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10/calypso-10.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/10/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-11": {
+        "name": "calypso-11",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2394794,
+        "status": "finished",
+        "local_work_dir": "11",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "11",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11/calypso-11.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/11/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-12": {
+        "name": "calypso-12",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2395228,
+        "status": "finished",
+        "local_work_dir": "12",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "12",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/12/calypso-12.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/12/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-13": {
+        "name": "calypso-13",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2395275,
+        "status": "finished",
+        "local_work_dir": "13",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "13",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13/calypso-13.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/13/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-14": {
+        "name": "calypso-14",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2395361,
+        "status": "finished",
+        "local_work_dir": "14",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "14",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14/calypso-14.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/14/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-15": {
+        "name": "calypso-15",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2395940,
+        "status": "finished",
+        "local_work_dir": "15",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "15",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15/calypso-15.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/15/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-16": {
+        "name": "calypso-16",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2396027,
+        "status": "finished",
+        "local_work_dir": "16",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "16",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16/calypso-16.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/16/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-17": {
+        "name": "calypso-17",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2396113,
+        "status": "finished",
+        "local_work_dir": "17",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "17",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17/calypso-17.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/17/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-18": {
+        "name": "calypso-18",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2396536,
+        "status": "finished",
+        "local_work_dir": "18",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "18",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18/calypso-18.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/18/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-19": {
+        "name": "calypso-19",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2396622,
+        "status": "finished",
+        "local_work_dir": "19",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "19",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/19/calypso-19.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/19/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-20": {
+        "name": "calypso-20",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2396669,
+        "status": "finished",
+        "local_work_dir": "20",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "20",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20/calypso-20.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/20/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-21": {
+        "name": "calypso-21",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2397252,
+        "status": "finished",
+        "local_work_dir": "21",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "21",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21/calypso-21.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/21/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-22": {
+        "name": "calypso-22",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2397338,
+        "status": "finished",
+        "local_work_dir": "22",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "22",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22/calypso-22.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/22/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-23": {
+        "name": "calypso-23",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2397431,
+        "status": "finished",
+        "local_work_dir": "23",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "23",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23/calypso-23.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/23/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-24": {
+        "name": "calypso-24",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2397866,
+        "status": "finished",
+        "local_work_dir": "24",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "24",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24/calypso-24.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/24/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-25": {
+        "name": "calypso-25",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2397952,
+        "status": "finished",
+        "local_work_dir": "25",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "25",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25/calypso-25.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/25/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-26": {
+        "name": "calypso-26",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2398039,
+        "status": "finished",
+        "local_work_dir": "26",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "26",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26/calypso-26.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/26/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-27": {
+        "name": "calypso-27",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2398617,
+        "status": "finished",
+        "local_work_dir": "27",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "27",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27/calypso-27.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/27/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-28": {
+        "name": "calypso-28",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2398703,
+        "status": "finished",
+        "local_work_dir": "28",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "28",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28/calypso-28.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/28/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-29": {
+        "name": "calypso-29",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2398789,
+        "status": "finished",
+        "local_work_dir": "29",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "29",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/29/calypso-29.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/29/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "Y"
+    },
+    "calypso-30": {
+        "name": "calypso-30",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2399235,
+        "status": "finished",
+        "local_work_dir": "30",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "30",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/30/calypso-30.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/30/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-31": {
+        "name": "calypso-31",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2399282,
+        "status": "finished",
+        "local_work_dir": "31",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "31",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31/calypso-31.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/31/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-32": {
+        "name": "calypso-32",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2399369,
+        "status": "finished",
+        "local_work_dir": "32",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "32",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32/calypso-32.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/32/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-33": {
+        "name": "calypso-33",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2399949,
+        "status": "finished",
+        "local_work_dir": "33",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "33",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33/calypso-33.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/33/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-34": {
+        "name": "calypso-34",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2400035,
+        "status": "finished",
+        "local_work_dir": "34",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "34",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34/calypso-34.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/34/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-35": {
+        "name": "calypso-35",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2400122,
+        "status": "finished",
+        "local_work_dir": "35",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "35",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35/calypso-35.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/35/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-36": {
+        "name": "calypso-36",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2400547,
+        "status": "finished",
+        "local_work_dir": "36",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "36",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36/calypso-36.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/36/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-37": {
+        "name": "calypso-37",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2400646,
+        "status": "finished",
+        "local_work_dir": "37",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "37",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37/calypso-37.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/37/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-38": {
+        "name": "calypso-38",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2400732,
+        "status": "finished",
+        "local_work_dir": "38",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "38",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38/calypso-38.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/38/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-39": {
+        "name": "calypso-39",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2401310,
+        "status": "finished",
+        "local_work_dir": "39",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "39",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39/calypso-39.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/39/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-40": {
+        "name": "calypso-40",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2401397,
+        "status": "finished",
+        "local_work_dir": "40",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "40",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40/calypso-40.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/40/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-41": {
+        "name": "calypso-41",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2401723,
+        "status": "finished",
+        "local_work_dir": "41",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "41",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/41/calypso-41.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/41/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-42": {
+        "name": "calypso-42",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2401866,
+        "status": "finished",
+        "local_work_dir": "42",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "42",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42/calypso-42.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/42/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-43": {
+        "name": "calypso-43",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2401953,
+        "status": "finished",
+        "local_work_dir": "43",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "43",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43/calypso-43.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/43/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-44": {
+        "name": "calypso-44",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2402039,
+        "status": "finished",
+        "local_work_dir": "44",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "44",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44/calypso-44.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/44/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-45": {
+        "name": "calypso-45",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2402616,
+        "status": "finished",
+        "local_work_dir": "45",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "45",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45/calypso-45.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/45/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-46": {
+        "name": "calypso-46",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2402703,
+        "status": "finished",
+        "local_work_dir": "46",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "46",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46/calypso-46.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/46/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-47": {
+        "name": "calypso-47",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2402789,
+        "status": "finished",
+        "local_work_dir": "47",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "47",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/47/calypso-47.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/47/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-48": {
+        "name": "calypso-48",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2403172,
+        "status": "finished",
+        "local_work_dir": "48",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "48",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48/calypso-48.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/48/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-49": {
+        "name": "calypso-49",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2403258,
+        "status": "finished",
+        "local_work_dir": "49",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "49",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/49/calypso-49.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/49/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-50": {
+        "name": "calypso-50",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2403318,
+        "status": "finished",
+        "local_work_dir": "50",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "50",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50/calypso-50.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/50/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-51": {
+        "name": "calypso-51",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2403408,
+        "status": "finished",
+        "local_work_dir": "51",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "51",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/51/calypso-51.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/51/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 1,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-52": {
+        "name": "calypso-52",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2403948,
+        "status": "finished",
+        "local_work_dir": "52",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "52",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52/calypso-52.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/52/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-53": {
+        "name": "calypso-53",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2404034,
+        "status": "finished",
+        "local_work_dir": "53",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "53",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53/calypso-53.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/53/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-54": {
+        "name": "calypso-54",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2404120,
+        "status": "finished",
+        "local_work_dir": "54",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "54",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54/calypso-54.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/54/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-55": {
+        "name": "calypso-55",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": 2404542,
+        "status": "running",
+        "local_work_dir": "55",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": "df13dd2c",
+        "machine_name": "local",
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "55",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/55/calypso-55.sh",
+        "remote_log_file": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task/55/submit.log",
+        "command": "bash run_flow.sh  \" /public/home/lvjian/software/anaconda3/envs/chgnet/bin/python \" ",
+        "retry": 0,
+        "max_retry": 5,
+        "comment": "N"
+    },
+    "calypso-56": {
+        "name": "calypso-56",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": null,
+        "status": "unsubmitted",
+        "local_work_dir": "56",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": null,
+        "machine_name": null,
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "56",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "",
+        "remote_log_file": "",
+        "command": "bash run_flow.sh ",
+        "retry": 0,
+        "max_retry": 3,
+        "comment": "N"
+    },
+    "calypso-57": {
+        "name": "calypso-57",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": null,
+        "status": "unsubmitted",
+        "local_work_dir": "57",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": null,
+        "machine_name": null,
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "57",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "",
+        "remote_log_file": "",
+        "command": "bash run_flow.sh ",
+        "retry": 0,
+        "max_retry": 3,
+        "comment": "N"
+    },
+    "calypso-58": {
+        "name": "calypso-58",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": null,
+        "status": "unsubmitted",
+        "local_work_dir": "58",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": null,
+        "machine_name": null,
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "58",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "",
+        "remote_log_file": "",
+        "command": "bash run_flow.sh ",
+        "retry": 0,
+        "max_retry": 3,
+        "comment": "N"
+    },
+    "calypso-59": {
+        "name": "calypso-59",
+        "submit_batch": "run_2025-10-16_08-33-33_134c176e",
+        "job_id": null,
+        "status": "unsubmitted",
+        "local_work_dir": "59",
+        "local_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "upload_files": [
+            "calypso_run_mlp.py",
+            "run_flow.sh",
+            "caly_ini.xyz",
+            "calypso_check_mlp.py"
+        ],
+        "upload_share_files": [],
+        "machine_id": null,
+        "machine_name": null,
+        "remote_root": "/public/home/mzq001/temp_xinyu_2025/demo/bulk_molecular_FeOOH/reference/results/opt_task",
+        "remote_work_dir": "59",
+        "download_files": [
+            "caly_opt.pkl",
+            "caly_opt.xyz",
+            "traj.traj"
+        ],
+        "remote_running_script": "",
+        "remote_log_file": "",
+        "command": "bash run_flow.sh ",
+        "retry": 0,
+        "max_retry": 3,
+        "comment": "N"
+    }
+}
